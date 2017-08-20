@@ -6,12 +6,9 @@ img {
   border-bottom: 4px solid theme-color("primary");
 }
 
-img.border {
-  border: 2px solid $gray-600 !important;
-}
-
 .jumbotron {
   background-size: cover;
+  background-position: center;
 
   .btn-outline-light {
     &:hover {
@@ -27,16 +24,16 @@ img.border {
 
 // TODO: remove this once merged into beta
 .position-relative {
-    position: relative;
+  position: relative;
 }
 
-.card-img-overlay {
+a.show-on-hover {
+  text-decoration: none;
   transition: all 0.3s;
-  &.text-white {
-    background-color: rgba(0,0,0,.2);
-    &:hover  {
-        background-color: rgba(theme-color("primary"),.5);
-    }
+  opacity: 0;
+  &:hover {
+    opacity: 1;
+    background-color: rgba(theme-color("primary"),.5);
   }
 }
 
@@ -52,7 +49,7 @@ img.border {
 
   li {
     display: inline-block;
-    margin: 0 5px;
+    margin-left: 5px;
   }
 
   .fa {
