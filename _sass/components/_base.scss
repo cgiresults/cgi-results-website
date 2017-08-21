@@ -1,0 +1,64 @@
+img {
+  max-width: 100%;
+}
+
+.navbar {
+  border-bottom: 4px solid theme-color("primary");
+}
+
+.jumbotron {
+  background-size: cover;
+  background-position: center;
+
+  .btn-outline-light {
+    &:hover {
+      background-color: theme-color("primary");
+    }
+  }
+}
+
+.jumbotron-overlay {
+  padding: 20px 0;
+  min-height: 500px;
+}
+
+// TODO: remove this once merged into beta
+.position-relative {
+  position: relative;
+}
+
+a.show-on-hover {
+  text-decoration: none;
+  transition: all 0.3s;
+  opacity: 0;
+  &:hover {
+    opacity: 1;
+    background-color: rgba(theme-color("primary"),.5);
+  }
+}
+
+.site-footer {
+  border-top: 2px solid $gray-500;
+  background-color: $gray-900;
+  font-size: 12px;
+}
+
+.social-media-list {
+  padding-left: 0;
+  list-style-type: none;
+
+  li {
+    display: inline-block;
+    margin-left: 5px;
+  }
+
+  .fa {
+    font-size: 34px;
+    color: $gray-600;
+    transition: color 0.3s;
+
+    &:hover {
+      color: $white;
+    }
+  }
+}
