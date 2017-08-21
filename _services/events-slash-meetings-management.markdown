@@ -1,6 +1,7 @@
 ---
 title: Events/Meetings Management
 date: 2017-08-21 03:11:00 Z
+Image: "/uploads/breather-168761.jpg"
 Short Description: Development, marketing, production, sponsorship / exhibition sales,
   tradeshow coordination.
 ---
