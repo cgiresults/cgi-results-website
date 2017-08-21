@@ -1,6 +1,11 @@
 ---
 title: Home
-Hero Image: 
+Hero:
+  Image: 
+  Title: 
+  Description: 
+  Button Label: 
+  Button Url: 
 layout: home
 ---
 
