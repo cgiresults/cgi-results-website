@@ -25,3 +25,12 @@ markdown: kramdown
 plugins:
 - jekyll-feed
 - bootstrap
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "services"
+    values:
+      Image: ""
+      Short Description: ""
