@@ -32,5 +32,3 @@ markdown: kramdown
 plugins:
 - jekyll-feed
 - bootstrap
-sass:
-  sass_dir: _sass
