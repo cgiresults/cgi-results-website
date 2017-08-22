@@ -33,4 +33,4 @@ plugins:
 - jekyll-feed
 - bootstrap
 sass:
-  sass_dir: "./_sass"
+  sass_dir: _sass
