@@ -24,8 +24,8 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl: 
-url: 
+baseurl:
+url:
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
@@ -33,4 +33,4 @@ plugins:
 - jekyll-feed
 - bootstrap
 sass:
-  sass_dir: "./_sass"
+    sass_dir: _sass
