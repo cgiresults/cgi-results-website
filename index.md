@@ -1,7 +1,7 @@
 ---
 title: Home
 Hero:
-  Image: "/uploads/rawpixel-com-191102.jpg"
+  Image: "/uploads/client-results-focus.jpg"
   Title: Client results are our focus
   Description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
