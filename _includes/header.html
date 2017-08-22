@@ -1,11 +1,10 @@
 <header class="site-header" role="banner" style="position: relative">
 
-  {% assign default_paths = site.pages | map: "path" %}
-  {% assign page_paths = site.header_pages | default: default_paths %}
+  {% assign default_paths = site.pages | map: "path" -%}
+  {% assign page_paths = site.header_pages | default: default_paths -%}
 
   <nav class="navbar navbar-expand-lg navbar-light bg-faded d-flex sticky-top">
     <div class="container">
-      <!-- <a class="site-title navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> -->
       <a class="site-title navbar-brand" href="{{ "/" | relative_url }}">
         <img src="/assets/img/cgi-results.jpg" width="137" alt="{{ site.title | escape }}">
       </a>
@@ -29,13 +28,13 @@
           <li class="nav-item ml-3">
               <a class="btn btn-primary text-white text-uppercase" href="#"><i class="fa fa-phone mr-2" aria-hidden="true"></i>Contact Us</a>
           </li>
-          {% for my_page in page_paths %}
-            {% if my_page.title %}
+          {% for my_page in page_paths -%}
+            {% if my_page.title -%}
             <li class="nav-item">
               <a class="nav-link" href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a>
             </li>
-            {% endif %}
-          {% endfor %}
+            {% endif -%}
+          {% endfor -%}
         </ul>
       </div>
     </div>
