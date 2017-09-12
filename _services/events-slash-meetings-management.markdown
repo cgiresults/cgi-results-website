@@ -6,4 +6,4 @@ Short Description: Development, marketing, production, sponsorship / exhibition 
   tradeshow coordination.
 ---
 
-Development, marketing, production, sponsorship / exhibition sales, tradeshow coordination.
+Events are complex. The best events create a memorable experience and make participants want to come back. CGi can build and event from scratch, or evolve your existing event to a new level. Let us realize your vision.
