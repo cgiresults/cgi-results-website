@@ -6,4 +6,4 @@ Short Description: Membership growth, chapter development, fundraising and grant
   marketing and communications, industry surveys and analytics.
 ---
 
-Membership growth, chapter development, fundraising and grants, marketing and communications, industry surveys and analytics.
+Members are the reason an association exists. Let CGi create a solid infrastructure and drive your membership growth
