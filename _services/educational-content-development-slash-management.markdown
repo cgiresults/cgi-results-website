@@ -6,4 +6,4 @@ Short Description: Creation of educational content and scalable delivery systems
   continuing education coordination.
 ---
 
-Creation of educational content and scalable delivery systems, continuing education coordination.
+Compelling content is powerful, whether you are producing an event or providing content to members. CGi has proven expertise in convening subject matter experts (SMEs) to product and deliver powerful content.
