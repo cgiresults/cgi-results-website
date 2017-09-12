@@ -5,7 +5,7 @@ Hero:
   Title: Client results are our focus
   Description: CGi is a full-service association and events management company. We
     have a uniquely talented team and proven results in association growth and revenue
-    diversification
+    diversification.
   Button Label: Learn how we help
   Button Url: "#"
 layout: home
