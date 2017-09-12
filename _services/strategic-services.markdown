@@ -6,4 +6,4 @@ Short Description: Strategic planning, accounting, public policy / adocacy, cert
   development and management.
 ---
 
-Strategic planning, accounting, public policy / adocacy, certification development and management.
+Strategic planning is about the future and how your organization will make its impact. CGi will help you realize your vision.
