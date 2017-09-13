@@ -2,9 +2,9 @@
 title: Educational Content Development / Management
 date: 2017-08-21 03:14:00 Z
 Image: "/uploads/educational-content-development.jpg"
-Short Description: Compelling content is powerful, whether you are producing an event
-  or providing content to members. CGi has proven expertise in convening subject matter
-  experts (SMEs) to product and deliver powerful content.
+Short Description: Compelling content is powerful. From events to online education,
+  CGi has proven expertise in developing and delivering meaningful content via multiple
+  channels.
 ---
 
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
