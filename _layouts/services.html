@@ -17,7 +17,7 @@ layout: page
       </div>
       <div class="col-lg-7 p-3">
         <h4 class="font-weight-bold text-uppercase">{{service.title}}</h4>
-        {{service['Short Description']}}
+        {{service['Short Description'] | markdownify}}
         <p><a class="btn btn-primary mt-4" href="{{service.url}}">Learn more</a></p>
       </div>
     </div>

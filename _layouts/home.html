@@ -51,7 +51,7 @@ layout: default
             </div>
             <div class="col-lg-7 p-3">
               <h6 class="font-weight-bold text-uppercase">{{site.services[i].title}}</h6>
-              {{site.services[i]['Short Description']}}
+              {{site.services[i]['Short Description'] | markdownify}}
             </div>
           </div>
         </div><!-- /.card -->
