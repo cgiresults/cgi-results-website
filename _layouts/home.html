@@ -27,7 +27,7 @@ layout: default
           <h4 class="font-weight-normal">{{site.services[i].title}}</h4>
           <div class="card mt-1 mb-3">
             <img class="card-img" src="{{site.services[i].Image}}" alt="card image">
-            <a class="card-img-overlay show-on-hover d-flex text-white" href="#">
+            <a class="card-img-overlay show-on-hover d-flex text-white" href="{{site.services[i].url}}">
               <span class="card-title m-auto">Learn more</span>
             </a>
           </div>
@@ -44,7 +44,7 @@ layout: default
             <div class="col-lg-5 py-lg-3 pl-lg-3">
               <div class="position-relative">
                 <img class="card-img w-100" src="{{site.services[i].Image}}" alt="{{site.services[i].title}}">
-                <a class="card-img-overlay show-on-hover d-flex text-white" href="#">
+                <a class="card-img-overlay show-on-hover d-flex text-white" href="{{site.services[i].url}}">
                   <span class="card-title m-auto">Learn more</span>
                 </a>
               </div>
