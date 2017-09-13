@@ -8,6 +8,7 @@ collections:
   services:
     title: Services
     output: true
+    permalink: /:collection/:title
   uploads:
     title: Uploads
     output: true
@@ -22,8 +23,8 @@ defaults:
 email: your-email@example.com
 description: CGi is a full-service association and events management company. We have
   a uniquely talented team and proven results in association growth and revenue diversification.
-baseurl: 
-url: 
+baseurl:
+url:
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
