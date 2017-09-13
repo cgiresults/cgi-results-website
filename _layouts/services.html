@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% for service in site.services %}
+  <div class="card mt-4 mb-4">
+    <div class="row no-gutters">
+      <div class="col-lg-5 py-lg-3 pl-lg-3">
+        <div class="position-relative">
+          <img class="card-img w-100" src="{{service.Image}}" alt="{{service.title}}">
+          <a class="card-img-overlay show-on-hover d-flex text-white" href="{{service.url}}">
+            <span class="card-title m-auto">Learn more</span>
+          </a>
+        </div>
+      </div>
+      <div class="col-lg-7 p-3">
+        <h4 class="font-weight-bold text-uppercase">{{service.title}}</h4>
+        {{service['Short Description']}}
+        <p><a class="btn btn-primary mt-4" href="{{service.url}}">Learn more</a></p>
+      </div>
+    </div>
+  </div><!-- /.card -->
+{% endfor %}
+
+</div><!-- /.card-deck -->
