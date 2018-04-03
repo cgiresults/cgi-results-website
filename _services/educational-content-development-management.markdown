@@ -2,9 +2,26 @@
 title: Educational Content Development / Management
 date: 2017-08-21 03:14:00 Z
 Image: "/uploads/educational-content-development.jpg"
-Short Description: Compelling content is powerful. From events to online education,
-  CGi has proven expertise in developing and delivering meaningful content via multiple
-  channels.
+Short Description: Compelling content makes an impact. From events to online education, CGi has proven expertise in
+developing and delivering meaningful content via multiple channels.
 ---
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+Content that educates, inspires and captivates - that is the goal. Striking the correct balance of each
+element can be difficult, but when achieved the content is powerful...and valuable intellectual property.
+
+>>> Content is King.
+- Bill Gates
+
+CGi has over 20-years of experience in convening subject matter experts to produce educational content
+for a variety of media: live events, articles, educational videos, webinars and research publications.
+One of our most recent success stories: For an association client CGi created an educational curriculum
+and learning management system that is currently in use at over 1,000 US hospitals. [Read our case
+study.]
+
+>>> You need to create ridiculously good content – content that is useful, enjoyable and inspired.
+- Ann Handley
+
+For many professionals, educational content needs to include continuing education (CE) coverage. This
+brings a myriad of new requirements to the development and delivery of content, and each professional
+body often has its own, unique, requirements. CGi can ensure that content is built and delivered in a
+compliant manner, and has existing CE infrastructure to provide credit to learners.

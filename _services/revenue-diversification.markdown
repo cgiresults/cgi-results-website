@@ -3,9 +3,21 @@ title: Revenue Diversification
 date: 2017-08-21 03:15:00 Z
 Image: "/uploads/revenue-diversification.jpg"
 Short Description: |-
-  CGi has proven results in creating lucrative and sustainable sources of non-dues and non-event revenue.
-
-  [Read our case study](/services/revenue-diversification)
+  CGi's ability to deliver results is proven. We create sustainable sources of non-dues and non-event
+revenue.
 ---
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+Traditionally modeled associations are at risk - those who are solely reliant on revenue from membership dues and an annual meeting / convention. These tend to be dependent on the economy. In years of
+economic recession, individuals or organizations may "skip" their membership or travel expenses for a
+year. For a non-diversified association, this can be disastrous.
+
+The solution that CGi has built for other association clients is diversity in revenue streams. While
+membership dues and a large annual event remain major contributors, we can ensure they are not the
+only contributors and build other sustainable revenue streams that can equal or surpass these traditional
+sources.
+
+CGi's structure is designed to identify entrepreneurial opportunities for its clients, and then manage
+these effectively using our dedicated product/service development, account management, and sales
+resources.
+
+Call us to start the conversation on how we can build long-term, sustainable sources of revenue for your organization.
