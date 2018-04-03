@@ -1,6 +1,6 @@
 ---
 title: Revenue Diversification
-position: 3
+position: 4
 Image: "/uploads/revenue-diversification.jpg"
 Short Description: CGi's ability to deliver results is proven. We create sustainable
   sources of non-dues and non-event revenue.
