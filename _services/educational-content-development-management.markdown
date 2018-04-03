@@ -1,5 +1,6 @@
 ---
 title: Educational Content Development Management
+Image: "/uploads/educational-content-development.jpg"
 ---
 
 Content that educates, inspires and captivates - that is the goal. Striking the correct balance of each
