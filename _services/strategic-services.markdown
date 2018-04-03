@@ -2,9 +2,9 @@
 title: Strategic Services
 date: 2017-08-21 03:12:00 Z
 Image: "/uploads/strategic-services.jpg"
-Short Description: Strategic planning is about the future; that is where your organization's
-  greatest impact should be realized. CGi will help you create and achieve a vision
-  based on your members needs.
+Short Description: |-
+  Strategic planning is about the future; that is where your organization's greatest impact should be
+  realized. CGi will help you create and achieve a vision based on your members' needs.
 ---
 
 Where will your organization’s greatest impact be felt? What are the accomplishments that you dream
