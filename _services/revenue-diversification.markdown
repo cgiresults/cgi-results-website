@@ -1,6 +1,8 @@
 ---
 title: Revenue Diversification
 Image: "/uploads/revenue-diversification.jpg"
+Short Description: CGi's ability to deliver results is proven. We create sustainable
+  sources of non-dues and non-event revenue.
 ---
 
 Traditionally modeled associations are at risk - those who are solely reliant on revenue from membership dues and an annual meeting / convention. These tend to be dependent on the economy. In years of
