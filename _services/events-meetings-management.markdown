@@ -1,5 +1,5 @@
 ---
-title: Events / Meetings Management
+title: Events/Meetings Management
 position: 0
 Image: "/uploads/educational-content-development.jpg"
 Short Description: |-
