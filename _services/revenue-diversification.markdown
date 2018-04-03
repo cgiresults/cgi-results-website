@@ -1,5 +1,6 @@
 ---
 title: Revenue Diversification
+Image: "/uploads/revenue-diversification.jpg"
 ---
 
 Traditionally modeled associations are at risk - those who are solely reliant on revenue from membership dues and an annual meeting / convention. These tend to be dependent on the economy. In years of
