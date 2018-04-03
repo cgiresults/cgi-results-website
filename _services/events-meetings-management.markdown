@@ -1,5 +1,6 @@
 ---
 title: Events Meetings Management
+Image: "/uploads/educational-content-development.jpg"
 ---
 
 Your events are your brand. You create an experience for your participants, and this experience conveys
