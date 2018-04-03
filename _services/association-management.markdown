@@ -1,7 +1,7 @@
 ---
 title: Association Management
 date: 2017-08-21 02:55:00 Z
-position: 0
+position: 1
 Image: "/uploads/association-management.jpg"
 Short Description: Members are the reason an association exists. Let CGi create a
   solid infrastructure and drive your membership growth and services.

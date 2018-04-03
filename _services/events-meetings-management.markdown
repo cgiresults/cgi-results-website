@@ -1,6 +1,6 @@
 ---
 title: Events / Meetings Management
-position: 1
+position: 0
 Image: "/uploads/educational-content-development.jpg"
 Short Description: |-
   Events are complex, and events are your brand. The best events create a memorable experience and make participants want to come back. CGi can build events from a raw concept or evolve your existing
