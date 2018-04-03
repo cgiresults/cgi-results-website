@@ -1,6 +1,7 @@
 ---
 title: Strategic Services
 date: 2017-08-21 03:12:00 Z
+position: 4
 Image: "/uploads/strategic-services.jpg"
 Short Description: |-
   Strategic planning is about the future; that is where your organization's greatest impact should be
