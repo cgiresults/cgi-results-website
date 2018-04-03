@@ -1,5 +1,5 @@
 ---
-title: Educational Content Development Management
+title: Educational Content Development / Management
 Image: "/uploads/educational-content-development.jpg"
 ---
 
