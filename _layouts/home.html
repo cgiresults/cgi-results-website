@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign services = site.services | sort: 'position' %}
+
 <div class="home">
 
   <!-- homepage hero image -->
@@ -24,14 +26,14 @@ layout: default
     <div class="row pt-4">
         {% for i in (0..2) %}
         <div class="col-md-4 mb-4">
-          <h4 class="font-weight-normal">{{site.services[i].title}}</h4>
+          <h4 class="font-weight-normal">{{services[i].title}}</h4>
           <div class="card mt-1 mb-3">
-            <img class="card-img" src="{{site.services[i].Image}}" alt="card image">
-            <a class="card-img-overlay show-on-hover d-flex text-white" href="{{site.services[i].url}}">
+            <img class="card-img" src="{{services[i].Image}}" alt="card image">
+            <a class="card-img-overlay show-on-hover d-flex text-white" href="{{services[i].url}}">
               <span class="card-title m-auto">Learn more</span>
             </a>
           </div>
-          {{site.services[i]['Short Description']}}
+          {{services[i]['Short Description']}}
         </div>
         {% endfor %}
     </div>
@@ -43,15 +45,15 @@ layout: default
           <div class="row no-gutters">
             <div class="col-lg-5 py-lg-3 pl-lg-3">
               <div class="position-relative">
-                <img class="card-img w-100" src="{{site.services[i].Image}}" alt="{{site.services[i].title}}">
-                <a class="card-img-overlay show-on-hover d-flex text-white" href="{{site.services[i].url}}">
+                <img class="card-img w-100" src="{{services[i].Image}}" alt="{{services[i].title}}">
+                <a class="card-img-overlay show-on-hover d-flex text-white" href="{{services[i].url}}">
                   <span class="card-title m-auto">Learn more</span>
                 </a>
               </div>
             </div>
             <div class="col-lg-7 p-3">
-              <h6 class="font-weight-bold text-uppercase">{{site.services[i].title}}</h6>
-              {{site.services[i]['Short Description'] | markdownify}}
+              <h6 class="font-weight-bold text-uppercase">{{services[i].title}}</h6>
+              {{services[i]['Short Description'] | markdownify}}
             </div>
           </div>
         </div><!-- /.card -->
