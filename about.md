@@ -4,4 +4,27 @@ permalink: "/about/"
 layout: page
 ---
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+About Us
+CGi is a full-service association and events management company. Formed in 1995, we are based in
+Little Rock, AR, with a second office in Nashville, TN and remote staff in Chicago and other locations. We
+currently have 45 staff positions and are growing rapidly. (See our careers page.)
+Cgi is able to provide the entire scope of association services including membership growth, accounting,
+marketing, data / records management, and benefits development.
+We also have deep experience in producing events, especially educational events in healthcare related
+areas.
+Our approach to work, and our path to client results, revolves around our company values. We strive to
+apply these in all areas of our day-to- day work.
+
+### CGi Values
+
+1. Professionalism: represent the company and client(s) well by acting with integrity and
+accountability to achieve results
+2. Transparency: have crucial conversations and communicate with openness and candor
+3. Active participation: maintain awareness, communicate opportunities and be a part of the
+solution
+1. (Demonstrate engagement by identifying opportunities for improvement and
+recommendations for issue/problem resolution that advances the company)
+4. Gratitude: appreciate and acknowledge others who help and support us
+5. Service: be driven to help others
+6. Determination: be creative, every barrier has a solution’
+7. Incomparability: continually strive to set the highest standards
