@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home Alt 1
 Hero:
   Image: "/uploads/hero-alt-2.jpg"
   Title: Client results are our focus
