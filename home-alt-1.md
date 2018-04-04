@@ -6,6 +6,6 @@ Hero:
   Description: CGi is a full-service association and events management company.
   Button Label: Learn how we help
   Button Url: "/services/"
-layout: home-alt-1
+layout: home
 ---
 
