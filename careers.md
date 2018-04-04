@@ -1,6 +1,7 @@
 ---
 title: Careers
 permalink: "/careers/"
+position: 3
 layout: page
 ---
 
