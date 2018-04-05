@@ -68,7 +68,7 @@ attendee and those who come each year.
 
 </div>
 <div class="col-md-6">
-
+![events-3.jpg](/uploads/events-3.jpg)
 </div>
 </div>
 </html>
