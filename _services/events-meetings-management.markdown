@@ -7,18 +7,24 @@ Short Description: |-
   event to a new level.
 ---
 
-Your events are your brand. You create an experience for your participants, and this experience conveys
-to them your identity and vision.
-CGi has a wealth of experience in event development, management, and growth.
-We can manage all aspects of planning (venue research, contracting, logistics, etc), marketing,
-production, sponsorship sales, and trade show coordination.
-
-<blockquote class="blockquote text-center">
-  <p class="mb-0">They may forget what you said - but they will never forget how you made them feel.</p>
-  <footer class="blockquote-footer"><cite title="Source Title">Carl W. Buehner</cite></footer>
-</blockquote>
-
-![events-2.jpg](/uploads/events-2.jpg)
+<div class="row my-4">
+  <div class="col-md-6">
+    <img src="/uploads/events-2.jpg" alt="Memorable event experiences" />
+  </div>
+  <div class="col-md-6">
+    <blockquote class="blockquote text-center">
+      <p class="mb-0">They may forget what you said - but they will never forget how you made them feel.</p>
+      <footer class="blockquote-footer"><cite title="Source Title">Carl W. Buehner</cite></footer>
+    </blockquote>
+    <p>
+      Your events are your brand. You create an experience for your participants, and this experience conveys
+      to them your identity and vision.
+      CGi has a wealth of experience in event development, management, and growth.
+      We can manage all aspects of planning (venue research, contracting, logistics, etc), marketing,
+      production, sponsorship sales, and trade show coordination.
+    </p>
+  </div>
+</div>
 
 ## New events
 

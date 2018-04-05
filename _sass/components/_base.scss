@@ -51,6 +51,31 @@ a.show-on-hover {
   }
 }
 
+.post-header {
+  position: relative;
+  @extend .mb-5;
+}
+
+.post-header:after {
+  content: '';
+  position: absolute;
+  height: 4px;
+  width: 100px;
+  left: 50%;
+  bottom: -20px;
+  margin-left: -50px;
+  background-color: #ccc;
+}
+
+.post-content {
+  blockquote p {
+    font-size: 1.4rem;
+  }
+  p {
+    font-size: 1rem;
+  }
+}
+
 .site-footer {
   position: absolute;
   bottom: 0;
