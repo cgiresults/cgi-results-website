@@ -13,9 +13,10 @@ CGi has a wealth of experience in event development, management, and growth.
 We can manage all aspects of planning (venue research, contracting, logistics, etc), marketing,
 production, sponsorship sales, and trade show coordination.
 
->>> They may forget what you said - but they will never forget how you made them feel.
-
-—Carl W. Buehner
+<blockquote class="blockquote text-center">
+  <p class="mb-0">They may forget what you said - but they will never forget how you made them feel.</p>
+  <footer class="blockquote-footer"><cite title="Source Title">Carl W. Buehner</cite></footer>
+</blockquote>
 
 ## New events
 
