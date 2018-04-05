@@ -28,6 +28,9 @@ Short Description: |-
 
 ## New events
 
+<div class="row my-4">
+  <div class="col-md-6">
+
 A new event starts with a concept. CGi will work with you to clarify your vision. This often means
 bringing together others to share your vision and contribute their knowledge and ideas. CGi will
 facilitate all aspects to refine a concept into a workable project plan.
@@ -39,8 +42,13 @@ New events often require an intense marketing push to create a compelling reason
 the message out to your potential audience of participants and, potentially, sponsors.
 
 [Quote from Juice Plus+]
+</div>
+</div>
+
 
 ## Existing events
+<div class="row">
+<div class="col-md-6">
 
 Existing events provide both advantages and challenges. It is beneficial to have an existing brand and
 past participants provide an engaged audience.
@@ -54,3 +62,10 @@ environment, and to constantly seek to make the experience memorable, for both t
 attendee and those who come each year.
 
 [Quote from ACMA]
+
+</div>
+<div class="col-md-6">
+
+</div>
+</div>
+</html>
