@@ -18,6 +18,8 @@ production, sponsorship sales, and trade show coordination.
   <footer class="blockquote-footer"><cite title="Source Title">Carl W. Buehner</cite></footer>
 </blockquote>
 
+![events-2.jpg](/uploads/events-2.jpg)
+
 ## New events
 
 A new event starts with a concept. CGi will work with you to clarify your vision. This often means
