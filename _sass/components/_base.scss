@@ -51,12 +51,11 @@ a.show-on-hover {
   }
 }
 
-.post-header {
+.post-title {
   position: relative;
-  @extend .mb-5;
 }
 
-.post-header:after {
+.post-title:after {
   content: '';
   position: absolute;
   height: 4px;
