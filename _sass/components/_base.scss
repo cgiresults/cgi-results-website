@@ -20,6 +20,10 @@ img {
   background-size: cover;
   background-position: center;
 
+  p {
+    font-size: 18px;
+  }
+
   .btn-outline-light {
     &:hover {
       background-color: theme-color("primary");
