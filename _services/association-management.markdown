@@ -28,13 +28,11 @@ Short Description: Members are the reason an association exists. Let CGi create 
   </div>
 </div>
 
-<div style="background: url(/uploads/association-management-2.jpg) no-repeat center center fixed; background-size: cover;">
+<div>
 
-  <blockquote class="py-5 px-3 blockquote text-white text-center" style="background-color: rgba(0,0,0,.4)">
-    <p class="mt-5"> Don't underestimate the power of your vision to change the world. Whether that world is your
-      office, your community, an industry or a global movement, you need to have a core belief that
-      what you contribute can fundamentally change the paradigm or way of thinking about problems.</p>
-    <footer class="blockquote-footer text-white"><cite title="Source Title">Leroy Hood</cite></footer>
+  <blockquote class="blockquote py-5 px-3 text-center border border-secondary">
+    <p class="mt-3"> Don't underestimate the power of your vision to change the world. Whether that world is your office, your community, an industry or a global movement, you need to have a core belief that what you contribute can fundamentally change the paradigm or way of thinking about problems.</p>
+    <footer class="blockquote-footer"><cite title="Source Title">Leroy Hood</cite></footer>
   </blockquote>
 
 </div>
