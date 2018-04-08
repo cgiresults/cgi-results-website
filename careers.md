@@ -5,7 +5,7 @@ position: 3
 layout: page
 ---
 
-At CGi, our mission is to create growth and strategic results for associations, businesses, meetings and events.  We are a small but rapidly growing company of 45 people with offices in Little Rock, AR and Nashville, TN.  You can find out about part of what we do by visiting our client site at http://www.acmaweb.org/
+At CGi, our mission is to create growth and strategic results for associations, businesses, meetings and events.  We are a small but rapidly growing company of 45 people with offices in Little Rock, AR and Nashville, TN.  You can find out about part of what we do by visiting our client site at [www.acmaweb.org](http://www.acmaweb.org/){:target="_blank"}.
  
 CGi provides an array of services: association and event management services, as well as educational and analytical products/services to hospitals and health system clients. 
 

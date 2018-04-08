@@ -1,20 +1,22 @@
 ---
-title: About
+title: About Us
 permalink: "/about/"
 position: 4
 layout: page
 ---
 
-About Us
 CGi is a full-service association and events management company. Formed in 1995, we are based in
 Little Rock, AR, with a second office in Nashville, TN and remote staff in Chicago and other locations. We
-currently have 45 staff positions and are growing rapidly. (See our careers page.)
+currently have 45 staff positions and are growing rapidly. (See our [careers page](/careers/).)
+
 Cgi is able to provide the entire scope of association services including membership growth, accounting,
 marketing, data / records management, and benefits development.
+
 We also have deep experience in producing events, especially educational events in healthcare related
 areas.
+
 Our approach to work, and our path to client results, revolves around our company values. We strive to
-apply these in all areas of our day-to- day work.
+apply these in all areas of our day-to-day work.
 
 ### CGi Values
 
