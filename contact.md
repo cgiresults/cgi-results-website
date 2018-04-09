@@ -16,7 +16,7 @@ layout: page
         <input type="text" class="form-control" name="inquiry-name" id="inquiry-name" placeholder="First and last name">
     </div>
     <div class="form-group">
-        <label for="inquiry-email">Email address</label>
+        <label for="inquiry-email">Email Address</label>
         <input type="email" class="form-control" name="inquiry-email" id="inquiry-email" placeholder="name@example.com">
     </div>
     <div class="form-group">
