@@ -23,4 +23,4 @@ Laurie Signorelli, MSW, LMSW, ACM-SW
 Interim Director, Case Management
 
 Currently, the growth of Compass continues to accelerate, and CGi’s structure is able to manage this rapid growth through teams dedicated to sales, account management, and development. 
-Call us at CGi to see how we can create a similar success story for your organization. And take a look for yourself at Compass by clicking this link. [www.acmaweb.org/compass]
+Call us at CGi to see how we can create a similar success story for your organization. And take a look for yourself at Compass by clicking this link. [[www.acmaweb.org/compass](https://www.acmaweb.org/compass/)]
