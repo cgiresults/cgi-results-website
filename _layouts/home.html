@@ -8,7 +8,7 @@ layout: default
 
   <!-- homepage hero image -->
   <div class="jumbotron p-0 text-white" style="background-image: url({{page.Hero.Image}});">
-    <div class="jumbotron-overlay d-flex" style="background-color: rgba(0,0,0,.5)">
+    <div class="jumbotron-overlay d-flex" style="background-color: rgba(0,0,0,{{page.Hero.OverlayOpacity}})">
       <div class="container my-auto">
         <h1 class="display-4">{{page.Hero.Title}}</h1>
         <p class="w-75 font-weight-light">{{page.Hero.Description}}</p>
