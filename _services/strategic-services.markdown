@@ -8,25 +8,55 @@ Short Description: |-
   realized. CGi will help you create and achieve a vision based on your members' needs.
 ---
 
-Where will your organization’s greatest impact be felt? What are the accomplishments that you dream
-about? Translating these from a vision to a workable plan is where CGi’s strategic services can help you.
-Let CGi partner with you to clarify your vision and build a plan to achieve it.
+<div class="row mb-5 pb-4">
 
->>> A goal without a plan is just a wish.
-― Antoine de Saint-Exupéry
+  <div class="col-md-6">
 
-### Strategic Planning
-Strategic planning is a structure process that moves a group from abstract (vision, ideas) to practical
-(what will it take to achieve these) and to tactical (which are we going to pursue now?). CGi regularly
-leads a variety of groups through this process to produce executable plans.
+    <blockquote class="blockquote text-center">
+      <p class="mb-0"> A goal without a plan is just a wish.</p>
+      <footer class="blockquote-footer"><cite title="Source Title">Antoine de Saint-Exupéry</cite></footer>
+    </blockquote>
 
-### Finance
-Broad vision and innovative plans require funding, and planning for funding and potential revenue
-creation is a key part of the strategic services CGi offers. CGi has successfully created sustainable revenue
-streams to fund association initiatives, conducted fundraising campaigns, and won six-figure grants.
+    <p>
+    Where will your organization’s greatest impact be felt? What are the accomplishments that you dream
+    about? Translating these from a vision to a workable plan is where CGi’s strategic services can help you.
+    Let CGi partner with you to clarify your vision and build a plan to achieve it.
+    </p>
 
->>> Someone's sitting in the shade today because someone planted a tree a long time ago.
-― Warren Buffett
+    <h2>Strategic Planning</h2>
+
+    <p>
+    Strategic planning is a structure process that moves a group from abstract (vision, ideas) to practical
+    (what will it take to achieve these) and to tactical (which are we going to pursue now?). CGi regularly
+    leads a variety of groups through this process to produce executable plans.
+    </p>
+
+  </div>
+
+  <div class="col-md-6">
+    <img src="/uploads/strategy-2.jpg">
+  </div>
+
+</div>
+
+<div class="row mb-5 pb-4">
+
+  <div class="col-md-6 d-flex">
+    <blockquote class="blockquote row d-flex w-100 p-2 align-items-center text-center  border border-secondary">
+      <p class="mb-0">Someone's sitting in the shade today because someone planted a tree a long time ago.</p>
+      <footer class="blockquote-footer w-100"><cite title="Source Title">Warren Buffett</cite></footer>
+    </blockquote>
+  </div>
+
+  <div class="col-md-6">
+    <h2>Finance</h2>
+    <p>
+    Broad vision and innovative plans require funding, and planning for funding and potential revenue
+    creation is a key part of the strategic services CGi offers. CGi has successfully created sustainable revenue streams to fund association initiatives, conducted fundraising campaigns, and won six-figure grants.
+    </p>
+  </div>
+
+</div>
 
 ### Certification Development
 For many associations, a powerful way to serve their members and advance their field of practice is to
