@@ -7,7 +7,6 @@ Short Description: Compelling content makes an impact. From events to online edu
   channels.
 ---
 
-
 <div class="row mb-5 pb-4">
   <div class="col-md-6">
 
