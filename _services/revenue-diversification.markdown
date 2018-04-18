@@ -6,17 +6,37 @@ Short Description: CGi's ability to deliver results is proven. We create sustain
   sources of non-dues and non-event revenue.
 ---
 
-Traditionally modeled associations are at risk - those who are solely reliant on revenue from membership dues and an annual meeting / convention. These tend to be dependent on the economy. In years of
-economic recession, individuals or organizations may "skip" their membership or travel expenses for a
-year. For a non-diversified association, this can be disastrous.
+<div class="row mb-5 pb-4">
+  <div class="col-md-6">
+    <p>
+      Traditionally modeled associations are at risk - those who are solely reliant on revenue from membership dues and an annual meeting / convention. These tend to be dependent on the economy. In years of
+      economic recession, individuals or organizations may "skip" their membership or travel expenses for a
+      year. For a non-diversified association, this can be disastrous.
+    </p>
+    <p>
+      The solution that CGi has built for other association clients is diversity in revenue streams. While
+      membership dues and a large annual event remain major contributors, we can ensure they are not the
+      only contributors and build other sustainable revenue streams that can equal or surpass these traditional
+      sources.
+    </p>
+  </div>
+  <div class="col-md-6">
+    <img src="/uploads/revenue-diversification-2.jpg">
+  </div>
+</div>
 
-The solution that CGi has built for other association clients is diversity in revenue streams. While
-membership dues and a large annual event remain major contributors, we can ensure they are not the
-only contributors and build other sustainable revenue streams that can equal or surpass these traditional
-sources.
-
-CGi's structure is designed to identify entrepreneurial opportunities for its clients, and then manage
-these effectively using our dedicated product/service development, account management, and sales
-resources.
-
-Call us to start the conversation on how we can build long-term, sustainable sources of revenue for your organization.
+<div class="row mb-5 pb-4">
+  <div class="col-md-6">
+    <img src="/uploads/revenue-diversification-3.jpg">
+  </div>
+  <div class="col-md-6">
+    <p>
+      CGi's structure is designed to identify entrepreneurial opportunities for its clients, and then manage
+      these effectively using our dedicated product/service development, account management, and sales
+      resources.
+    </p>
+    <p>
+      Call us to start the conversation on how we can build long-term, sustainable sources of revenue for your organization.
+    </p>
+  </div>
+</div>
