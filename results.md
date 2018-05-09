@@ -40,4 +40,4 @@ Currently, the growth of Compass continues to accelerate, and CGi’s structure 
 
 Contact CGi to see how you can create a similar success story for your organization. 
 
-Take a look at Compass for yourself by clicking this link. \[[_www.acmaweb.org/compass](https://www.acmaweb.org/compass/)\]
+Take a look at Compass for yourself by clicking this link. \[link(https://www.acmaweb.org/compass/)\]
