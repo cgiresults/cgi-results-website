@@ -20,12 +20,14 @@ apply these in all areas of our day-to-day work.
 
 ### CGi Values
 
-1. Professionalism: represent the company and client(s) well by acting with integrity and
-accountability to achieve results
-2. Transparency: have crucial conversations and communicate with openness and candor
-3. Active participation: maintain awareness, communicate opportunities and be a part of the
-solution
-4. Gratitude: appreciate and acknowledge others who help and support us
-5. Service: be driven to help others
-6. Determination: be creative, every barrier has a solution’
-7. Incomparability: continually strive to set the highest standards
+* Professionalism: represent the company and client(s) well by acting with integrity and accountability to achieve results
+* Transparency: have crucial conversations and communicate with * openness and candor
+* Active participation: maintain awareness, communicate opportunities and be a part of the solution
+* Gratitude: appreciate and acknowledge others who help and support us
+* Service: be driven to help others
+* Determination: be creative, every barrier has a solution’
+* Incomparability: continually strive to set the highest standards
+
+### Leadership
+
+text
