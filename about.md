@@ -25,8 +25,6 @@ accountability to achieve results
 2. Transparency: have crucial conversations and communicate with openness and candor
 3. Active participation: maintain awareness, communicate opportunities and be a part of the
 solution
-1. (Demonstrate engagement by identifying opportunities for improvement and
-recommendations for issue/problem resolution that advances the company)
 4. Gratitude: appreciate and acknowledge others who help and support us
 5. Service: be driven to help others
 6. Determination: be creative, every barrier has a solution’
