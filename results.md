@@ -24,9 +24,9 @@ ACMA already had many of the key leaders at major hospitals and health systems a
 
 Our belief was that if we could create outstanding content that met the high standards of ACMA's engaged leaders, then ACMA would have a new product that could grow rapidly.
 
-Four years later, this product has exceeded all expectations. Branded as ACMA’s Compass Directional Training, this product is now used in more than 1,200 US hospitals with over 25,000 trainees completing the curriculum annually. Compass has become the standard for orientation training and annual competency for the field of hospital case management.
-
 **Results**
+
+Four years later, this product has exceeded all expectations. Branded as ACMA’s Compass Directional Training, this product is now used in more than 1,200 US hospitals with over 25,000 trainees completing the curriculum annually. Compass has become the standard for orientation training and annual competency for the field of hospital case management.
 
 For ACMA, this has created a sustainable revenue stream that rivals its traditional sources of membership dues and annual convention.
 Perhaps more important, this revenue stream is highly diversified. Compass is sold to hospitals and health systems whereas ACMA’s membership is individual. Moreover, almost all Compass sales are part of a multi-year contract with an annual renewal.
