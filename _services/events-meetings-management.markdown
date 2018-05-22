@@ -1,5 +1,5 @@
 ---
-title: Events and Meeting Management
+title: Events & Meeting Management
 position: 0
 Image: "/uploads/events-meetings.jpg"
 Short Description: |-
