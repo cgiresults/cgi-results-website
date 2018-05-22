@@ -17,13 +17,13 @@ Short Description: |-
       <footer class="blockquote-footer"><cite title="Source Title">Antoine de Saint-Exupéry</cite></footer>
     </blockquote>
 
+    <h2>Strategic Planning</h2>
+
     <p>
     Where will your organization’s greatest impact be felt? What are the accomplishments that you dream
     about? Translating these from a vision to a workable plan is where CGi’s strategic services can help you.
     Let CGi partner with you to clarify your vision and build a plan to achieve it.
     </p>
-
-    <h2>Strategic Planning</h2>
 
     <p>
     Strategic planning is a structure process that moves a group from abstract (vision, ideas) to practical
