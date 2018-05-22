@@ -47,7 +47,7 @@ Short Description: |-
   the message out to your potential audience of participants and, potentially, sponsors.
   </p>
 
-  <p>[Quote from Juice Plus+]</p>
+  <!--<p>[Quote from Juice Plus+]</p>-->
 
   </div>
   <div class="col-md-6">
@@ -66,25 +66,24 @@ Short Description: |-
   <h2>Existing Events</h2>
 
   <p>
-  Existing events provide both advantages and challenges. It is beneficial to have an existing brand and
+  Existing events provide both advantages and challenges. It helps to have an existing brand and
   past participants provide an engaged audience.
-  </p>
-
-  <p>
   However, how do you keep an existing event from becoming stagnant? How do you make each
-  experience memorable for participants, and create in them a strong desire to attend your next event.
+  experience memorable for participants, and create in them a strong desire to attend your next event?
   </p>
 
   <p>
   CGi's portfolio includes events that we have been managing - and growing - for over 20 years. This also
   requires constant innovation on a successful model to keep our content relevant to a changing
   environment, and to constantly seek to make the experience memorable, for both the first-time
-  attendee and those who come each year.
+  attendee and those who come each year. CGi has the experience  to make your event successful.
   </p>
 
+<!--
   <p>
   [Quote from ACMA]
   </p>
+-->
 
   </div>
 </div>
