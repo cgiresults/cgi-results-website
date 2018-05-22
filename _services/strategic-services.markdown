@@ -26,9 +26,9 @@ Short Description: |-
     </p>
 
     <p>
-    Strategic planning is a structure process that moves a group from abstract (vision, ideas) to practical
+    Strategic planning is a structured process that moves an organization from abstract (vision, ideas) to practical
     (what will it take to achieve these) and to tactical (which are we going to pursue now?). CGi regularly
-    leads a variety of groups through this process to produce executable plans.
+    leads a variety of groups and organizations through this process to produce executable plans.
     </p>
 
   </div>
@@ -51,7 +51,7 @@ Short Description: |-
   <div class="col-md-6">
     <h2>Finance</h2>
     <p>
-    Broad vision and innovative plans require funding, and planning for funding and potential revenue
+    Broad vision and innovative plans require funding. Planning for funding and potential revenue
     creation is a key part of the strategic services CGi offers. CGi has successfully created sustainable revenue streams to fund association initiatives, conducted fundraising campaigns, and won six-figure grants.
     </p>
   </div>
@@ -61,11 +61,11 @@ Short Description: |-
 ### Certification Development
 For many associations, a powerful way to serve their members and advance their field of practice is to
 create a certification process that validates competency in their field of practice. Creating a certification
-is a significant undertaking and complex process - one that CGi has successfully led multiple times. We have deep experience in building, managing and marketing practice certifications.
+is a significant undertaking and complex process - one that CGi has successfully led multiple times. We have extensive experience in building, managing and marketing practice certifications.
 
-[Quote from NBCM]
+<!--[Quote from NBCM]-->
 
 ### Public Policy / Legislative Advocacy
 
-The dream of many association leaders is to be able to affect the laws and regulations that affect their
+The dream of many association leaders is to be able to influence the laws and regulations that affect their
 industry. For the last several years, CGi has led advocacy efforts on behalf of our association
