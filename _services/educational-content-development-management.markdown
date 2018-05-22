@@ -1,5 +1,5 @@
 ---
-title: Educational Content Development / Management
+title: Educational Content Development and Management
 position: 3
 Image: "/uploads/educational-content-development.jpg"
 Short Description: Compelling content makes an impact. From events to online education,
@@ -16,14 +16,14 @@ Short Description: Compelling content makes an impact. From events to online edu
     </blockquote>
 
     <p>
-    Content that educates, inspires and captivates - that is the goal. Striking the correct balance of each element can be difficult, but when achieved the content is powerful...and valuable intellectual property.
+    Content that educates, inspires and captivates - that is the goal. Striking the correct balance of each element can be difficult, but when achieved the content is powerful, and the result becomes valuable intellectual property.
     </p>
 
     <p>
-    CGi has over 20-years of experience in convening subject matter experts to produce educational content
+    CGi has over 20 years of experience in convening subject matter experts to produce educational content
     for a variety of media: live events, articles, educational videos, webinars and research publications.
-    One of our most recent success stories: For an association client CGi created an educational curriculum
-    and learning management system that is currently in use at over 1,000 US hospitals. [<a href="/results/">Read our case
+    One of our most recent success stories is the creation of an educational curriculum
+    and learning management system that is currently in use at over 1,200 US hospitals, educating approximately 25,000 trainees each year. [<a href="/results/">Read our case
     study.</a>]
     </p>
   </div>
