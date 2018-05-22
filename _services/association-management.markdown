@@ -13,7 +13,7 @@ Short Description: Members are the reason an association exists. Let CGi create 
   </div>
   <div class="col-md-6">
 
-    <h2>Focus on your members</h2>
+    <h2>Focus on Your Members</h2>
     
     <p>
     CGi provides full service association management, including membership services; data
@@ -21,7 +21,7 @@ Short Description: Members are the reason an association exists. Let CGi create 
     grants; marketing, communications and social media; and industry surveys and analytics.
     </p>
     <p>
-    An association, at its core, is a community people or organizations that share common goals. At
+    An association, at its core, is a community of people or organizations that share common goals. At
     CGi, we believe that your association’s members are its core purpose. To serve their needs is the
     reason an association exists.
     </p>
