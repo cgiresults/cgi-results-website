@@ -23,5 +23,11 @@ layout: page
         <label for="inquiry-message">Your Inquiry</label>
         <textarea class="form-control" name="inquiry-message" id="inquiry-message" rows="4"></textarea>
     </div>
+    
+    </p>
+  <div data-netlify-recaptcha></div>
+  <p>
+
+    
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
