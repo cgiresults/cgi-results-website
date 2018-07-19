@@ -35,7 +35,7 @@ layout: page
   </div>
 
   <div class="col-md-6">
-    <img src="/uploads/strategy-2_2.jpg">
+    <img src="/uploads/Highland%20Ridge%20II.jpg">
   </div>
 
 </div>
