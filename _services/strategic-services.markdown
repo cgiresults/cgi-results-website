@@ -13,7 +13,7 @@ Short Description: Strategic planning is about the future; your organization's i
 
   <div class="col-md-6">
 
-    <blockquote class="blockquote text-center">
+    <blockquote class="blockquote row d-flex w-100 p-2 align-items-center text-center  border border-secondary">
       <p class="mb-0"> A goal without a plan is just a wish.</p>
       <footer class="blockquote-footer"><cite title="Source Title">Antoine de Saint-Exupéry</cite></footer>
     </blockquote>
