@@ -5,7 +5,7 @@ position: 2
 Image: "/uploads/strategic-services.jpg"
 Short Description: Strategic planning is about the future; your organization's impact
   must be envisioned. CGi will help you create and achieve a vision based on your
-  needs and the long term sustainability of your organization.
+  needs and the long-term sustainability of your organization.
 ---
 
 
