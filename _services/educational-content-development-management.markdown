@@ -46,9 +46,8 @@ Short Description: Compelling content makes an impact. From events to online edu
     </blockquote>
 
     <p>
-    For many professionals, educational content needs to include continuing education (CE) coverage. This brings a myriad of new requirements to the development and delivery of content as each professional body often has its own unique regulatory requirements. CGi can ensure that content is built and delivered in a compliant manner, and has the existing CE infrastructure to provide credit to trainees.
+    For many professionals, educational content needs to include continuing education (CE) coverage. This brings a myriad of new requirements to the development and delivery of content as each professional body often has its own unique regulatory requirements. CGi can ensure that content is built and delivered in a compliant manner and has the existing CE infrastructure to provide credit to trainees.
     </p>
   </div>
   
 </div>
-
