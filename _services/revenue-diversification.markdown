@@ -7,7 +7,6 @@ Short Description: Economic changes dictate the need for diversification. CGi's 
   revenue.
 ---
 
-
 <div class="row mb-5 pb-4">
   <div class="col-md-6">
 
@@ -26,13 +25,13 @@ Short Description: Economic changes dictate the need for diversification. CGi's 
     </p>
   </div>
   <div class="col-md-6">
-    <img src="/uploads/revenue-diversification-2.jpg">
+    <img src="/uploads/revenue-diversification-2-e3dca2.jpg">
   </div>
 </div>
 
 <div class="row mb-5 pb-4">
   <div class="col-md-6">
-    <img src="/uploads/revenue-diversification-3.jpg">
+    <img src="/uploads/revenue-diversification-3-879e82.jpg">
   </div>
   <div class="col-md-6">
 
