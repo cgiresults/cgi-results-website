@@ -6,13 +6,11 @@ layout: page
 ---
 
 
-
-
 CGi is a full-service association and events management company. Formed in 2005, CGi has a work force based in Little Rock (AR), Nashville (TN), and remote staff in Chicago (IL) and other locations. We are growing rapidly and are always seeking talented individuals to join our team - See our [careers page](/careers/).
 
 CGi is able to provide the entire scope of association services including membership growth, accounting, marketing, data management, member benefit development, strategic planning and revenue diversification / development.
 
-In event management and production, our experience runs deep. We have producted over 200 events, primarily educational events in various healthcare fields. These have includes small regional conference to large national events with 3,000-4,000 attendees.
+In event management and production, our experience runs deep. We have produced over 200 events, primarily educational events in various healthcare fields. These include small regional conference to large national events with 3,000-4,000 attendees.
 
 Our approach to work and our path to client results encompasses our company values. We strive to apply these in all areas of our work.
 
@@ -74,7 +72,7 @@ Yesenia "Jessie" Dalton earned her Bachelors of Science from Florida State Unive
 
 Jessie's background is in business, vendor and contracts management, and the accounting processes necessary to manage these areas. She has been a Director of Business Services, Director of Accounts Payable, and a Business Manager. 
 
-She joined CGi in January 2018, and is responsible for the health and growth of chapters for CGi's association management clients. We have found that active, engaged and vibrant chapters are the most powerful driver of membership growth in a geographic area. Jessie's team works with our chapters to ensure membership and event attendance growth, board strength and continuity, and overall chapter health. 
+She joined CGi in January 2018 and is responsible for the health and growth of chapters for CGi's association management clients. We have found that active, engaged and vibrant chapters are the most powerful driver of membership growth in a geographic area. Jessie's team works with our chapters to ensure membership and event attendance growth, board strength and continuity, and overall chapter health. 
 
 Jessie is based in Nashville, TN.
 
@@ -87,7 +85,7 @@ Elisabet "Lis" Harrell joined CGi in 2015 and is the Director of Product Develop
 
 She has 18+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
  
-In her current role, Lis is responsible for product and program development including training, certification and new members services. Lis is additionally responsible for internal performance improvement and project management initiatives. Lis structures a clients work initiatives to ensure accountabiliy and achievement within the desired timeframe.
+In her current role, Lis is responsible for product and program development including training, certification and new members services. Lis is additionally responsible for internal performance improvement and project management initiatives. Lis structures a client's work initiatives to ensure accountability and achievement within the desired timeframe.
  
 Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Little Rock, AR.
 
@@ -168,6 +166,3 @@ Today, as Vice President, Sales and Marketing, Becky leads CGi's sales and marke
 Becky earned her Bachelors degree from the University of South Alabama in Mobile, AL. She is an Arkansas native, and based in Little Rock, AR.
 
  “You have to stand outside the box to see how the box can be re-designed. --Charles Handy”
-
-
-
