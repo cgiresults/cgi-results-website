@@ -6,11 +6,7 @@ layout: page
 ---
 
 
-
-**CGi Helps Association Diversify its Revenue and Add Valuable Training Solution**
-
-
-
+<h2>CGi Helps Association Diversify its Revenue and Add Valuable Training Solution</h2>
 
 
 
@@ -18,7 +14,7 @@ layout: page
 
   <div class="col-md-6">
 
-    <h2>CGi Helps Association Diversify its Revenue and Add Valuable Training Solution</h2>
+    <!--<h2>CGi Helps Association Diversify its Revenue and Add Valuable Training Solution</h2>-->
 
     <p>
 	The American Case Management Association (ACMA) is a non-profit professional membership organization for hospital and health system case management professionals. In 2012, CGi and ACMA’s leadership identified the need in this profession for better training tools. Much of the training for new individuals entering the field was “on-the-job” and based on a preceptor model. The complexities of this field, the rapidly changing healthcare regulations, and this training model left gaps in practitioner competency.
