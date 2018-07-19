@@ -29,7 +29,7 @@ Short Description: |-
 
 
 
-
+<!--
 **Performance Listening**
 
 
@@ -39,10 +39,10 @@ Short Description: |-
 		  <li>(more important) the desires of your attendees.</li>
 		  </ol>
 		  Truly understanding attendee feedback is a powerful point of leverage. Listen to what they want, then give them what they want. Doing this year after year creates a sustainable event, one that grows each year.
+-->
 
 
 
-<!--
 <div class="row py-4">
   <div class="col-md-6">
 
@@ -59,7 +59,7 @@ Short Description: |-
   </div>
 
 </div>
--->
+
 
 <!--
   <div class="col-md-6">
@@ -129,5 +129,3 @@ Short Description: |-
 
   </div>
 </div>
-
-
