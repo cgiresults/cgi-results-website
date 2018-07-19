@@ -6,7 +6,6 @@ layout: page
 ---
 
 
-
 <div class="row mb-5 pb-4">
 
   <div class="col-md-6">
@@ -44,9 +43,9 @@ layout: page
 
 
 
-
+<br/ >
 <hr>
-
+<br/ >
 
 
 ### Development and Fundraising Manager
@@ -69,6 +68,11 @@ City/State: Little Rock, AR or Nashville, TN<br />
 -->
 
 
+<br/ >
+<hr>
+<br/ >
+
+
 ### Director of Membership
 The Director of Membership will lead member relations efforts, including
 strategizing, planning for, and implementing activities and services that provide
@@ -79,6 +83,12 @@ Reports to: VP, Sales and Marketing<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR or Nashville, TN<br />
 [CGi_JobDesp_Director_of_Membership.pdf](/uploads/CGi_JobDesp_Director_of_Membership.pdf)
+
+
+
+<br/ >
+<hr>
+<br/ >
 
 
 ### Manager of Chapter Relations
@@ -92,6 +102,12 @@ Reports to: Director, Chapter Relations<br />
 Exempt - Full Time<br />
 City/State: Nashville, TN<br />
 [CGi_JobDesp_Manager_of_Chapter_Relations.pdf](/uploads/CGi_JobDesp_Manager_of_Chapter_Relations.pdf)
+
+
+
+<br/ >
+<hr>
+<br/ >
 
 
 ### Meeting and Event Manager
@@ -115,6 +131,11 @@ City/State: Nashville, TN or Little Rock, AR<br />
 -->
 
 
+<br/ >
+<hr>
+<br/ >
+
+
 ### Sales Representative (Inside Product Sales with Account Management)
 The Sales Representative will be a high-performer helping us to meet our revenue growth
 targets by keeping CGi competitive and innovative. This position will be responsible for
@@ -123,6 +144,11 @@ Reports to: Assistant Director of Sales<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
 [CGi_JobDesp_Sales_Representative.pdf](/uploads/CGi_JobDesp_Sales_Representative.pdf)
+
+
+<br/ >
+<hr>
+<br/ >
 
 
 ### Staff Accountant - AP
