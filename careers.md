@@ -6,8 +6,7 @@ layout: page
 ---
 
 
-
-<div class="row mb-5 pb-4">
+<div class="row mb-5 pb-4" style="margin-bottom: 1rem !important;">
 
   <div class="col-md-6">
 
@@ -31,7 +30,7 @@ layout: page
   </div>
 
   <div class="col-md-6">
-    <img src="/uploads/Highland%20Ridge%20II.jpg">
+    <img src="/uploads/Highland%20Ridge%20II.jpg" style="max-height: 375px;">
   </div>
 
 </div>
@@ -127,7 +126,5 @@ Reports to: Controller<br />
 Hourly, Non-Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
 [CGi_JobDesp_Staff_Accountant_AP.pdf](/uploads/CGi_JobDesp_Staff_Accountant_AP.pdf)
-
-
 
 
