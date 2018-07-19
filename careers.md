@@ -6,6 +6,7 @@ layout: page
 ---
 
 
+
 <div class="row mb-5 pb-4">
 
   <div class="col-md-6">
@@ -17,7 +18,8 @@ layout: page
     </p>
 
     <p>
-	CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. You can find out about part of what we do by visiting our client site at [www.acmaweb.org](http://www.acmaweb.org/){:target="_blank"}.
+	CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. You can find out about part of what we do by visiting our client site at [www.acmaweb.org](http://www.acmaweb.org/).
+
     </p>
 
     <p>
@@ -40,13 +42,7 @@ layout: page
 
 </div>
 
-
-
-
-<br/ >
 <hr>
-<br/ >
-
 
 ### Development and Fundraising Manager
 The Development and Fundraising Manager is responsible for overseeing all fundraising efforts for CGi
@@ -67,11 +63,7 @@ City/State: Little Rock, AR or Nashville, TN<br />
 [CGi_JobDesp_Director_of_Marketing_Communications.pdf](/uploads/CGi_JobDesp_Director_of_Marketing_Communications.pdf)
 -->
 
-
-<br/ >
 <hr>
-<br/ >
-
 
 ### Director of Membership
 The Director of Membership will lead member relations efforts, including
@@ -84,12 +76,7 @@ Exempt - Full Time<br />
 City/State: Little Rock, AR or Nashville, TN<br />
 [CGi_JobDesp_Director_of_Membership.pdf](/uploads/CGi_JobDesp_Director_of_Membership.pdf)
 
-
-
-<br/ >
 <hr>
-<br/ >
-
 
 ### Manager of Chapter Relations
 The Manager of Chapter Relations will combine management skills, passionate energy, tenacious attention to detail, determination, and creativity for professional association chapter and membership growth, retention, satisfaction and educational meetings. To facilitate these goals, he or she will:
@@ -103,12 +90,7 @@ Exempt - Full Time<br />
 City/State: Nashville, TN<br />
 [CGi_JobDesp_Manager_of_Chapter_Relations.pdf](/uploads/CGi_JobDesp_Manager_of_Chapter_Relations.pdf)
 
-
-
-<br/ >
 <hr>
-<br/ >
-
 
 ### Meeting and Event Manager
 At CGi, our mission is to create growth and strategic results for associations, businesses, meetings and events. We are a small but rapidly growing company of 43 people with offices in Little Rock, AR and Nashville, TN. You can find out about part of what we do by visiting our client site at http://www.acmaweb.org/
@@ -130,11 +112,7 @@ City/State: Nashville, TN or Little Rock, AR<br />
 [CGi_JobDesp_Project_Manager_Special_Projects.pdf](/uploads/CGi_JobDesp_Project_Manager_Special_Projects.pdf)
 -->
 
-
-<br/ >
 <hr>
-<br/ >
-
 
 ### Sales Representative (Inside Product Sales with Account Management)
 The Sales Representative will be a high-performer helping us to meet our revenue growth
@@ -145,11 +123,7 @@ Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
 [CGi_JobDesp_Sales_Representative.pdf](/uploads/CGi_JobDesp_Sales_Representative.pdf)
 
-
-<br/ >
 <hr>
-<br/ >
-
 
 ### Staff Accountant - AP
 CGi’s values lie at the heart of how we as individuals and as a company conduct ourselves in all professional situations. As an employee of CGi, you are expected to know, align with, demonstrate, and role model these values at all times.<br />
