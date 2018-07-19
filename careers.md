@@ -18,7 +18,7 @@ layout: page
     </p>
 
     <p>
-	CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. You can find out about part of what we do by visiting our client site at [www.acmaweb.org](http://www.acmaweb.org/).
+	CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. You can find out about part of what we do by visiting one of our our client sites [here](http://www.acmaweb.org).
 
     </p>
 
