@@ -8,6 +8,7 @@ Short Description: Strategic planning is about the future; your organization's i
   needs and the long term sustainability of your organization.
 ---
 
+
 <div class="row mb-5 pb-4">
 
   <div class="col-md-6">
@@ -20,21 +21,20 @@ Short Description: Strategic planning is about the future; your organization's i
     <h2>Strategic Planning</h2>
 
     <p>
-    Where will your organization’s greatest impact be felt? What are the accomplishments that you dream
-    about? Translating these from a vision to a workable plan is where CGi’s strategic services can help you.
-    Let CGi partner with you to clarify your vision and build a plan to achieve it.
+    Where will your organization’s greatest impact be? What are the organizational accomplishments that you believe are possible? Translating these from a vision to a workable plan is where CGi’s strategic services can help.
+    Let CGi partner with you to clarify your vision and build an operational plan to achieve it.
     </p>
 
     <p>
     Strategic planning is a structured process that moves an organization from abstract (vision, ideas) to practical
-    (what will it take to achieve these) and to tactical (which are we going to pursue now?). CGi regularly
+    (what will it take to achieve these) and tactical (which are we going to pursue now?). CGi regularly
     leads a variety of groups and organizations through this process to produce executable plans.
     </p>
 
   </div>
 
   <div class="col-md-6">
-    <img src="/uploads/strategy-2.jpg">
+    <img src="/uploads/strategy-2_2.jpg">
   </div>
 
 </div>
@@ -51,8 +51,7 @@ Short Description: Strategic planning is about the future; your organization's i
   <div class="col-md-6">
     <h2>Finance</h2>
     <p>
-    Broad vision and innovative plans require funding. Planning for funding and potential revenue
-    creation is a key part of the strategic services CGi offers. CGi has successfully created sustainable revenue streams to fund association initiatives, conducted fundraising campaigns, and won six-figure grants.
+    Broad vision and innovative plans require funding. Planning for funding and potential revenue creation is a key part of the strategic services CGi offers. To fund association initiatives, CGi has successfully created sustainable revenue streams, conducted fundraising campaigns, and won six-figure grants.
     </p>
   </div>
 
@@ -67,5 +66,5 @@ is a significant undertaking and complex process - one that CGi has successfully
 
 ### Public Policy / Legislative Advocacy
 
-The dream of many association leaders is to be able to influence the laws and regulations that affect their
-industry. For the last several years, CGi has led advocacy efforts on behalf of our association
+The dream of many association leaders is to influence the laws and regulations that impact their industry. Since 2008, CGi has led advocacy efforts on behalf of our association clients at a national level, collaborating with lobbying firms, conducting legislative research, and orchestrating Capital Hill Advocacy events with over 200 member participants.
+
