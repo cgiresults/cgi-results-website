@@ -7,11 +7,12 @@ layout: page
 
 
 
+
 CGi is a full-service association and events management company. Formed in 2005, CGi has a work force based in Little Rock (AR), Nashville (TN), and remote staff in Chicago (IL) and other locations. We are growing rapidly and are always seeking talented individuals to join our team - See our [careers page](/careers/).
 
 CGi is able to provide the entire scope of association services including membership growth, accounting, marketing, data management, member benefit development, strategic planning and revenue diversification / development.
 
-In event management and production, our experience runs deep. We have producted over 200 events, primarily educational events in various healthcare fields. These have includes small regional conference to large national events with 3-4000 attendees.
+In event management and production, our experience runs deep. We have producted over 200 events, primarily educational events in various healthcare fields. These have includes small regional conference to large national events with 3,000-4,000 attendees.
 
 Our approach to work and our path to client results encompasses our company values. We strive to apply these in all areas of our work.
 
@@ -167,4 +168,6 @@ Today, as Vice President, Sales and Marketing, Becky leads CGi's sales and marke
 Becky earned her Bachelors degree from the University of South Alabama in Mobile, AL. She is an Arkansas native, and based in Little Rock, AR.
 
  “You have to stand outside the box to see how the box can be re-designed. --Charles Handy”
+
+
 
