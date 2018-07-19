@@ -8,6 +8,7 @@ Short Description: |-
 ---
 
 
+
 <div class="row my-4">
   <div class="col-md-6">
     <img src="/uploads/events-2_2.jpg" alt="Memorable event experiences" />
@@ -44,7 +45,7 @@ Short Description: |-
 
 
 <div class="row py-4">
-  <div class="col-md-6">
+  <div class="col-md-12">
 
 	  <h2>Performance Listening</h2>
 
@@ -129,3 +130,4 @@ Short Description: |-
 
   </div>
 </div>
+
