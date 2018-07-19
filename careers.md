@@ -7,22 +7,14 @@ layout: page
 
 
 
-
 <div class="row mb-5 pb-4">
 
   <div class="col-md-6">
-
-    <!--<h2>CGi Helps Association Diversify its Revenue and Add Valuable Training Solution</h2>-->
 
     <p>
 	At CGi, our mission is to create growth and strategic results for associations, businesses, meetings and events. Our team is based in Little Rock (AR), Nashville (TN), and remote staff in Chicago (IL) and other locations. CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. We are growing rapidly and are always seeking talented individuals to join our team.
     </p>
 
-<!--
-    <p>
-	CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. You can find out about part of what we do by visiting one of our association client's sites <code>here</code>.
-    </p>
--->
 
     <p>
     Our standards are high. Very high. We have built our foundation on exceeding our clients' expectations and by managing the details. 
@@ -45,12 +37,8 @@ layout: page
 </div>
 
 
-
-You can find out about part of what we do by visiting one of our association client's sites [here](http://www.acmaweb.org){:target="_blank"}.
-
-
-
 <hr>
+
 
 ### Development and Fundraising Manager
 The Development and Fundraising Manager is responsible for overseeing all fundraising efforts for CGi
@@ -139,6 +127,7 @@ Reports to: Controller<br />
 Hourly, Non-Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
 [CGi_JobDesp_Staff_Accountant_AP.pdf](/uploads/CGi_JobDesp_Staff_Accountant_AP.pdf)
+
 
 
 
