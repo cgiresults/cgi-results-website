@@ -55,7 +55,7 @@ Short Description: Members are the reason an association exists. Let CGi create 
   </div>
 
   <div class="col-md-6">
-    <img src="/uploads/association-management-5.jpg">
+    <img src="/uploads/association-management-5-30dfcd.jpg">
   </div>
 </div>
 
