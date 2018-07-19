@@ -7,13 +7,23 @@ Short Description: Compelling content makes an impact. From events to online edu
   channels.
 ---
 
+
 <div class="row mb-5 pb-4">
   <div class="col-md-6">
 
+    <!--
     <blockquote class="blockquote text-center">
       <p class="mb-0">Content is King.</p>
       <footer class="blockquote-footer"><cite title="Source Title">Bill Gates</cite></footer>
     </blockquote>
+    -->
+
+    <!--<div class="col-md-6 d-flex">-->
+    <blockquote class="blockquote row d-flex w-100 p-2 align-items-center text-center  border border-secondary">
+      <p class="mb-0">Someone's sitting in the shade today because someone planted a tree a long time ago.</p>
+      <footer class="blockquote-footer w-100"><cite title="Source Title">Warren Buffett</cite></footer>
+    </blockquote>
+  <!--</div>-->
 
     <p>
     Content that educates, inspires and captivates - that is the goal. Great content compels organizations to purchase content, and attendees to register for events. Striking the correct balance of each element can be difficult, but when achieved the content is powerful, and the result becomes valuable intellectual property.
