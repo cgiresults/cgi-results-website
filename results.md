@@ -6,12 +6,11 @@ layout: page
 ---
 
 
-
 <h2 style="margin-bottom: 20px;">CGi Helps Association Diversify its Revenue and Add Valuable Training Solution</h2>
 
 
 
-<div class="row mb-5 pb-4" style="margin-bottom: 20px;">
+<div class="row mb-5 pb-4" style="margin-bottom: 1rem !important;">
 
   <div class="col-md-6">
 
@@ -62,3 +61,5 @@ Currently, the growth of Compass continues to accelerate, and CGi’s structure 
 Contact CGi to see how you can create a similar success story for your organization. 
 
 Take a look at Compass for yourself by clicking this link. \[[www.acmaweb.org/compass](https://www.acmaweb.org/compass/)\]
+
+
