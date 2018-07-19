@@ -8,15 +8,16 @@ Short Description: |-
 ---
 
 
+
 <div class="row my-4">
   <div class="col-md-6">
     <img src="/uploads/events-2_2.jpg" alt="Memorable event experiences" />
     </div>
-    <div class="col-md-6">
-    <blockquote class="blockquote text-center">
-    <p class="mb-0">They may forget what you said - but they will never forget how you made them feel.</p>
-    <footer class="blockquote-footer"><cite title="Source Title">Carl W. Buehner</cite></footer>
-    </blockquote>
+      <div class="col-md-6">
+        <blockquote class="blockquote py-5 px-3 text-center border border-secondary">
+          <p class="mb-0">They may forget what you said - but they will never forget how you made them feel.</p>
+          <footer class="blockquote-footer"><cite title="Source Title">Carl W. Buehner</cite></footer>
+      </blockquote>
     <p>
     Your events are your brand. You create an experience for your participants that conveys your identity and vision.
     CGi has a wealth of experience in event development, management, and growth.
@@ -32,7 +33,7 @@ Short Description: |-
 <div class="row py-4">
   <div class="col-md-12">
 
-	  <h2>Performance Listening</h2>
+	  <h2>Start by Listening</h2>
 
 	  <p>
 		  CGi's approach to all events employs a <i>performance listening</i> method to understand:<br />
