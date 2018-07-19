@@ -38,7 +38,6 @@ layout: page
 
 <hr>
 
-
 ### Development and Fundraising Manager
 The Development and Fundraising Manager is responsible for overseeing all fundraising efforts for CGi
 and our clients. This position creates fundraising goals and solicits funds to achieve these goals.
@@ -46,17 +45,7 @@ Identifies new donors and organizes initiatives to solicit continual funding by 
 Reports to: Vice President, Finance & Account Management<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-[CGi__JobDesp_Development_and_Fundraising_Manager.pdf](/uploads/CGi_JobDesp_Development_and_Fundraising_Manager.pdf)
-
-
-<!--
-### Director of Marketing and Communications
-The Director of Marketing and Communications will further the mission of CGi and our clients by providing the strategic leadership, direction, and management for marketing, communications, and public relations. The Director ensures strategies are created and successfully implemented to build annual revenue as well as maintain our relationships, brand, events, and communications.<br />
-Reports to: VP, Sales and Marketing<br />
-Exempt - Full Time<br />
-City/State: Little Rock, AR or Nashville, TN<br />
-[CGi_JobDesp_Director_of_Marketing_Communications.pdf](/uploads/CGi_JobDesp_Director_of_Marketing_Communications.pdf)
--->
+[Development and Fundraising Manager](/uploads/Development_and_Fundraising_Manager.pdf)
 
 <hr>
 
@@ -69,7 +58,7 @@ enhancing our revenues through retention and business development.<br />
 Reports to: VP, Sales and Marketing<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR or Nashville, TN<br />
-[CGi_JobDesp_Director_of_Membership.pdf](/uploads/CGi_JobDesp_Director_of_Membership.pdf)
+[Director of Membership](/uploads/Director_of_Membership.pdf)
 
 <hr>
 
@@ -83,7 +72,7 @@ The Manager of Chapter Relations will combine management skills, passionate ener
 Reports to: Director, Chapter Relations<br />
 Exempt - Full Time<br />
 City/State: Nashville, TN<br />
-[CGi_JobDesp_Manager_of_Chapter_Relations.pdf](/uploads/CGi_JobDesp_Manager_of_Chapter_Relations.pdf)
+[Manager of Chapter Relations](/uploads/Manager_of_Chapter_Relations.pdf)
 
 <hr>
 
@@ -96,7 +85,7 @@ CGi is seeking individuals with strong service orientation, a desire to work col
 Reports to: Director, Meeting and Event Management<br />
 Exempt - Full Time<br />
 City/State: Nashville, TN<br />
-[CGi_JobDesp_Meeting_Event_Manager.pdf](/uploads/CGi_JobDesp_Meeting_Event_Manager.pdf)
+[Meeting and Event Manager](/uploads/Meeting_Event_Manager.pdf)
 
 <!--
 ### Project Manager - Special Projects
@@ -116,7 +105,7 @@ planning, implementing, and managing sales activities and objectives for CGi.<br
 Reports to: Assistant Director of Sales<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-[CGi_JobDesp_Sales_Representative.pdf](/uploads/CGi_JobDesp_Sales_Representative.pdf)
+[Sales Representative](/uploads/Sales_Representative.pdf)
 
 <hr>
 
@@ -125,5 +114,6 @@ CGi’s values lie at the heart of how we as individuals and as a company conduc
 Reports to: Controller<br />
 Hourly, Non-Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-[CGi_JobDesp_Staff_Accountant_AP.pdf](/uploads/CGi_JobDesp_Staff_Accountant_AP.pdf)
+[Staff Accountant AP](/uploads/Staff_Accountant_AP.pdf)
+
 
