@@ -8,7 +8,6 @@ Short Description: |-
 ---
 
 
-
 <div class="row my-4">
   <div class="col-md-6">
     <img src="/uploads/events-2_2.jpg" alt="Memorable event experiences" />
@@ -30,20 +29,6 @@ Short Description: |-
 
 
 
-<!--
-**Performance Listening**
-
-
-		  CGi's approach to all events employs a <i>performance listening</i> method to understand:<br />
-		  <ol>
-		  <li>your organization's goals, and</li>
-		  <li>(more important) the desires of your attendees.</li>
-		  </ol>
-		  Truly understanding attendee feedback is a powerful point of leverage. Listen to what they want, then give them what they want. Doing this year after year creates a sustainable event, one that grows each year.
--->
-
-
-
 <div class="row py-4">
   <div class="col-md-12">
 
@@ -60,13 +45,6 @@ Short Description: |-
   </div>
 
 </div>
-
-
-<!--
-  <div class="col-md-6">
-  	<img src="/uploads/events-3_2.jpg" alt="New events" />
-  </div>
--->
 
 
 
@@ -130,4 +108,3 @@ Short Description: |-
 
   </div>
 </div>
-
