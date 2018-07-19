@@ -11,19 +11,12 @@ Short Description: Compelling content makes an impact. From events to online edu
 <div class="row mb-5 pb-4">
   <div class="col-md-6">
 
-    <!--
-    <blockquote class="blockquote text-center">
-      <p class="mb-0">Content is King.</p>
-      <footer class="blockquote-footer"><cite title="Source Title">Bill Gates</cite></footer>
-    </blockquote>
-    -->
 
-    <!--<div class="col-md-6 d-flex">-->
     <blockquote class="blockquote row d-flex w-100 p-2 align-items-center text-center  border border-secondary">
-      <p class="mb-0">Someone's sitting in the shade today because someone planted a tree a long time ago.</p>
-      <footer class="blockquote-footer w-100"><cite title="Source Title">Warren Buffett</cite></footer>
+      <p class="mb-0">Content is King.</p>
+      <footer class="blockquote-footer w-100"><cite title="Source Title">Bill Gates</cite></footer>
     </blockquote>
-  <!--</div>-->
+
 
     <p>
     Content that educates, inspires and captivates - that is the goal. Great content compels organizations to purchase content, and attendees to register for events. Striking the correct balance of each element can be difficult, but when achieved the content is powerful, and the result becomes valuable intellectual property.
@@ -46,13 +39,16 @@ Short Description: Compelling content makes an impact. From events to online edu
   </div>
 
   <div class="col-md-6">
-    <blockquote class="blockquote text-center">
+
+     <blockquote class="blockquote row d-flex w-100 p-2 align-items-center text-center  border border-secondary">
       <p class="mb-0">You need to create ridiculously good content – content that is useful, enjoyable and inspired.</p>
-      <footer class="blockquote-footer"><cite title="Source Title">Ann Handley</cite></footer>
+      <footer class="blockquote-footer w-100"><cite title="Source Title">Ann Handley</cite></footer>
     </blockquote>
+
     <p>
     For many professionals, educational content needs to include continuing education (CE) coverage. This brings a myriad of new requirements to the development and delivery of content as each professional body often has its own unique regulatory requirements. CGi can ensure that content is built and delivered in a compliant manner, and has the existing CE infrastructure to provide credit to trainees.
     </p>
   </div>
   
 </div>
+
