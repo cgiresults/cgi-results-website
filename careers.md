@@ -6,7 +6,6 @@ layout: page
 ---
 
 
-
 <div class="row mb-5 pb-4">
 
   <div class="col-md-6">
@@ -18,7 +17,7 @@ layout: page
     </p>
 
     <p>
-	CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. You can find out about part of what we do by visiting one of our our client sites [here](http://www.acmaweb.org).
+	CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. You can find out about part of what we do by visiting one of our association client's sites <code>here</code>.
 
     </p>
 
@@ -131,3 +130,5 @@ Reports to: Controller<br />
 Hourly, Non-Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
 [CGi_JobDesp_Staff_Accountant_AP.pdf](/uploads/CGi_JobDesp_Staff_Accountant_AP.pdf)
+
+
