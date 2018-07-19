@@ -2,8 +2,9 @@
 title: Revenue Diversification
 position: 4
 Image: "/uploads/revenue-diversification.jpg"
-Short Description: CGi's ability to deliver results is proven. We create sustainable
-  sources of non-dues and non-event revenue.
+Short Description: Economic changes dictate the need for diversification. CGi's ability
+  to deliver results is proven. We create sustainable sources of non-dues and non-event
+  revenue.
 ---
 
 <div class="row mb-5 pb-4">
