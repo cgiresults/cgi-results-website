@@ -42,7 +42,7 @@ Short Description: Members are the reason an association exists. Let CGi create 
     Exceeding the expectation of your members requires streamlined infrastructure and well-tuned
     operations. CGi will provide the structure and manage your operational processes to create the
     foundation of committed, long-term members who believe in your mission and are impressed by
-    your association’s level of service. These members become your advocates, and are invaluable to
+    your association’s level of service. These members become your advocates and are invaluable to
     create growth.
     </p>
     <p>
@@ -58,4 +58,3 @@ Short Description: Members are the reason an association exists. Let CGi create 
     <img src="/uploads/association-management-5-30dfcd.jpg">
   </div>
 </div>
-
