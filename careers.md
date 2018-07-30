@@ -45,7 +45,7 @@ The Controller is responsible for direct supervision of all accounting and finan
 Reports to: VP, Finance and Account Management<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-[Controller](/uploads/Controller.pdf)
+[Controller](/uploads/Controller.pdf){:target="_blank"}
 
 <hr>
 
@@ -57,7 +57,7 @@ Identifies new donors and organizes initiatives to solicit continual funding by 
 Reports to: Vice President, Finance & Account Management<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-[Development and Fundraising Manager](/uploads/Development_and_Fundraising_Manager.pdf)
+[Development and Fundraising Manager](/uploads/Development_and_Fundraising_Manager.pdf){:target="_blank"}
 
 <hr>
 
@@ -70,7 +70,7 @@ enhancing our revenues through retention and business development.<br />
 Reports to: VP, Sales and Marketing<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR or Nashville, TN<br />
-[Director of Membership](/uploads/Director_of_Membership.pdf)
+[Director of Membership](/uploads/Director_of_Membership.pdf){:target="_blank"}
 
 <hr>
 
@@ -79,7 +79,7 @@ City/State: Little Rock, AR or Nashville, TN<br />
 The Project Manager is responsible for the direction, coordination, implementation, control and completion of projects in alignment with the strategies, commitments and goals of the organization. This position will handle a broad and diverse range of responsibilities and assignments, both internally and externally, related to product development, client service delivery and internal performance improvement. The Project Manager will collaborate internally with all departments to achieve outcomes. This position interacts with the Senior Project Manager and Director on strategic planning and business growth initiatives. Accountabilities include revenue/net income goals for multiple budgets, rollout deadlines and client satisfaction with joint accountability for companywide leadership goals.<br />
 Exempt - Full Time<br />
 City/State: Nashville, TN or Little Rock, AR<br />
-[Project Manager](/uploads/Project_Manager.pdf)
+[Project Manager](/uploads/Project_Manager.pdf){:target="_blank"}
 
 
 <hr>
@@ -94,4 +94,3 @@ City/State: Little Rock, AR<br />
 [Sales Representative](/uploads/Sales_Representative.pdf){:target="_blank"}
 
 <hr>
-
