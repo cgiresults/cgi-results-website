@@ -50,14 +50,12 @@ City/State: Little Rock, AR<br />
 <hr>
 
 
-### Development and Fundraising Manager
-The Development and Fundraising Manager is responsible for overseeing all fundraising efforts for CGi
-and our clients. This position creates fundraising goals and solicits funds to achieve these goals.
-Identifies new donors and organizes initiatives to solicit continual funding by proactively seeking and securing income from a variety of sources that includes corporate support, grants and contracts from trusts and foundations, donations from individuals and special events.<br />
+### Director of Development and Fundraising
+The Director of Development and Fundraising is responsible for overseeing all fundraising efforts for CGi and our clients. This position creates fundraising goals and solicits funds to achieve these goals. Identifies new donors and organizes initiatives to solicit continual funding by proactively seeking and securing income from a variety of sources that includes corporate support, grants and contracts from trusts and foundations, donations from individuals and special events.<br />
 Reports to: Vice President, Finance & Account Management<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-[Development and Fundraising Manager](/uploads/Development_and_Fundraising_Manager.pdf){:target="_blank"}
+[Director of Development and Fundraising](/uploads/Director%20Fundraising.pdf){:target="_blank"}
 
 <hr>
 
