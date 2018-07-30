@@ -91,7 +91,7 @@ planning, implementing, and managing sales activities and objectives for CGi.<br
 Reports to: Assistant Director of Sales<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-[Sales Representative](/uploads/Sales_Representative.pdf)
+[Sales Representative](/uploads/Sales_Representative.pdf){:target="_blank"}
 
 <hr>
 
