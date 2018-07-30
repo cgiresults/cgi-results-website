@@ -38,6 +38,18 @@ layout: page
 
 <hr>
 
+
+
+### Controller
+The Controller is responsible for direct supervision of all accounting and financial functions. This includes the production of periodic financial reports, maintenance of an adequate system of accounting records, and a comprehensive set of controls and budgets designed to mitigate risk, enhance the accuracy of the company’s reported financial results, and ensure that reported results comply with generally accepted accounting principles. In addition, this position will supervise three Staff Accountants.<br />
+Reports to: VP, Finance and Account Management<br />
+Exempt - Full Time<br />
+City/State: Little Rock, AR<br />
+[Controller](/uploads/Controller.pdf)
+
+<hr>
+
+
 ### Development and Fundraising Manager
 The Development and Fundraising Manager is responsible for overseeing all fundraising efforts for CGi
 and our clients. This position creates fundraising goals and solicits funds to achieve these goals.
@@ -62,39 +74,13 @@ City/State: Little Rock, AR or Nashville, TN<br />
 
 <hr>
 
-### Manager of Chapter Relations
-The Manager of Chapter Relations will combine management skills, passionate energy, tenacious attention to detail, determination, and creativity for professional association chapter and membership growth, retention, satisfaction and educational meetings. To facilitate these goals, he or she will:
-* Influence and assist with chapter leadership development, support and succession planning
-* Develop, implement and manage strategies for long term chapter success (i.e. growth, engagement and positively affecting members’ professional practice)
-* Collaborate with Meeting and Event Management and assist in delivering conferences of the highest standard that meet educational, budgetary, timeline and attendance goals
-* Assist in managing content and speaker selection and onsite conference implementation
-* Be available to travel 20-30% time annually including weekends
-Reports to: Director, Chapter Relations<br />
-Exempt - Full Time<br />
-City/State: Nashville, TN<br />
-[Manager of Chapter Relations](/uploads/Manager_of_Chapter_Relations.pdf)
 
-<hr>
-
-### Meeting and Event Manager
-At CGi, our mission is to create growth and strategic results for associations, businesses, meetings and events. We are a small but rapidly growing company of 43 people with offices in Little Rock, AR and Nashville, TN. You can find out about part of what we do by visiting our client site at http://www.acmaweb.org/
-
-CGi provides an array of services: association and event management services, as well as educational and analytical products/services to hospitals and health system clients. Our commitment to maintaining the highest standards of quality and client satisfaction allow us to facilitate the growth and success of each of our valued clients. We believe that our employees and their contributions are critical in this mission.
-
-CGi is seeking individuals with strong service orientation, a desire to work collaboratively, and a predisposition towards high standards and striving for excellence. If you are self-driven, data-oriented, have great attention to detail, and are excited by challenges, we want to hear from you!<br />
-Reports to: Director, Meeting and Event Management<br />
-Exempt - Full Time<br />
-City/State: Nashville, TN<br />
-[Meeting and Event Manager](/uploads/Meeting_Event_Manager.pdf)
-
-<!--
-### Project Manager - Special Projects
-The Project Manager is responsible for the brainstorming, design and execution of new projects as part of the executive leadership agenda. This position will handle a broad and diverse range of responsibilities and assignments, both internally and externally, related to product development, client service delivery and internal performance improvement. Specifically, the Project Manager will be responsible for ensuring smooth cross-department collaboration and will also lead special projects. This position interacts with the Director, Senior Project Manager, Vice President and executive leadership team on strategic planning and business growth initiatives. Accountabilities include revenue/net income goals, rollout deadlines and client satisfaction with joint accountability for companywide leadership goals.<br />
-Reports to: Director, Product Development and Performance Improvement<br />
+### Project Manager
+The Project Manager is responsible for the direction, coordination, implementation, control and completion of projects in alignment with the strategies, commitments and goals of the organization. This position will handle a broad and diverse range of responsibilities and assignments, both internally and externally, related to product development, client service delivery and internal performance improvement. The Project Manager will collaborate internally with all departments to achieve outcomes. This position interacts with the Senior Project Manager and Director on strategic planning and business growth initiatives. Accountabilities include revenue/net income goals for multiple budgets, rollout deadlines and client satisfaction with joint accountability for companywide leadership goals.<br />
 Exempt - Full Time<br />
 City/State: Nashville, TN or Little Rock, AR<br />
-[CGi_JobDesp_Project_Manager_Special_Projects.pdf](/uploads/CGi_JobDesp_Project_Manager_Special_Projects.pdf)
--->
+[Project Manager](/uploads/Project_Manager.pdf)
+
 
 <hr>
 
@@ -108,12 +94,4 @@ City/State: Little Rock, AR<br />
 [Sales Representative](/uploads/Sales_Representative.pdf)
 
 <hr>
-
-### Staff Accountant - AP
-CGi’s values lie at the heart of how we as individuals and as a company conduct ourselves in all professional situations. As an employee of CGi, you are expected to know, align with, demonstrate, and role model these values at all times.<br />
-Reports to: Controller<br />
-Hourly, Non-Exempt - Full Time<br />
-City/State: Little Rock, AR<br />
-[Staff Accountant AP](/uploads/Staff_Accountant_AP.pdf)
-
 
