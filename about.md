@@ -165,4 +165,4 @@ Today, as Vice President, Sales and Marketing, Becky leads CGi's sales and marke
 
 Becky earned her Bachelors degree from the University of South Alabama in Mobile, AL. She is an Arkansas native, and based in Little Rock, AR.
 
- “You have to stand outside the box to see how the box can be re-designed. --Charles Handy”
+ “You have to stand outside the box to see how the box can be re-designed. --Charles Handy.”
