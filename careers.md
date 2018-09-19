@@ -11,7 +11,7 @@ layout: page
   <div class="col-md-6">
 
     <p>
-	At CGi - our mission is to create growth and strategic results for associations, businesses, meetings and events. Our team is based in Little Rock (AR), Nashville (TN), and remote staff in Chicago (IL) and other locations. CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. We are growing rapidly and are always seeking talented individuals to join our team.
+	At CGi, our mission is to create growth and strategic results for associations, businesses, meetings and events. Our team is based in Little Rock (AR), Nashville (TN), and remote staff in Chicago (IL) and other locations. CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. We are growing rapidly and are always seeking talented individuals to join our team.
     </p>
 
 
@@ -40,15 +40,25 @@ layout: page
 
 
 
-### Controller
-The Controller is responsible for direct supervision of all accounting and financial functions. This includes the production of periodic financial reports, maintenance of an adequate system of accounting records, and a comprehensive set of controls and budgets designed to mitigate risk, enhance the accuracy of the company’s reported financial results, and ensure that reported results comply with generally accepted accounting principles. In addition, this position will supervise three Staff Accountants.<br />
-Reports to: VP, Finance and Account Management<br />
+### Marketing & Communications Manager
+The Marketing & Communications Manager will be savvy with and have enthusiasm for online communication channels: social media, customer review and responses, email marketing, and the next medium on the horizon. This individual will demonstrate creativity and intellectual agility to be the voice of our company in a social media setting and for our customers.<br />
+Reports to: Director of Marketing<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-[Controller](/uploads/Controller.pdf){:target="_blank"}
+[Marketing & Communications Manager](/uploads/MarComm_Manager.pdf){:target="_blank"}
+
 
 <hr>
 
+
+### Project Manager
+The Project Manager is responsible for the direction, coordination, implementation, control and completion of projects in alignment with the strategies, commitments and goals of the organization. This position will handle a broad and diverse range of responsibilities and assignments, both internally and externally, related to product development, client service delivery and internal performance improvement. The Project Manager will collaborate internally with all departments to achieve outcomes. This position interacts with the Senior Project Manager and Director on strategic planning and business growth initiatives. Accountabilities include revenue/net income goals for multiple budgets, rollout deadlines and client satisfaction with joint accountability for companywide leadership goals.<br />
+Exempt - Full Time<br />
+City/State: Nashville, TN or Little Rock, AR<br />
+[Project Manager](/uploads/Project_Manager.pdf){:target="_blank"}
+
+
+<hr>
 
 ### Director of Development and Fundraising
 The Director of Development and Fundraising is responsible for overseeing all fundraising efforts for CGi and our clients. This position creates fundraising goals and solicits funds to achieve these goals. Identifies new donors and organizes initiatives to solicit continual funding by proactively seeking and securing income from a variety of sources that includes corporate support, grants and contracts from trusts and foundations, donations from individuals and special events.<br />
@@ -72,15 +82,6 @@ City/State: Little Rock, AR or Nashville, TN<br />
 
 <hr>
 
-
-### Project Manager
-The Project Manager is responsible for the direction, coordination, implementation, control and completion of projects in alignment with the strategies, commitments and goals of the organization. This position will handle a broad and diverse range of responsibilities and assignments, both internally and externally, related to product development, client service delivery and internal performance improvement. The Project Manager will collaborate internally with all departments to achieve outcomes. This position interacts with the Lead Project Manager and Director on strategic planning and business growth initiatives. Accountabilities include revenue/net income goals for multiple budgets, rollout deadlines and client satisfaction with joint accountability for companywide leadership goals.<br />
-Exempt - Full Time<br />
-City/State: Nashville, TN or Little Rock, AR<br />
-[Project Manager](/uploads/Project_Manager.pdf){:target="_blank"}
-
-
-<hr>
 
 ### Sales Representative (Inside Product Sales with Account Management)
 The Sales Representative will be a high-performer helping us to meet our revenue growth
