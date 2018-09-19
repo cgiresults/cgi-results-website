@@ -42,7 +42,7 @@ layout: page
 
 ### Marketing & Communications Manager
 The Marketing & Communications Manager will be savvy with and have enthusiasm for online communication channels: social media, customer review and responses, email marketing, and the next medium on the horizon. This individual will demonstrate creativity and intellectual agility to be the voice of our company in a social media setting and for our customers.<br />
-Reports to: Director of Marketing<br />
+Reports to: Director, Marketing and Communications<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
 [Marketing & Communications Manager](/uploads/MarComm_Manager.pdf){:target="_blank"}
@@ -89,7 +89,7 @@ targets by keeping CGi competitive and innovative. This position will be respons
 planning, implementing, and managing sales activities and objectives for CGi.<br />
 Reports to: Assistant Director of Sales<br />
 Exempt - Full Time<br />
-City/State: Little Rock, AR<br />
+City/State: Little Rock, AR or Nashville, TN<br />
 [Sales Representative](/uploads/Sales_Representative.pdf){:target="_blank"}
 
 <hr>
