@@ -11,7 +11,7 @@ layout: page
   <div class="col-md-6">
 
     <p>
-	At CGi, our mission is to create growth and strategic results for associations, businesses, meetings and events. Our team is based in Little Rock (AR), Nashville (TN), and remote staff in Chicago (IL) and other locations. CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. We are growing rapidly and are always seeking talented individuals to join our team.
+	At CGi - our mission is to create growth and strategic results for associations, businesses, meetings and events. Our team is based in Little Rock (AR), Nashville (TN), and remote staff in Chicago (IL) and other locations. CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. We are growing rapidly and are always seeking talented individuals to join our team.
     </p>
 
 
