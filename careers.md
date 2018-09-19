@@ -87,7 +87,7 @@ City/State: Little Rock, AR or Nashville, TN<br />
 The Sales Representative will be a high-performer helping us to meet our revenue growth
 targets by keeping CGi competitive and innovative. This position will be responsible for
 planning, implementing, and managing sales activities and objectives for CGi.<br />
-Reports to: Assistant Director of Sales<br />
+Reports to: Director, Sales and Products<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR or Nashville, TN<br />
 [Sales Representative](/uploads/Sales_Representative.pdf){:target="_blank"}
