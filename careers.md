@@ -60,6 +60,16 @@ City/State: Nashville, TN or Little Rock, AR<br />
 
 <hr>
 
+### Director of Certification
+The Director of Certification provides leadership and oversight to grow and continually improve the certification program. They are responsible for managing and overseeing certification processes, products, resources and outcomes. The Director maintains the integrity of the certification program and ensures best in class performance by achieving performance metrics, maintaining quality standards and providing exceptional customer service. The position is key in generating metrics to identify trends that aid in the improvement of the program. The Director oversees the development of standards and testing materials and ensures that all activities and requirements are met. They collaborate with the executive team and advisory boards to design and execute strategic plans.<br />
+Reports to: Vice President, Practice Development and Chapter Relations<br />
+Exempt - Full Time<br />
+City/State: Little Rock, AR or Nashville, TN<br />
+[Director of Certification](/uploads/Director-of-Certification.pdf){:target="_blank"}
+
+<hr>
+
+
 ### Director of Development and Fundraising
 The Director of Development and Fundraising is responsible for overseeing all fundraising efforts for CGi and our clients. This position creates fundraising goals and solicits funds to achieve these goals. Identifies new donors and organizes initiatives to solicit continual funding by proactively seeking and securing income from a variety of sources that includes corporate support, grants and contracts from trusts and foundations, donations from individuals and special events.<br />
 Reports to: Vice President, Finance & Account Management<br />
