@@ -79,19 +79,6 @@ City/State: Little Rock, AR<br />
 
 <hr>
 
-### Director of Membership
-The Director of Membership will lead member relations efforts, including
-strategizing, planning for, and implementing activities and services that provide
-value to members and promote membership retention and growth. The Director
-will understand, articulate, and advocate the needs of our members while
-enhancing our revenues through retention and business development.<br />
-Reports to: VP, Sales and Marketing<br />
-Exempt - Full Time<br />
-City/State: Little Rock, AR or Nashville, TN<br />
-[Director of Membership](/uploads/Director_of_Membership.pdf){:target="_blank"}
-
-<hr>
-
 
 ### Sales Representative (Inside Product Sales with Account Management)
 The Sales Representative will be a high-performer helping us to meet our revenue growth
