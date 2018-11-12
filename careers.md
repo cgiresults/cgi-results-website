@@ -45,7 +45,7 @@ The Director of Sales will be an A-player challenged with helping CGi meet our r
 While this position is primarily a management and leadership role, this person may be required to step in and fulfill direct sales duties.<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR or Nashville, TN<br />
-[Marketing & Communications Manager](/uploads/MarComm_Manager.pdf){:target="_blank"}
+[Director of Sales](/uploads/Director_of_Sales.pdf){:target="_blank"}
 
 
 <hr>
@@ -62,7 +62,7 @@ The Manager of Chapter Relations will combine management skills, passionate ener
 </ul><br />
 Exempt - Full Time<br />
 City/State: Nashville, TN or Little Rock, AR<br />
-[Project Manager](/uploads/Project_Manager.pdf){:target="_blank"}
+[Manager of Chapter Relations](/uploads/Manager_of_Chapter_Relations-aa633e.pdf){:target="_blank"}
 
 
 <hr>
@@ -97,3 +97,6 @@ City/State: Little Rock, AR or Nashville, TN<br />
 [Sales Representative](/uploads/Sales_Representative.pdf){:target="_blank"}
 
 <hr>
+
+
+To apply, please submit a cover letter and resume to [Director of Human Resources](mailto:clund@cgiresults.com).
