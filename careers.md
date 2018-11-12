@@ -59,7 +59,7 @@ The Manager of Chapter Relations will combine management skills, passionate ener
 <li>Collaborate with Meeting and Event Management and assist in delivering conferences of the highest standard that meet educational, budgetary, timeline and attendance goals</li>
 <li>Assist in managing content and speaker selection and onsite conference implementation</li>
 <li>Be available to travel 20-30% time annually including weekends</li>
-</ul><br />
+</ul>
 Exempt - Full Time<br />
 City/State: Nashville, TN or Little Rock, AR<br />
 [Manager of Chapter Relations](/uploads/Manager_of_Chapter_Relations-aa633e.pdf){:target="_blank"}
