@@ -40,19 +40,26 @@ layout: page
 
 
 
-### Marketing & Communications Manager
-The Marketing & Communications Manager will be savvy with and have enthusiasm for online communication channels: social media, customer review and responses, email marketing, and the next medium on the horizon. This individual will demonstrate creativity and intellectual agility to be the voice of our company in a social media setting and for our customers.<br />
-Reports to: Director, Marketing and Communications<br />
+### Director of Sales
+The Director of Sales will be an A-player challenged with helping CGi meet our revenue growth targets by keeping our company competitive and innovative. This position is responsible for planning, implementing, and managing the sales activities and objectives for CGi. He or she will be accountable for maximizing our sales team potential, crafting sales plans, and justifying those to plans to the Vice President of Sales.
+While this position is primarily a management and leadership role, this person may be required to step in and fulfill direct sales duties.<br />
 Exempt - Full Time<br />
-City/State: Little Rock, AR<br />
+City/State: Little Rock, AR or Nashville, TN<br />
 [Marketing & Communications Manager](/uploads/MarComm_Manager.pdf){:target="_blank"}
 
 
 <hr>
 
 
-### Project Manager
-The Project Manager is responsible for the direction, coordination, implementation, control and completion of projects in alignment with the strategies, commitments and goals of the organization. This position will handle a broad and diverse range of responsibilities and assignments, both internally and externally, related to product development, client service delivery and internal performance improvement. The Project Manager will collaborate internally with all departments to achieve outcomes. This position interacts with the Senior Project Manager and Director on strategic planning and business growth initiatives. Accountabilities include revenue/net income goals for multiple budgets, rollout deadlines and client satisfaction with joint accountability for companywide leadership goals.<br />
+### Manager of Chapter Relations
+The Manager of Chapter Relations will combine management skills, passionate energy, tenacious attention to detail, determination, and creativity for professional association chapter and membership growth, retention, satisfaction and educational meetings. To facilitate these goals, he or she will:
+<ul>
+<li>Influence and assist with chapter leadership development, support and succession planning</li>
+<li>Develop, implement and manage strategies for long term chapter success (i.e. growth, engagement and positively affecting members’ professional practice)</li>
+<li>Collaborate with Meeting and Event Management and assist in delivering conferences of the highest standard that meet educational, budgetary, timeline and attendance goals</li>
+<li>Assist in managing content and speaker selection and onsite conference implementation</li>
+<li>Be available to travel 20-30% time annually including weekends</li>
+</ul><br />
 Exempt - Full Time<br />
 City/State: Nashville, TN or Little Rock, AR<br />
 [Project Manager](/uploads/Project_Manager.pdf){:target="_blank"}
