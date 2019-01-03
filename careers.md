@@ -51,7 +51,7 @@ The Manager of Chapter Relations will combine management skills, passionate ener
 <li>Be available to travel 20-30% time annually including weekends</li>
 </ul>
 Exempt - Full Time<br />
-City/State: Nashville, TN or Little Rock, AR<br />
+City/State: Nashville, TN<br />
 [Manager of Chapter Relations](/uploads/Manager_of_Chapter_Relations-aa633e.pdf){:target="_blank"}
 
 
@@ -71,7 +71,7 @@ City/State: Little Rock, AR or Nashville, TN<br />
 The Director of Development and Fundraising is responsible for overseeing all fundraising efforts for CGi and our clients. This position creates fundraising goals and solicits funds to achieve these goals. Identifies new donors and organizes initiatives to solicit continual funding by proactively seeking and securing income from a variety of sources that includes corporate support, grants and contracts from trusts and foundations, donations from individuals and special events.<br />
 Reports to: Vice President, Finance & Account Management<br />
 Exempt - Full Time<br />
-City/State: Little Rock, AR<br />
+City/State: Little Rock, AR or Nashville, TN<br />
 [Director of Development and Fundraising](/uploads/Director%20Fundraising.pdf){:target="_blank"}
 
 <hr>
