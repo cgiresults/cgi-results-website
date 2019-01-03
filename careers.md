@@ -39,7 +39,7 @@ layout: page
 <hr>
 
 
-<!—-
+<!--
 ### Director of Sales
 The Director of Sales will be an A-player challenged with helping CGi meet our revenue growth targets by keeping our company competitive and innovative. This position is responsible for planning, implementing, and managing the sales activities and objectives for CGi. He or she will be accountable for maximizing our sales team potential, crafting sales plans, and justifying those to plans to the Vice President of Sales.
 While this position is primarily a management and leadership role, this person may be required to step in and fulfill direct sales duties.<br />
