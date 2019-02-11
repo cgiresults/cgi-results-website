@@ -101,7 +101,7 @@ Outside of work, Christy enjoys spending time with her family and friends, garde
 
 
 ### Deb McElroy, RN, MPH
-***Vice President, Practice Development***
+***Senior Vice President, Practice Development***
 
 Deb holds a master’s degree in public health and a bachelor’s degree in nursing. Her publications include topics related to chronic disease, nurse residency and advanced practice. 
 
@@ -110,22 +110,6 @@ Debra McElroy is the Vice President for Practice Development, where she leads de
 Deb is the former national nursing leader for the largest national health care improvement organization and healthcare collaborative, where she had responsibility for programs and data products supporting nursing leaders and inter-professional practice across the country. She has extensive experience in the community and public health sector, previously directing healthcare coalitions and federally funded initiatives that established infrastructure for medical homes.
 
 Deb joined CGi in 2017 and is based in Chicago, IL.
-
-
-
-### Sandy McFolling, MSN, ACM
-***Vice President, Chapter and Meeting Services***
-
-Sandy holds a Bachelor of Science degree from Northern Illinois University, as well as ACM certification and a Masters of Science degree from the University of Illinois. 
-
-Sandy's background is in hospital administration. She has over 30 years of experience in health care, providing leadership for system wide Case management services. Sandy has authored several publications and presentations related to case management and care transitions. Sandy was awarded the University of Illinois Administrative Studies in Nursing Outstanding Scholarly Achievement award for her graduate research.
-
-Sandy also brings a unique perspective to CGi's leadership team, as she is a founding member of CGi's largest client, ACMA, and before joining CGi served as a member of ACMA's National Board of Directors and as President of the Illinois Chapter. Sandy joined CGi in 2014 in the role of Senior Clinical Advisor.
-
-Sandy's current role is the Vice President of Chapter and Meeting Services. In this capacity she leads a team to produce over 30 annual educational conferences at both the regional and national level. Here team is also responsible for the growth and health of chapters for CGi's client, ACMA.
- 
-Sandy is based in Chicago, IL.
-
 
 
 ### Becky Nations
