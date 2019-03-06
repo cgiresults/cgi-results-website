@@ -76,15 +76,6 @@ City/State: Nashville, TN<br />
 
 <hr>
 
-### Manager of Membership Services
-The Manager of Membership Services will be able to create marketing strategies, build relationships with chapter leadership, execute and improve on existing membership growth strategy, and recruit and retain chapter members. He or she will manage staff roles and responsibilities along with their professional growth and development.<br />
-Reports to: Director of Membership<br />
-Exempt - Full Time<br />
-City/State: Nashville, TN<br />
-[Manager of Membership Services](/uploads/Manager-of-Membership-Services.pdf){:target="_blank"}
-
-<hr>
-
 ### Director of Development and Fundraising
 The Director of Development and Fundraising is responsible for overseeing all fundraising efforts for CGi and our clients. This position creates fundraising goals and solicits funds to achieve these goals. Identifies new donors and organizes initiatives to solicit continual funding by proactively seeking and securing income from a variety of sources that includes corporate support, grants and contracts from trusts and foundations, donations from individuals and special events.<br />
 Reports to: Vice President, Finance<br />
