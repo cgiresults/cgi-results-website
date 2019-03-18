@@ -76,16 +76,6 @@ City/State: Nashville, TN<br />
 
 <hr>
 
-### Director of Development and Fundraising
-The Director of Development and Fundraising is responsible for overseeing all fundraising efforts for CGi and our clients. This position creates fundraising goals and solicits funds to achieve these goals. Identifies new donors and organizes initiatives to solicit continual funding by proactively seeking and securing income from a variety of sources that includes corporate support, grants and contracts from trusts and foundations, donations from individuals and special events.<br />
-Reports to: Vice President, Finance<br />
-Exempt - Full Time<br />
-City/State: Little Rock, AR or Nashville, TN<br />
-[Director of Development and Fundraising](/uploads/Director-of-Fundraising.pdf){:target="_blank"}
-
-<hr>
-
-
 
 
 To apply, please submit a cover letter and resume to [Director of Human Resources](mailto:clund@cgiresults.com).
