@@ -56,23 +56,12 @@ City/State: Little Rock, AR or Nashville, TN<br />
 
 <hr>
 
-### Market Intelligence Analyst
-The Market Intelligence Analyst must have a passion for business intelligence – not just data, but taking that data and providing rapid decisional information to business unit leaders. In this role, you will be able – and called upon - to make a significant and visible impact on the company. This is not a role for someone who wants to operate within a set of defined tasks and stay under the radar. We will look to you to keep us from being data rich, but information poor.<br />
-This role requires an individual with an entrepreneurial mindset, and the vision and ability to build systems that provide needed market feedback to business unit leaders without manual processes and to consistently improve our data collection, storage, and reporting. In addition, this role will be tasked with leading planned projects that will break ground in healthcare research. Finally,
-while technical expertise is great (and necessary), it is this mindset that will make you successful in this role.<br />
-Reports to: Vice President, Business and Product Development<br />
+### Director of Sales
+The Director of Sales will be responsible for keeping our company competitive and innovative, and for the planning, execution and management of sales activities to meet approved client metrics. They must be able to encourage and motivate remote working individuals to perform at their best while creating a team environment to exceed goals and performance expectations by placing a large volume of outbound calls to sell products. This position will also help identify, define, and implement technology and process improvement opportunities to better optimize our customer experience and sales capabilities.<br />
+Reports to: Vice President of Sales<br />
 Exempt - Full Time<br />
-City/State: Nashville, TN<br />
-[Market Intelligence Analyst](/uploads/Market-Intelligence-Analyst.pdf){:target="_blank"}
-
-<hr>
-
-### Meeting and Event Manager
-The manager will provide logistics, event management, and execution for approximately 7-8 events annually. Additionally, the manager will work in conjunction with the Director of Meeting and Events and/or colleagues to support other meetings/client services throughout the year. This position will collaborate with Chapter Relations, Sales, Marketing, and Accounting teams to reach each event goal.<br />
-Reports to: Director, Meeting and Events<br />
-Exempt - Full Time<br />
-City/State: Nashville, TN<br />
-[Meeting and Event Manager](/uploads/Meeting-Event-Manager.pdf){:target="_blank"}
+City/State: Little Rock, AR<br />
+[Director of Sales](/uploads/Director-of-Sales.pdf){:target="_blank"}
 
 <hr>
 
