@@ -71,7 +71,7 @@ Our growing company is seeking to hire a Marketing & Communications Manager who 
 Reports to: Vice President of Sales<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-[Director of Sales](/uploads/MarComm-Manager.pdf){:target="_blank"}
+[Marketing & Communications Manager](/uploads/MarComm-Manager.pdf){:target="_blank"}
 
 <hr>
 
