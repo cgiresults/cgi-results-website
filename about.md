@@ -61,19 +61,6 @@ Outside of his professional life, Randall stays busy with two very active young 
 
 
 
-### Jessie Dalton
-***Director of Chapter Relations***
-
-
-Yesenia "Jessie" Dalton earned her Bachelors of Science from Florida State University in International Relations with a minor is Spanish. 
-
-Jessie's background is in business, vendor and contracts management, and the accounting processes necessary to manage these areas. She has been a Director of Business Services, Director of Accounts Payable, and a Business Manager. 
-
-She joined CGi in January 2018, and is responsible for the health and growth of chapters for CGi's association management clients. We have found that active, engaged and vibrant chapters are the most powerful driver of membership growth in a geographic area. Jessie's team works with our chapters to ensure membership and event attendance growth, board strength and continuity, and overall chapter health. 
-
-Jessie is based in Nashville, TN.
-
-
 
 ### Lis Harrell
 ***Director, Product Development and Performance Improvement***
@@ -110,6 +97,7 @@ Debra McElroy is the Vice President for Practice Development, where she leads de
 Deb is the former national nursing leader for the largest national health care improvement organization and healthcare collaborative, where she had responsibility for programs and data products supporting nursing leaders and inter-professional practice across the country. She has extensive experience in the community and public health sector, previously directing healthcare coalitions and federally funded initiatives that established infrastructure for medical homes.
 
 Deb joined CGi in 2017 and is based in Chicago, IL.
+
 
 
 ### Becky Nations
