@@ -66,5 +66,13 @@ City/State: Little Rock, AR<br />
 <hr>
 
 
+### Marketing & Communications Manager
+Our growing company is seeking to hire a Marketing & Communications Manager who will be an integral part of the Marketing Department in organizing and leading various internal and external client projects. This job involves monitoring project plans, schedules, work hours, budgets and expenditures, scheduling and participating in stakeholder meetings, and ensuring that project deadlines are met in a timely manner.<br />
+Reports to: Vice President of Sales<br />
+Exempt - Full Time<br />
+City/State: Little Rock, AR<br />
+[Director of Sales](/uploads/MarComm-Manager.pdf){:target="_blank"}
+
+<hr>
 
 To apply, please submit a cover letter and resume to [Director of Human Resources](mailto:clund@cgiresults.com).
