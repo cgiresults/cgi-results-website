@@ -47,6 +47,15 @@ City/State: Little Rock, AR or Nashville, TN<br />
 
 <hr>
 
+### Project Manager
+The Project Manager is responsible for the direction, coordination, implementation, control and completion of projects in alignment with the strategies, commitments and goals of the organization. This position will handle a broad and diverse range of responsibilities and assignments, both internally and externally, related to product development, client service delivery and internal performance improvement. The Project Manager will collaborate internally with all departments to achieve outcomes. This position interacts with the Senior Project Manager and Director on strategic planning and business growth initiatives. Accountabilities include revenue/net income goals for multiple budgets, rollout deadlines and client satisfaction with joint accountability for companywide leadership goals. <br />
+Reports to: Director, Product Development and Performance Improvement<br />
+Exempt - Full Time<br />
+City/State: Nashville, TN or Little Rock, AR<br />
+[Project Manager](/uploads/Project-Manager.pdf){:target="_blank"}
+
+<hr>
+
 ### Sales Representative (Inside Product Sales with Account Management)
 The Sales Representative will be a high-performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative. This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.<br />
 Reports to: Director of Sales<br />
