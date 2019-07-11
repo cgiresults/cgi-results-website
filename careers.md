@@ -64,7 +64,6 @@ To facilitate these goals, he or she will:
 <li>Understand and provide chapter administrative support with standardized tools, resources and answers to their leadership inquiries</li>
 <li>Be available to travel no more than 10% annually including weekends</li>
 </ul>
-<br />
 Reports to: Director, Membership and Chapter Relations <br />
 Exempt - Full Time<br />
 City/State: Nashville, TN<br />
