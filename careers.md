@@ -56,12 +56,19 @@ City/State: Little Rock, AR<br />
 
 <hr>
 
-### Director of Sales
-The Director of Sales will be responsible for keeping our company competitive and innovative, and for the planning, execution and management of sales activities to meet approved client metrics. They must be able to encourage and motivate remote working individuals to perform at their best while creating a team environment to exceed goals and performance expectations by placing a large volume of outbound calls to sell products. This position will also help identify, define, and implement technology and process improvement opportunities to better optimize our customer experience and sales capabilities.<br />
-Reports to: Vice President of Sales<br />
+### Membership and Chapter Relations Manager
+The Membership and Chapter Relations Manager will combine management skills, passionate energy, tenacious attention to detail, determination, and creativity for professional association chapter and membership growth, retention, and satisfaction.  They will be able to create marketing strategies, build relationships with chapter leadership, execute and improve on existing membership growth strategies, and recruit and retain chapter members. They will be a master of efficiency, creating autonomy and independence for our chapters while driving them toward success in reaching their goals.<br />
+To facilitate these goals, he or she will:
+<ul>
+<li>Support and execute identified association strategies and initiatives that will promote long term chapter membership growth and retention</li>
+<li>Understand and provide chapter administrative support with standardized tools, resources and answers to their leadership inquiries</li>
+<li>Be available to travel no more than 10% annually including weekends</li>
+</ul>
+<br />
+Reports to: Director, Membership and Chapter Relations <br />
 Exempt - Full Time<br />
-City/State: Little Rock, AR<br />
-[Director of Sales](/uploads/Director-of-Sales.pdf){:target="_blank"}
+City/State: Nashville, TN<br />
+[Membership and Chapter Relations Manager](/uploads/Memb-and-Ch-Relations-Manager.pdf){:target="_blank"}
 
 <hr>
 
