@@ -56,30 +56,6 @@ City/State: Little Rock, AR<br />
 
 <hr>
 
-### Sales Representative (Inside Product Sales with Account Management)
-The Sales Representative will be a high-performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative. This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.<br />
-Reports to: Director of Sales<br />
-Exempt - Full Time<br />
-City/State: Little Rock, AR<br />
-[Sales Representative](/uploads/Sales-Representative.pdf){:target="_blank"}
-
-<hr>
-
-### Membership and Chapter Relations Manager
-The Membership and Chapter Relations Manager will combine management skills, passionate energy, tenacious attention to detail, determination, and creativity for professional association chapter and membership growth, retention, and satisfaction.  They will be able to create marketing strategies, build relationships with chapter leadership, execute and improve on existing membership growth strategies, and recruit and retain chapter members. They will be a master of efficiency, creating autonomy and independence for our chapters while driving them toward success in reaching their goals.<br />
-To facilitate these goals, he or she will:
-<ul>
-<li>Support and execute identified association strategies and initiatives that will promote long term chapter membership growth and retention</li>
-<li>Understand and provide chapter administrative support with standardized tools, resources and answers to their leadership inquiries</li>
-<li>Be available to travel no more than 10% annually including weekends</li>
-</ul>
-Reports to: Director, Membership and Chapter Relations <br />
-Exempt - Full Time<br />
-City/State: Nashville, TN<br />
-[Membership and Chapter Relations Manager](/uploads/Memb-and-Ch-Relations-Manager.pdf){:target="_blank"}
-
-<hr>
-
 
 ### Marketing & Communications Manager
 Our growing company is seeking to hire a Marketing & Communications Manager who will be an integral part of the Marketing Department in organizing and leading various internal and external client projects. This job involves monitoring project plans, schedules, work hours, budgets and expenditures, scheduling and participating in stakeholder meetings, and ensuring that project deadlines are met in a timely manner.<br />
@@ -90,4 +66,26 @@ City/State: Little Rock, AR<br />
 
 <hr>
 
+
+
+
+### Manager of Customer Service
+The Manager of Customer Service maintains customer satisfaction by providing problem-solving resources and leading and motivating the customer service team to ensure the best customer service possible. The goal is to provide outstanding customer service to both our external and internal customers by developing effective customer service procedures to increase customer satisfaction, loyalty and retention and to meet their expectations.<br />
+Reports to: Director, Human Resources<br />
+Exempt - Full Time<br />
+City/State: Little Rock, AR<br />
+[Manager of Customer Service](/uploads/Manager-Customer-Service.pdf){:target="_blank"}
+
+<hr>
+
+
+
+### Exhibit Sales Representative (Inside Product Sales with Account Management)
+The Exhibit Sales Representative will be a high performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative. This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.<br />
+Reports to: Director of Sales<br />
+Exempt - Full Time<br />
+City/State: Little Rock, AR or Nashville, TN<br />
+[Exhibit Sales Representative](/uploads/Exhibit-Sales-Rep.pdf){:target="_blank"}
+
+<hr>
 To apply, please submit a cover letter and resume to [Director of Human Resources](mailto:clund@cgiresults.com).
