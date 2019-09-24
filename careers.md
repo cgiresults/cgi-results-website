@@ -58,6 +58,17 @@ City/State: Little Rock, AR<br />
 [Manager of Customer Service](/uploads/Manager-Customer-Service.pdf){:target="_blank"}
 
 
+<hr>
+
+
+### Administrative Assistant
+The Administrative Assistant is responsible for providing effective customer service for all internal and external customers by using excellent communication skills, in-depth knowledge of company products and programs. The Administrative Assistant assists guests, provides information, supports executives and monitors the orderly operation of the Nashville office.<br />
+Reports to: Manager of Customer Service<br />
+Hourly, Non-Exempt - Full Time<br />
+City/State: Nashville, TN<br />
+[Administrative Assistant](/uploads/Admin_Assistant.pdf){:target="_blank"}
+
 
 <hr>
 To apply, please submit a cover letter and resume to [Director of Human Resources](mailto:clund@cgiresults.com).
+
