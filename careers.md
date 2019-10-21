@@ -38,17 +38,7 @@ layout: page
 
 <hr>
 
-
-### Project Manager
-The Project Manager is responsible for the direction, coordination, implementation, control and completion of projects in alignment with the strategies, commitments and goals of the organization. This position will handle a broad and diverse range of responsibilities and assignments, both internally and externally, related to product development, client service delivery and internal performance improvement. The Project Manager will collaborate internally with all departments to achieve outcomes. This position interacts with the Senior Project Manager and Director on strategic planning and business growth initiatives. Accountabilities include revenue/net income goals for multiple budgets, rollout deadlines and client satisfaction with joint accountability for companywide leadership goals. <br />
-Reports to: Director, Product Development and Performance Improvement<br />
-Exempt - Full Time<br />
-City/State: Little Rock, AR<br />
-[Project Manager](/uploads/Project-Manager.pdf){:target="_blank"}
-
-
 <hr>
-
 
 ### Manager of Customer Service
 The Manager of Customer Service maintains customer satisfaction by providing problem-solving resources and leading and motivating the customer service team to ensure the best customer service possible. The goal is to provide outstanding customer service to both our external and internal customers by developing effective customer service procedures to increase customer satisfaction, loyalty and retention and to meet their expectations.<br />
@@ -59,14 +49,6 @@ City/State: Little Rock, AR<br />
 
 
 <hr>
-
-
-### Administrative Assistant
-The Administrative Assistant is responsible for providing effective customer service for all internal and external customers by using excellent communication skills, in-depth knowledge of company products and programs. The Administrative Assistant assists guests, provides information, supports executives and monitors the orderly operation of the Nashville office.<br />
-Reports to: Manager of Customer Service<br />
-Hourly, Non-Exempt - Full Time<br />
-City/State: Nashville, TN<br />
-[Administrative Assistant](/uploads/Admin_Assistant.pdf){:target="_blank"}
 
 
 <hr>
