@@ -83,7 +83,7 @@ Christy earned a B.A. Public Relations with minor in Marketing from Southern Met
 
 With over 25 years of experience in employee relations and operations management, Christy has devoted her professional life to “finding the best…and most importantly keeping the best” as it is her career mission to be a successful career “match-maker” to ensure a collaborative and caring connectivity between all parties. 
 
-Outside of work, Christy enjoys spending time with her family and friends, gardening, volunteering, interior decorating and living life to its fullest. She is mother of 4 (3 boys and 1 girl) and after 25 years in the San Francisco Bay Area, Christy has happily returned to her original hometown of Little Rock to embrace her time with family and friends and raise her young daughter as a Southern belle. As she often quotes…in the words of Dorothy (Wizard of OZ), “There’s no place like home!”
+Outside of work, Christy enjoys spending time with her family and friends, gardening, volunteering, interior decorating and living life to its fullest. After 25 years in the San Francisco Bay Area, Christy has happily returned to her original hometown of Little Rock to embrace her time with family and friends and raise her daughter as a Southern belle. As she often quotes…in the words of Dorothy (Wizard of OZ), “There’s no place like home!”
 
 
 
