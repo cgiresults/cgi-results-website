@@ -145,3 +145,51 @@ Aaron joined CGi in 2014, supporting sales efforts across a variety of client pr
 He brings to CGi over 14 years of professional experience and a passion for connecting people and institutions to resources that improve their performance. This passion has helped CGi grow both traditional revenue streams for clients such as conference sponsorship and association membership, as well as nontraditional client revenue streams such as ACMA’s Compass Directional Training program (learn more about these diversified revenue streams [here](/results/)). 
 
 Aaron earned his BA in Psychology from Hendrix College and his MBA from the University of Phoenix. When not serving CGi’s clients, he enjoys outdoor activities such as cycling, kayaking, and camping, with the occasional board game when the weather dictates indoor activities.
+
+### Kenneth Young, CPA
+***Controller***
+
+Kenneth joined CGi in 2018, supervising the accounting functions and providing financial reporting assistance and oversight to all departments.
+
+Prior to joining CGi, he spent over 12 years performing audits and financial compilations in Arkansas and Louisiana. He brings a passion for financial reporting, problem solving, continuous improvement, and client service.
+
+Kenneth earned his BS in Accounting from Louisiana Tech University and is a Certified Public Accountant. He enjoys spending time with his family, especially regarding outdoor activities such as hiking and camping.  He is also a leader for Cub Scouts and various genetic genealogy organizations.
+
+
+### Amber Mohr
+***Director, Membership and Chapter Relations***
+
+Amber joined CGi in 2018 as our Director of Membership and quickly took on additional responsibilities to become our Director, Membership and Chapter Relations.
+
+She brings CGi more than 20 years of relevant experience in sales, marketing, alumni relations and long-term case management with a national addiction treatment organization. In her last role, she started with an addiction treatment company when they were a new start-up business. She created their Alumni Relations Department from the ground-floor, providing their patients with a community of peers in recovery, and developed a long-term case management program that gave their alumni access to support, accountability, and continued recovery coaching for a one year continuum of care after their residential treatment.
+
+She very quickly put her prior experience to use in improving resources and processes for ACMA’s 32 chapters. 
+
+
+### Karen Kaiser
+***Director, Development and Fundraising***
+
+Karen earned a BA with a double major in Communications and Journalism from the University of Evansville. She spent her early career in television production in San Antonio, West Lafayette, IN and Nashville, TN. For the past 15 years she has been following her passion of helping others by working with various non-profits as a marketing and development leader.    
+
+Karen is a dynamic executive with a proven track record of building relationships and managing projects from concept to completion in order to increase brand awareness and raise funding for organizational support. She is experienced in strategic thinking, operations, project management, budget management, and revenue development,
+
+In her current role, Karen is responsible for development and fundraising. She is based in Nashville, TN.  
+
+
+
+### Shelly Greenwood
+***Director, Sales***
+
+Shelly began her professional event management career in 1997, working for a small association management company in Little Rock, AR.  Shelly has over 20+ years of experience working with non-profit and association management companies in leadership roles that include event and sales management positions. She continues to serve on the inaugural Customer Advisory Board for the Little Rock Convention and Visitors Bureau, assisting her adopted hometown of Little Rock in growing and expanding the community to bring meetings and events to Little Rock. She completed a 2-year term on the MPI (Meeting Professionals International) committee for publications, which included the review of articles published in the MPI professional magazine. She is an active member of MPI, PCMA and ASAE. Shelly is passionate about bringing recognition to the exhibitors and sponsors whose products and services bring value to the everyday work that case managers do. 
+
+Shelly has her bachelor’s degree in business administration from the University of Arkansas at Little Rock in Little Rock, AR. In her spare time, she likes to spend time with her adult children. She enjoys a healthy lifestyle and has completed 6 half marathons. Shelly is a charter member of The Summit Church Little Rock where she serves as the childcare ministry director. Shelly is a lifelong learner and enjoys reading to continue to learn and grow. She is an Arkansas transplant and considers Little Rock her hometown.
+
+
+### Michelle Murphey Porter, CAE
+***Director, Certification***
+
+Michelle earned a B.A. in English with a minor in psychology from the University of Montevallo in Montevallo, AL. She joined CGi in November 2019 as the Director of Certification.
+
+Prior to CGi, Michelle spent 13 years in the association world within the building safety industry, directing a certification program of over 400 exam titles and 165,000 certificate holders. The focus on creating and maintaining quality, credible credentials to allow for both personal growth and public safety will be continued with the multiple certifications managed by CGi. 
+
+Besides work, Michelle enjoys the many sporting and cultural events offered by a city like Nashville, where she is based.
