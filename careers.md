@@ -73,7 +73,7 @@ The VP of Practice Development will require staff management experience as well 
 Reports to: CEO<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR or Nashville, TN, Remote Work to be considered<br />
-
+[Vice President, Practice Development](/uploads/Job%20Desp%20-%20Vice%20President%20Practice%20Development.pdf){:target="_blank"}
 <hr>
 
 
