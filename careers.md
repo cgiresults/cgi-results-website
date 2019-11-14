@@ -92,7 +92,7 @@ The primary objectives are:
 Reports to: Director, Finance<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-
+[Information Technology Manager](/uploads/Job%20Desp%20-%20Information%20Technology%20(IT)%20Manager.pdf){:target="_blank"}
 <hr>
 
 
