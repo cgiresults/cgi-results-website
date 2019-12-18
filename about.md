@@ -63,7 +63,7 @@ Outside of his professional life, Randall stays busy with two very active young 
 
 
 ### Lis Harrell
-***Director, Product Development and Performance Improvement***
+***Director, Business Development***
 
 Elisabet ‘Lis’ Harrell joined CGi in 2015 and is the Director of Product Development and Performance Improvement for CGi. 
 
