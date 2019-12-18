@@ -67,7 +67,7 @@ Outside of his professional life, Randall stays busy with two very active young 
 
 Elisabet ‘Lis’ Harrell joined CGi in 2015 and is the Director of Product Development and Performance Improvement for CGi. 
 
-She has 18+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
+She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
  
 In her current role, Lis is responsible for product and program development, including Compass Directional Training, Certification and new members services. Lis is additionally responsible for internal performance improvement and project management initiatives.    
  
