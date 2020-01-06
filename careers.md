@@ -51,34 +51,6 @@ City/State: Little Rock, AR<br />
 
 <hr>
 
-### Vice President, Practice Development
-The VP of Practice Development is responsible for and/or influences initiatives and services that define and impact the practice of case management.  The scope of responsibilities includes:
-
-•	Plan, Develop and Maintain the current standards of practice/scope of services for case management and transitions of care; and ensure consistency and support of these standards in all ACMA product content.
-•	Position and Enhance the recognition of the Case Management and Transitions of Care professionals and practice; 
-•	Ensure the connectivity and support for ACMA’s Case Management and Transitions of Care standards with key stakeholders and related organizations. 
-•	Influence and Direct conference, publication, and webinar content to reflect current trends and ACMA standards of practice/scope of services for current and desired membership;
-•	Providing definition and influencing service development and association identity for critical roles tangential to the success of Case Management, i.e. Physician Advisors 
-•	Provide Executive Support for APLCM via strategic planning, member benefit/service development, and research
-•	Develop, enhance, and implement ACMA offerings that relate to Case Management and Transitions of Care practice 
-•	Enhance clinical credibility of case management and transitions of care professionals via:
-
-o	Simulation Training 
-o	Certification Standards 
-o	National Networking/Marketing
-
-The Vice President of Practice Development will have experience in strategic planning for organization initiatives. Experience should include the demonstration of successful development, implementation and promotion of initiatives, products, services that advance the organizational mission. 
-
-The VP of Practice Development will require staff management experience as well as stakeholder relationship management.  
-Reports to: CEO<br />
-Exempt - Full Time<br />
-City/State: Little Rock, AR or Nashville, TN, Remote Work to be considered<br />
-[Vice President, Practice Development](/uploads/Job%20Desp%20-%20Vice%20President%20Practice%20Development.pdf){:target="_blank"}
-<hr>
-
-
-<hr>
-
 ### Information Technology (IT) Manager
 IT Manager is responsible for planning, implementing and managing complex systems and solutions via hardware and software technologies.  Responsible and accountable for the smooth operation and continual maintenance of the complete IT infrastructure and connectivity between two offices and remote users.  IT Manager will analyze our current systems and assets, recommend and implement solutions and upgrades, and provide training and help desk support.  
 The primary objectives are:
