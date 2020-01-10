@@ -45,6 +45,13 @@ Greg created the first hospital case management conference in the U.S., which ha
 Greg founded CGi in 2005.
 
 
+### Brian Van Norman, CAE
+***Senior Vice President***
+
+With more than 20 years of experience, Brian began his career as a Program Manager for Student Affairs with the American Academy of Family Physicians. He later served as Executive Director for Hotel Brokers International, Executive Director for Children’s Miracle Network at the University of Kansas Medical Center, Director of Chapter Relations and Membership for twelve years with the American Public Works Association in Kansas City and most recently the Chief Membership Development Officer with Shriners International, a 200,000 member organization.
+
+Brian earned a bachelor’s degree in organizational communication and leadership from Southern Nazarene University and is a Certified Association Executive from the American Society of Association Executives.
+
 
 ### Randall Archer, MBA
 ***Vice President, Business & Product Development***
@@ -77,27 +84,13 @@ Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Li
 
 
 ### Christy Lund
-***Director of Human Resources***
+***Director, Human Resources***
 
 Christy earned a B.A. Public Relations with minor in Marketing from Southern Methodist University (SMU). She joined CGI in September 2017, as Director of Human Resources. 
 
 With over 25 years of experience in human resources, employee relations and operations management, Christy has devoted her professional life to “finding the best…and most importantly keeping the best” as it is her career mission to be a successful career “match-maker” to ensure a collaborative and caring connectivity between all parties. 
 
 Outside of work, Christy enjoys spending time with her family and friends, gardening, volunteering, interior decorating and living life to its fullest. After 25 years in the San Francisco Bay Area, Christy has happily returned to her original hometown of Little Rock to embrace her time with family and friends and raise her daughter as a Southern belle. As she often quotes…in the words of Dorothy (Wizard of OZ), “There’s no place like home!”
-
-
-
-### Deb McElroy, RN, MPH
-***Senior Vice President, Practice Development***
-
-Deb holds a master’s degree in public health and a bachelor’s degree in nursing. Her publications include topics related to chronic disease, nurse residency and advanced practice. 
-
-Debra McElroy is the Vice President for Practice Development, where she leads development of new initiatives, primarily for ACMA and CGi's healthcare clients, and has oversight of ACMA's work in transitions of care, the ACMA Advanced Care Transition Simulations (ACTS) program, and the Association for Physician Leadership in Care Management (APLCM). 
-
-Deb is the former national nursing leader for the largest national health care improvement organization and healthcare collaborative, where she had responsibility for programs and data products supporting nursing leaders and inter-professional practice across the country. She has extensive experience in the community and public health sector, previously directing healthcare coalitions and federally funded initiatives that established infrastructure for medical homes.
-
-Deb joined CGi in 2017 and is based in Chicago, IL.
-
 
 
 ### Becky Nations
@@ -122,10 +115,15 @@ Maria joined CGi in 2006, coming from a background in hotel and hospitality mana
 
 Maria currently leads CGi's finance and accounting team, and oversees the financial health of CGi's client organizations. She is based in Little Rock, AR.
 
+### Marlene Bober, MHA, ACM-RN
+***Vice President, Practice Development***
 
+With more than 20 years of experience as an Executive Nurse Leader, Marlene’s career includes management roles in medical-surgical and oncology patient care, epidemiology/infection control, and quality and utilization management. She has served as Director of Nursing, Director of Clinical Informatics, and Administrator for Enterprise Care Management where she had accountability for the integration of all acute care management strategies for the Illinois-based Advocate Healthcare system. Her most recent role was that of Vice President for Integrated Care Management for Advocate Aurora Health Care’s 500 sites of care and 27 hospitals.
+ 
+Marlene earned her Bachelor of Science degree and Master of Science in Health Services degree from the University of St Francis. She has also earned a certificate of executive management and project management from Harvard T.H. Chan School of Public Health.
 
 ### KT Short
-***Director of Meetings and Events***
+***Director, Meetings and Events***
 
 KT graduated from the University of Mississippi (Ole Miss) with a bachelor’s degree in broadcast journalism and earned her Juris Doctorate from Mississippi College in 2002.
 
