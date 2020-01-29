@@ -49,23 +49,7 @@ City/State: Little Rock, AR<br />
 
 <hr>
 
-<hr>
 
-### Information Technology (IT) Manager
-IT Manager is responsible for planning, implementing and managing complex systems and solutions via hardware and software technologies.  Responsible and accountable for the smooth operation and continual maintenance of the complete IT infrastructure and connectivity between two offices and remote users.  IT Manager will analyze our current systems and assets, recommend and implement solutions and upgrades, and provide training and help desk support.  
-The primary objectives are:
-
-•	Maintain essential IT operations, including operating systems, security tools, applications, servers, email systems, laptops, desktops, software, and hardware
-•	Handle business-critical IT tasks and systems administration
-•	Research and evaluate emerging technologies, hardware, and software
-•	Provide technical assistance and support to staff for incoming queries and issues related to computer systems, hardware, or software issues. 
-•	Track and maintain hardware and software inventory<br />
-
-Reports to: Director, Finance<br />
-Exempt - Full Time<br />
-City/State: Little Rock, AR<br />
-[Information Technology Manager](/uploads/Job%20Desp%20-%20Information%20Technology%20(IT)%20Manager.pdf){:target="_blank"}
-<hr>
 
 
 <hr>
