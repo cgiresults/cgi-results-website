@@ -40,12 +40,12 @@ layout: page
 
 <hr>
 
-### Manager of Customer Service
-The Manager of Customer Service maintains customer satisfaction by providing problem-solving resources and leading and motivating the customer service team to ensure the best customer service possible. The goal is to provide outstanding customer service to both our external and internal customers by developing effective customer service procedures to increase customer satisfaction, loyalty and retention and to meet their expectations.<br />
+### Administrative Assistant
+The Administrative Assistant is responsible for providing effective customer service for all internal and external customers by using excellent communication skills, in-depth knowledge of company products and programs.  The Administrative Assistant assists guests, provides information, supports executives and monitors the orderly operation of the Nashville office.<br />
 Reports to: Director, Human Resources<br />
-Exempt - Full Time<br />
-City/State: Little Rock, AR<br />
-[Manager of Customer Service](/uploads/Manager-Customer-Service.pdf){:target="_blank"}
+Hourly, Non-Exempt - Full Time<br />
+City/State: Nashville, TN<br />
+[[Job Desp - Administrative Assistant.pdf](/uploads/Job%20Desp%20-%20Administrative%20Assistant.pdf)){:target="_blank"}
 
 <hr>
 
