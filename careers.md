@@ -45,7 +45,7 @@ The Administrative Assistant is responsible for providing effective customer ser
 Reports to: Director, Human Resources<br />
 Hourly, Non-Exempt - Full Time<br />
 City/State: Nashville, TN<br />
-[[Job Desp - Administrative Assistant.pdf](/uploads/Job%20Desp%20-%20Administrative%20Assistant.pdf)){:target="_blank"}
+[[Job Desp - Administrative Assistant.pdf](/uploads/Job%20Desp%20-%20Administrative%20Assistant.pdf))
 
 <hr>
 
