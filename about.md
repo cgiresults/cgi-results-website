@@ -153,18 +153,6 @@ Prior to joining CGi, he spent over 12 years performing audits and financial com
 
 Kenneth earned his BS in Accounting from Louisiana Tech University and is a Certified Public Accountant. He enjoys spending time with his family, especially regarding outdoor activities such as hiking and camping.  He is also a leader for Cub Scouts and various genetic genealogy organizations.
 
-
-### Brian Clark
-***Director, Marketing and Communications***
-
-Brian has spent the majority of his marketing career in the advertising agency business working for firms in Arkansas, Louisiana and Mississippi. He joined CGi in July 2018 as Director Marketing & Communications. Brian has a BA in Broadcast Journalism from the University of Nebraska-Lincoln, Lincoln, NE.
-
-He has extensive and broad marketing and communications experience working for clients in several different industry sectors, including hospital and healthcare, energy, hospitality and tourism, information technology and banking and financial services. He served in executive-level positions in recent years after owning his own advertising/marketing/public relations firm for more than ten years. Throughout his career, Brian has worked with best in class clients such as Mercy Hospital, Arkansas Department of Parks & Tourism, Entergy Corporation, Acxiom, J.B. Hunt, Walmart, Bank of the Ozarks and the Louisiana Office of Tourism to name just a few.
-
-Brian enjoys sailing, fishing and playing golf. He is also an avid soccer fan, a former collegiate player and a retired coach. He coached women’s soccer for over 30-years at the premier league level and before retiring from coaching, he was the head soccer coach at Mount St. Mary Academy in Little Rock. Brian has been married for over 32 years and has two daughters, one is a middle school math teacher in Nashville and the other is a nurse in Dallas.
-
-
-
 ### Amber Mohr
 ***Director, Membership and Chapter Relations***
 
@@ -173,18 +161,6 @@ Amber joined CGi in 2018 as our Director of Membership and quickly took on addit
 She brings CGi more than 20 years of relevant experience in sales, marketing, alumni relations and long-term case management with a national addiction treatment organization. In her last role, she started with an addiction treatment company when they were a new start-up business. She created their Alumni Relations Department from the ground-floor, providing their patients with a community of peers in recovery, and developed a long-term case management program that gave their alumni access to support, accountability, and continued recovery coaching for a one year continuum of care after their residential treatment.
 
 She very quickly put her prior experience to use in improving resources and processes for ACMA’s 32 chapters. 
-
-
-### Karen Kaiser
-***Director, Development and Fundraising***
-
-Karen earned a BA with a double major in Communications and Journalism from the University of Evansville. She spent her early career in television production in San Antonio, West Lafayette, IN and Nashville, TN. For the past 15 years she has been following her passion of helping others by working with various non-profits as a marketing and development leader.    
-
-Karen is a dynamic executive with a proven track record of building relationships and managing projects from concept to completion in order to increase brand awareness and raise funding for organizational support. She is experienced in strategic thinking, operations, project management, budget management, and revenue development,
-
-In her current role, Karen is responsible for development and fundraising. She is based in Nashville, TN.  
-
-
 
 ### Shelly Greenwood
 ***Director, Sales***
