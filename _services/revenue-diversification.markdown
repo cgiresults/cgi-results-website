@@ -1,6 +1,6 @@
 ---
 title: Revenue Diversification
-position: 4
+position: 3
 Image: "/uploads/revenue-diversification.jpg"
 Short Description: Economic changes dictate the need for diversification. CGi's ability
   to deliver results is proven. We create sustainable sources of non-dues and non-event

@@ -1,6 +1,6 @@
 ---
 title: Educational Content Development and Management
-position: 3
+position: 2
 Image: "/uploads/educational-content-development-e506e7.jpg"
 Short Description: Compelling content makes an impact. From events to online education,
   CGi has proven expertise in developing and delivering meaningful content via multiple

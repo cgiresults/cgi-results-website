@@ -1,7 +1,7 @@
 ---
 title: Strategic Services
 date: 2017-08-21 03:12:00 Z
-position: 2
+position: 4
 Image: "/uploads/strategic-services.jpg"
 Short Description: Strategic planning is about the future; your organization's impact
   must be envisioned. CGi will help you create and achieve a vision based on your
