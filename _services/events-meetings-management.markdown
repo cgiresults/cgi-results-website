@@ -1,5 +1,5 @@
 ---
-title: Live Events Management
+title: Live Event Management
 position: 0
 Image: "/uploads/events-meetings.jpg"
 Short Description: |-
