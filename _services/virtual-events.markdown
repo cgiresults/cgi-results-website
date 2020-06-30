@@ -6,15 +6,18 @@ Short Description: 'Has your planned live event has been cancelled due to COVID-
   Now what? Talk to us about virtual conference options. '
 ---
 
+
 <div class="row mb-5 pb-4">
 
     <div class="col-md-6">
 
       <h2>Live Event Cancelled? Now What?</h2>
 
+      <br />
       <p>
       If your organization's live event has been cancelled due to COVID-19, what are your options? Should you just skip any kind of conference this year? What are your virtual conference options? Are your consitituents interested in participating in a live event? 
       </p>
+
 
       <p>
       The good news - There are excellent virtual conference options available. CGi is experienced in producing virutal events that meet multiple objectives:
@@ -31,7 +34,7 @@ Short Description: 'Has your planned live event has been cancelled due to COVID-
       </p>
 
       <p>
-        Contact us today to begin planning your interactive virtual event.  We’re ready to discuss your event goals and customize a solution tailored to meet your goals. 
+        Contact us today to begin planning your interactive virtual event.  We’re ready to discuss your event goals and customize a solution tailored to meet your goals. For information, please contact KT Short at <a href="mailto:kshort@cgiresults.com">kshort@cgiresults.com</a>.
       </p>
 
 
@@ -43,3 +46,5 @@ Short Description: 'Has your planned live event has been cancelled due to COVID-
     </div>
 
 </div>
+
+
