@@ -40,16 +40,12 @@ layout: page
 
 <hr>
 
-### Administrative Assistant
-The Administrative Assistant is responsible for providing effective customer service for all internal and external customers by using excellent communication skills, in-depth knowledge of company products and programs.  The Administrative Assistant assists guests, provides information, supports executives and monitors the orderly operation of the Nashville office.<br />
-Reports to: Director, Human Resources<br />
-Hourly, Non-Exempt - Full Time<br />
-City/State: Nashville, TN<br />
-[[Job Desp - Administrative Assistant.pdf](/uploads/Job%20Desp%20-%20Administrative%20Assistant.pdf))
+### Exhibit Sales Representative - Contract
+The Exhibit Sales Representative (40 hours weekly, contract) will be a high performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative.  This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.  This is a fully remote independent contractor opportunity.<br />
+
+[/uploads/CGi%20-%20Exhibit%20Sales%20Representative_Contract.pdf))
 
 <hr>
-
-
 
 
 <hr>
