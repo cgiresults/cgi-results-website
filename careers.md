@@ -43,7 +43,7 @@ layout: page
 ### Exhibit Sales Representative - Contract
 The Exhibit Sales Representative (40 hours weekly, contract) will be a high performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative.  This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.  This is a fully remote independent contractor opportunity.<br />
 
-[[Exhibit Sales Representative - Contract.pdf](/uploads/CGi%20-%20Exhibit%20Sales%20Representative_Contract.pdf))
+[[(/uploads/CGi%20-%20Exhibit%20Sales%20Representative_Contract.pdf))
 
 
 <hr>
