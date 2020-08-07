@@ -122,19 +122,6 @@ With more than 20 years of experience as an Executive Nurse Leader, Marlene’s 
  
 Marlene earned her Bachelor of Science degree and Master of Science in Health Services degree from the University of St Francis. She has also earned a certificate of executive management and project management from Harvard T.H. Chan School of Public Health.
 
-### KT Short
-***Director, Meetings and Events***
-
-KT graduated from the University of Mississippi (Ole Miss) with a bachelor’s degree in broadcast journalism and earned her Juris Doctorate from Mississippi College in 2002.
-
-She previously served on the Ole Miss Athletics leadership team as an Assistant Athletic Director of Premium Seating and Event Management in Oxford, Mississippi. KT and her team managed over 400 events per year.  She provided oversight on all details related to opening and closing of each sporting venue on campus including premium seating management, food and beverage, customer service, security, NCAA compliance, gameday management logistics, and vendor relations.
-
-Prior to joining the Rebels, KT served as the Senior Director of Premium Seating Management with The Colonnade Group in Birmingham, Alabama. During her tenure there, she oversaw all aspects of premium management and was instrumental in managing newly constructed premium areas of both Ole Miss and The University of North Carolina. KT developed strategic plans for focused daily management of local premium seating directors at Ole Miss, the University of North Carolina, Georgia Tech, and Jacksonville State University. 
-
-KT joined CGi in January 2018. She oversees CGi's events management team which produces over 30 regional and national events per year. She is based in Nashville, TN.
-
-
-
 ### Aaron Van Son
 ***Director, Sales and Products***
 
@@ -152,15 +139,6 @@ Kenneth joined CGi in 2018, supervising the accounting functions and providing f
 Prior to joining CGi, he spent over 12 years performing audits and financial compilations in Arkansas and Louisiana. He brings a passion for financial reporting, problem solving, continuous improvement, and client service.
 
 Kenneth earned his BS in Accounting from Louisiana Tech University and is a Certified Public Accountant. He enjoys spending time with his family, especially regarding outdoor activities such as hiking and camping.  He is also a leader for Cub Scouts and various genetic genealogy organizations.
-
-### Amber Mohr
-***Director, Membership and Chapter Relations***
-
-Amber joined CGi in 2018 as our Director of Membership and quickly took on additional responsibilities to become our Director, Membership and Chapter Relations.
-
-She brings CGi more than 20 years of relevant experience in sales, marketing, alumni relations and long-term case management with a national addiction treatment organization. In her last role, she started with an addiction treatment company when they were a new start-up business. She created their Alumni Relations Department from the ground-floor, providing their patients with a community of peers in recovery, and developed a long-term case management program that gave their alumni access to support, accountability, and continued recovery coaching for a one year continuum of care after their residential treatment.
-
-She very quickly put her prior experience to use in improving resources and processes for ACMA’s 32 chapters. 
 
 ### Shelly Greenwood
 ***Director, Sales***
