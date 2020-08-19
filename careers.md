@@ -31,5 +31,5 @@ layout: page
 
 
 <hr>
-To apply, please submit a cover letter and resume to [Director of Human Resources](mailto:clund@cgiresults.com).
+To apply, please submit a cover letter and resume to Christy Lund - Director of Human Resources(mailto:clund@cgiresults.com).
 
