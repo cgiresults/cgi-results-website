@@ -27,20 +27,7 @@ layout: page
     Is this you? Then take a look at our open positions below.
     </p>
 
-  </div>
 
-  <div class="col-md-6">
-    <img src="/uploads/Highland%20Ridge%20II.jpg" style="max-height: 375px;">
-  </div>
-
-</div>
-
-
-<hr>
-
-<hr>
-
-<hr>
 
 
 <hr>
