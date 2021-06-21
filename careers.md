@@ -53,9 +53,7 @@ City/State: Little Rock, Nashville, TN, or Remote Based<br />
 
 [Job Desp - Controller.docx](/uploads/Job%20Desp%20-%20Controller.docx)
 
-</p>
 
-  </div>
 
 <hr>
 
@@ -70,9 +68,7 @@ City/State: Little Rock, AR <br />
 
 [Job Desp - Customer Service Assistant (CSA) - Current.pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Assistant%20(CSA)%20-%20Current.pdf)
 
-</p>
 
-  </div>
 
 <hr>
 
@@ -87,9 +83,7 @@ City/State: Remote Based<br />
 
 [Job Desp - Director of Practice Development.pdf](/uploads/Job%20Desp%20-%20Director%20of%20Practice%20Development.pdf)
 
-</p>
 
-  </div>
 
 <hr>
 
@@ -104,9 +98,7 @@ City/State: Little Rock, AR<br />
 
 [Job Desp - Executive Assistant.pdf](/uploads/Job%20Desp%20-%20Executive%20Assistant.pdf)
 
-</p>
 
-  </div>
 
 <hr>
 
@@ -123,9 +115,7 @@ City/State: Nashville, TN or Remote Based<br />
 
 [Job Desp - Meeting and Event Manager.pdf](/uploads/Job%20Desp%20-%20Meeting%20and%20Event%20Manager.pdf)
 
-</p>
 
-  </div>
 
 <hr>
 
@@ -140,9 +130,7 @@ City/State: Remote Based<br />
 
 [Job Desp - Sales Representative (Inside Product Sales with Account Management).pdf](/uploads/Job%20Desp%20-%20Sales%20Representative%20(Inside%20Product%20Sales%20with%20Account%20Management).pdf)
 
-</p>
 
-  </div>
 
 <hr>
 
@@ -155,9 +143,7 @@ Reports to: Senior Vice President, Practice Development<br />
 
 [Care Management Consultant job description - Contract.pdf](/uploads/Care%20Management%20Consultant%20job%20description%20-%20Contract.pdf)
 
-</p>
 
-  </div>
 
 <hr>
 
