@@ -53,13 +53,9 @@ City/State: Little Rock, Nashville, TN, or Remote Based<br />
 
 [Job Desp - Controller.docx](/uploads/Job%20Desp%20-%20Controller.docx)
 
+</p>
+
   </div>
-
-  <div class="col-md-6">
-    <img src="/uploads/Highland%20Ridge%20II.jpg" style="max-height: 375px;">
-
-
-<hr>
 
 <hr>
 
@@ -78,15 +74,6 @@ City/State: Little Rock, AR <br />
 
   </div>
 
-  <div class="col-md-6">
-    <img src="/uploads/Highland%20Ridge%20II.jpg" style="max-height: 375px;">
-  </div>
-
-</div>
-
-
-<hr>
-
 <hr>
 
 ### Director of Practice Development
@@ -104,15 +91,6 @@ City/State: Remote Based<br />
 
   </div>
 
-  <div class="col-md-6">
-    <img src="/uploads/Highland%20Ridge%20II.jpg" style="max-height: 375px;">
-  </div>
-
-</div>
-
-
-<hr>
-
 <hr>
 
 ### Executive Assistant
@@ -129,15 +107,6 @@ City/State: Little Rock, AR<br />
 </p>
 
   </div>
-
-  <div class="col-md-6">
-    <img src="/uploads/Highland%20Ridge%20II.jpg" style="max-height: 375px;">
-  </div>
-
-</div>
-
-
-<hr>
 
 <hr>
 
@@ -158,15 +127,6 @@ City/State: Nashville, TN or Remote Based<br />
 
   </div>
 
-  <div class="col-md-6">
-    <img src="/uploads/Highland%20Ridge%20II.jpg" style="max-height: 375px;">
-  </div>
-
-</div>
-
-
-<hr>
-
 <hr>
 
 ### Sales Representative (Inside Sales with Account Management)
@@ -184,15 +144,6 @@ City/State: Remote Based<br />
 
   </div>
 
-  <div class="col-md-6">
-    <img src="/uploads/Highland%20Ridge%20II.jpg" style="max-height: 375px;">
-  </div>
-
-</div>
-
-
-<hr>
-
 <hr>
 
 ### CONTRACT: Care Management Consultant
@@ -207,15 +158,6 @@ Reports to: Senior Vice President, Practice Development<br />
 </p>
 
   </div>
-
-  <div class="col-md-6">
-    <img src="/uploads/Highland%20Ridge%20II.jpg" style="max-height: 375px;">
-  </div>
-
-</div>
-
-
-<hr>
 
 <hr>
 
