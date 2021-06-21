@@ -66,9 +66,6 @@ Randall is also responsible for business development for CGi, where he creates p
 
 Outside of his professional life, Randall stays busy with two very active young children. He and his family enjoy almost anything that allows his family to spend time together and enjoy Tennessee outdoors. 
 
-
-
-
 ### Lis Harrell
 ***Director, Business Development***
 
@@ -94,16 +91,15 @@ Outside of work, Christy enjoys spending time with her family and friends, garde
 
 
 ### Becky Nations
-***Vice President, Sales and Marketing***
+***Vice President, Sales***
 
 Becky began her work in managing ACMA's National Conference in 1999, and she was part of the CGi team when it was founded in 2005. In those early years, she helped produce national and regional events for CGi's client organizations. Her focus then shifted to sales, and she was responsible for filling the exhibition halls at these events.
 
-Today, as Vice President, Sales and Marketing, Becky leads CGi's sales and marketing teams. CGi's sales efforts for its clients include a diverse offering of both business to business and business to consumer services. Becky also oversees marketing for CGi's clients, producing marketing and communication for a variety of services, including membership conferences, and other products/services. 
+Today, as Vice President, Sales, Becky leads CGi's sales team. CGi's sales efforts for its clients include a diverse offering of both business to business and business to consumer services. 
 
 Becky earned her Bachelors degree from the University of South Alabama in Mobile, AL. She is an Arkansas native, and based in Little Rock, AR.
 
  “You have to stand outside the box to see how the box can be re-designed. --Charles Handy”
-
 
 
 ### Maria Velasco Salling, MBA
@@ -116,7 +112,7 @@ Maria joined CGi in 2006, coming from a background in hotel and hospitality mana
 Maria currently leads CGi's finance and accounting team, and oversees the financial health of CGi's client organizations. She is based in Little Rock, AR.
 
 ### Marlene Bober, MHA, ACM-RN
-***Vice President, Practice Development***
+***Senior Vice President, Practice Development***
 
 With more than 20 years of experience as an Executive Nurse Leader, Marlene’s career includes management roles in medical-surgical and oncology patient care, epidemiology/infection control, and quality and utilization management. She has served as Director of Nursing, Director of Clinical Informatics, and Administrator for Enterprise Care Management where she had accountability for the integration of all acute care management strategies for the Illinois-based Advocate Healthcare system. Her most recent role was that of Vice President for Integrated Care Management for Advocate Aurora Health Care’s 500 sites of care and 27 hospitals.
  
@@ -130,15 +126,6 @@ Aaron joined CGi in 2014, supporting sales efforts across a variety of client pr
 He brings to CGi over 14 years of professional experience and a passion for connecting people and institutions to resources that improve their performance. This passion has helped CGi grow both traditional revenue streams for clients such as conference sponsorship and association membership, as well as nontraditional client revenue streams such as ACMA’s Compass Directional Training program (learn more about these diversified revenue streams [here](/results/)). 
 
 Aaron earned his BA in Psychology from Hendrix College and his MBA from the University of Phoenix. When not serving CGi’s clients, he enjoys outdoor activities such as cycling, kayaking, and camping, with the occasional board game when the weather dictates indoor activities.
-
-### Kenneth Young, CPA
-***Controller***
-
-Kenneth joined CGi in 2018, supervising the accounting functions and providing financial reporting assistance and oversight to all departments.
-
-Prior to joining CGi, he spent over 12 years performing audits and financial compilations in Arkansas and Louisiana. He brings a passion for financial reporting, problem solving, continuous improvement, and client service.
-
-Kenneth earned his BS in Accounting from Louisiana Tech University and is a Certified Public Accountant. He enjoys spending time with his family, especially regarding outdoor activities such as hiking and camping.  He is also a leader for Cub Scouts and various genetic genealogy organizations.
 
 ### Shelly Greenwood
 ***Director, Sales***
@@ -156,3 +143,10 @@ Michelle earned a B.A. in English with a minor in psychology from the University
 Prior to CGi, Michelle spent 13 years in the association world within the building safety industry, directing a certification program of over 400 exam titles and 165,000 certificate holders. The focus on creating and maintaining quality, credible credentials to allow for both personal growth and public safety will be continued with the multiple certifications managed by CGi. 
 
 Besides work, Michelle enjoys the many sporting and cultural events offered by a city like Nashville, where she is based.
+
+### Amy Corman Page
+***Director, Marketing and Communications***
+
+Amy is a data-driven professional with over 15 years’ experience spanning large data manipulation and management, predictive analytics, comprehensive marketing, project management, account management, and process improvement strategies for both for-profit and non-profit organizations.  Before joining CGi as Vice President of Marketing and Communications, Amy held positions at Citigroup (AVP, Risk Analyst), Galls, Inc. (Marketing Analyst), Associations International (Sr. Operations and Membership Manager for the Kentucky Petroleum Marketers Association), and Cornett Advertising (Account Planner for UK HealthCare).  Amy holds a Master of Science degree in Economics with a concentration in Health Economics from East Carolina University.
+
+Amy and her family reside in Wake Forest, NC, where she is an active runner.  She and her husband David have two children.  As a family, they enjoy various sporting events, traveling, and many outdoor activities.
