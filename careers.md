@@ -53,15 +53,10 @@ City/State: Little Rock, Nashville, TN, or Remote Based<br />
 
 [Job Desp - Controller.docx](/uploads/Job%20Desp%20-%20Controller.docx)
 
-</p>
-
   </div>
 
   <div class="col-md-6">
     <img src="/uploads/Highland%20Ridge%20II.jpg" style="max-height: 375px;">
-  </div>
-
-</div>
 
 
 <hr>
