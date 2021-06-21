@@ -40,6 +40,8 @@ City/State: Little Rock, Nashville, TN, or Remote Based<br />
 
 [Job Desp - Controller.docx](/uploads/Job%20Desp%20-%20Controller.docx)
 
+    </p>
+
 ### Customer Service Assistant
 The Customer Service Assistant (CSA) is responsible for providing effective, timely and professional customer service for all internal and external customers by using excellent communication skills and in-depth knowledge of company products and programs.  The CSA is cross trained in several “key responsibility” areas of the organization to provide administrative support to other departments to ensure quality and expedient customer service. The CSA is responsible for entering data into the call log/ticketing system to maintain accurate records for all incoming calls and email activity. Additionally, the CSA serves as the receptionist to assist office visitors, provide information and hospitality, and monitors the orderly operation of the office.<br />
 
@@ -51,6 +53,7 @@ City/State: Little Rock, AR <br />
 
 [Job Desp - Customer Service Assistant (CSA) - Current.pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Assistant%20(CSA)%20-%20Current.pdf)
 
+    </p>
 
 ### Director of Practice Development
 The Director of Practice Development has operational oversight of clinical education, clinical content programming, CE services, Research, and ACTS and associated leadership responsibilities within the management company, CGi.<br />
@@ -63,6 +66,7 @@ City/State: Remote Based<br />
 
 [Job Desp - Director of Practice Development.pdf](/uploads/Job%20Desp%20-%20Director%20of%20Practice%20Development.pdf)
 
+    </p>
 
 ### Executive Assistant
 The Executive Assistant is responsible for providing effective administrative and personal support for the CEO using excellent planning/time management, organizational skills, communication skills, internal and external customer service/management and ensuring company branding in all representation of the CEO.<br />
@@ -75,6 +79,7 @@ City/State: Little Rock, AR<br />
 
 [Job Desp - Executive Assistant.pdf](/uploads/Job%20Desp%20-%20Executive%20Assistant.pdf)
 
+    </p>
 
 ### Meeting and Event Manager
 The Meeting and Event Manager will provide account management services to manage approximately 12-14 ACMA chapter conferences held across the United States throughout the year. This position will work as a team with another Meeting and Event Manager to plan and manage other ACMA conferences and client meetings and will have project management oversite for meeting and event related tasks. 
@@ -89,6 +94,8 @@ City/State: Nashville, TN or Remote Based<br />
 
 [Job Desp - Meeting and Event Manager.pdf](/uploads/Job%20Desp%20-%20Meeting%20and%20Event%20Manager.pdf)
 
+    </p>
+
 ### Sales Representative (Inside Sales with Account Management)
 The Sales Representative will be a high-performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative.  This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.<br />
 
@@ -100,6 +107,7 @@ City/State: Remote Based<br />
 
 [Job Desp - Sales Representative (Inside Product Sales with Account Management).pdf](/uploads/Job%20Desp%20-%20Sales%20Representative%20(Inside%20Product%20Sales%20with%20Account%20Management).pdf)
 
+    </p>
 
 ### CONTRACT: Care Management Consultant
 The Care Management Consultant functions as an advisor or a consultant for CGi in special project work or consulting services.<br />
@@ -110,6 +118,7 @@ Reports to: Senior Vice President, Practice Development<br />
 
 [Care Management Consultant job description - Contract.pdf](/uploads/Care%20Management%20Consultant%20job%20description%20-%20Contract.pdf)
 
+    </p>
 
 ### CONTRACT: ACTS Program Trainer
 Advanced Care Transition Simulation© is an educational program developed by the American Case Management Association (ACMA) to support professional development of case management professionals using simulation.  Health care simulation is a new methodology for case management. The ACTS program of materials is aligned with Compass©, an ACMA platform of educational modules.  The ACMA ACTS Program Trainer role will facilitate the necessary planning, coordination and education to organizations contracted with the ACTS program.<br />
