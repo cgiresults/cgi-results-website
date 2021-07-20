@@ -45,16 +45,8 @@ Greg created the first hospital case management conference in the U.S., which ha
 Greg founded CGi in 2005.
 
 
-### Brian Van Norman, CAE
-***Senior Vice President***
-
-With more than 20 years of experience, Brian began his career as a Program Manager for Student Affairs with the American Academy of Family Physicians. He later served as Executive Director for Hotel Brokers International, Executive Director for Children’s Miracle Network at the University of Kansas Medical Center, Director of Chapter Relations and Membership for twelve years with the American Public Works Association in Kansas City and most recently the Chief Membership Development Officer with Shriners International, a 200,000 member organization.
-
-Brian earned a bachelor’s degree in organizational communication and leadership from Southern Nazarene University and is a Certified Association Executive from the American Society of Association Executives.
-
-
 ### Randall Archer, MBA
-***Vice President, Business & Product Development***
+***Vice President, Sales and Business Development***
 
 Randall earned a Bachelors of Business Administration from Wake Forest University, and an MBA from Arkansas State University. 
 
@@ -67,9 +59,9 @@ Randall is also responsible for business development for CGi, where he creates p
 Outside of his professional life, Randall stays busy with two very active young children. He and his family enjoy almost anything that allows his family to spend time together and enjoy Tennessee outdoors. 
 
 ### Lis Harrell
-***Director, Business Development***
+***Director, Product Development and Meeting Services***
 
-Elisabet ‘Lis’ Harrell joined CGi in 2015 and is the Director of Product Development and Performance Improvement for CGi. 
+Elisabet ‘Lis’ Harrell joined CGi in 2015 and is the Director of Product Development and Meeting Services for CGi. 
 
 She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
  
@@ -77,11 +69,8 @@ In her current role, Lis is responsible for product and program development, inc
  
 Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Little Rock, AR.
 
-
-
-
 ### Christy Lund
-***Director, Human Resources***
+***Vice President, Human Resources and Customer Service***
 
 Christy earned a B.A. Public Relations with minor in Marketing from Southern Methodist University (SMU). She joined CGI in September 2017, as Director of Human Resources. 
 
@@ -91,7 +80,7 @@ Outside of work, Christy enjoys spending time with her family and friends, garde
 
 
 ### Becky Nations
-***Vice President, Sales***
+***Vice President, Continuous Improvement and Special Projects***
 
 Becky began her work in managing ACMA's National Conference in 1999, and she was part of the CGi team when it was founded in 2005. In those early years, she helped produce national and regional events for CGi's client organizations. Her focus then shifted to sales, and she was responsible for filling the exhibition halls at these events.
 
@@ -103,7 +92,7 @@ Becky earned her Bachelors degree from the University of South Alabama in Mobile
 
 
 ### Maria Velasco Salling, MBA
-***Vice President, Finance and Account Management***
+***Vice President, Finance and Information Technology***
 
 Maria holds a Bachelors degree from Harding University, and earned her MBA from the University of Arkansas at Little Rock (UALR).
 
@@ -119,7 +108,7 @@ With more than 20 years of experience as an Executive Nurse Leader, Marlene’s 
 Marlene earned her Bachelor of Science degree and Master of Science in Health Services degree from the University of St Francis. She has also earned a certificate of executive management and project management from Harvard T.H. Chan School of Public Health.
 
 ### Aaron Van Son
-***Director, Sales and Products***
+***Director, Product Sales***
 
 Aaron joined CGi in 2014, supporting sales efforts across a variety of client programs and services as Director of Sales.
 
@@ -128,7 +117,7 @@ He brings to CGi over 14 years of professional experience and a passion for conn
 Aaron earned his BA in Psychology from Hendrix College and his MBA from the University of Phoenix. When not serving CGi’s clients, he enjoys outdoor activities such as cycling, kayaking, and camping, with the occasional board game when the weather dictates indoor activities.
 
 ### Shelly Greenwood
-***Director, Sales***
+***Director, Exhibit Sales***
 
 Shelly began her professional event management career in 1997, working for a small association management company in Little Rock, AR.  Shelly has over 20+ years of experience working with non-profit and association management companies in leadership roles that include event and sales management positions. She continues to serve on the inaugural Customer Advisory Board for the Little Rock Convention and Visitors Bureau, assisting her adopted hometown of Little Rock in growing and expanding the community to bring meetings and events to Little Rock. She completed a 2-year term on the MPI (Meeting Professionals International) committee for publications, which included the review of articles published in the MPI professional magazine. She is an active member of MPI, PCMA and ASAE. Shelly is passionate about bringing recognition to the exhibitors and sponsors whose products and services bring value to the everyday work that case managers do. 
 
@@ -136,7 +125,7 @@ Shelly has her bachelor’s degree in business administration from the Universit
 
 
 ### Michelle Murphey Porter, CAE
-***Director, Certification***
+***Director, Association and Client Services***
 
 Michelle earned a B.A. in English with a minor in psychology from the University of Montevallo in Montevallo, AL. She joined CGi in November 2019 as the Director of Certification.
 
