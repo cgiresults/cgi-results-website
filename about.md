@@ -45,6 +45,13 @@ Greg created the first hospital case management conference in the U.S., which ha
 Greg founded CGi in 2005.
 
 
+### Marlene Bober, MHA, ACM-RN
+***Senior Vice President, Client Services and Professional Practice***
+
+With more than 20 years of experience as an Executive Nurse Leader, Marlene’s career includes management roles in medical-surgical and oncology patient care, epidemiology/infection control, and quality and utilization management. She has served as Director of Nursing, Director of Clinical Informatics, and Administrator for Enterprise Care Management where she had accountability for the integration of all acute care management strategies for the Illinois-based Advocate Healthcare system. Her most recent role was that of Vice President for Integrated Care Management for Advocate Aurora Health Care’s 500 sites of care and 27 hospitals.
+ 
+Marlene earned her Bachelor of Science degree and Master of Science in Health Services degree from the University of St Francis. She has also earned a certificate of executive management and project management from Harvard T.H. Chan School of Public Health.
+
 ### Randall Archer, MBA
 ***Vice President, Sales and Business Development***
 
@@ -99,13 +106,6 @@ Maria holds a Bachelors degree from Harding University, and earned her MBA from 
 Maria joined CGi in 2006, coming from a background in hotel and hospitality management. This provided her a core understanding of events management - both the production of a successful event and how to make an event financially successful. She leveraged this background to successfully lead CGi's events management team for several years.
 
 Maria currently leads CGi's finance and accounting team, and oversees the financial health of CGi's client organizations. She is based in Little Rock, AR.
-
-### Marlene Bober, MHA, ACM-RN
-***Senior Vice President, Practice Development***
-
-With more than 20 years of experience as an Executive Nurse Leader, Marlene’s career includes management roles in medical-surgical and oncology patient care, epidemiology/infection control, and quality and utilization management. She has served as Director of Nursing, Director of Clinical Informatics, and Administrator for Enterprise Care Management where she had accountability for the integration of all acute care management strategies for the Illinois-based Advocate Healthcare system. Her most recent role was that of Vice President for Integrated Care Management for Advocate Aurora Health Care’s 500 sites of care and 27 hospitals.
- 
-Marlene earned her Bachelor of Science degree and Master of Science in Health Services degree from the University of St Francis. She has also earned a certificate of executive management and project management from Harvard T.H. Chan School of Public Health.
 
 ### Aaron Van Son
 ***Director, Product Sales***
