@@ -119,21 +119,6 @@ City/State: Nashville, TN or Remote Based<br />
 
 <hr>
 
-### Sales Representative (Inside Sales with Account Management)
-The Sales Representative will be a high-performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative.  This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.<br />
-
-Reports to: Director, Sales<br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Remote Based<br />
-
-[Job Desp - Sales Representative (Inside Product Sales with Account Management).pdf](/uploads/Job%20Desp%20-%20Sales%20Representative%20(Inside%20Product%20Sales%20with%20Account%20Management).pdf)
-
-
-
-<hr>
-
 ### CONTRACT: Care Management Consultant
 The Care Management Consultant functions as an advisor or a consultant for CGi in special project work or consulting services.<br />
 
