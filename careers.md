@@ -38,8 +38,6 @@ layout: page
 
 <hr>
 
-<hr>
-
 ### Controller
 The Controller is responsible for direct supervision of all accounting and financial functions.  This includes the production of periodic financial reports, maintenance of an adequate system of accounting records, and a comprehensive set of controls and budgets designed to mitigate risk, enhance the accuracy of the company’s reported financial results, and ensure that reported results comply with generally accepted accounting principles.
 
@@ -98,31 +96,12 @@ City/State: Little Rock, AR<br />
 
 [Job Desp - Executive Assistant.pdf](/uploads/Job%20Desp%20-%20Executive%20Assistant.pdf)
 
-
-
-<hr>
-
-### Meeting and Event Manager
-The Meeting and Event Manager will provide account management services to manage approximately 12-14 ACMA chapter conferences held across the United States throughout the year. This position will work as a team with another Meeting and Event Manager to plan and manage other ACMA conferences and client meetings and will have project management oversite for meeting and event related tasks. 
-
-This position will collaborate with Chapter Relations, Sales, Marketing, and Accounting teams to reach each event goal and will work with external vendor services in the execution of meetings.<br />
-
-Reports to: Senior Vice President<br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Nashville, TN or Remote Based<br />
-
-[Job Desp - Meeting and Event Manager.pdf](/uploads/Job%20Desp%20-%20Meeting%20and%20Event%20Manager.pdf)
-
-
-
 <hr>
 
 ### CONTRACT: Care Management Consultant
 The Care Management Consultant functions as an advisor or a consultant for CGi in special project work or consulting services.<br />
 
-Reports to: Senior Vice President, Practice Development<br />
+Reports to: Senior Vice President, Client Services and Professional Practice<br />
 
 1099 Contract<br />
 
@@ -135,12 +114,12 @@ Reports to: Senior Vice President, Practice Development<br />
 ### CONTRACT: ACTS Program Trainer
 Advanced Care Transition Simulation© is an educational program developed by the American Case Management Association (ACMA) to support professional development of case management professionals using simulation.  Health care simulation is a new methodology for case management. The ACTS program of materials is aligned with Compass©, an ACMA platform of educational modules.  The ACMA ACTS Program Trainer role will facilitate the necessary planning, coordination and education to organizations contracted with the ACTS program.<br />
 
-Reports to: Senior Vice President, Practice Development<br />
+Reports to: Senior Vice President, Client Services and Professional Practice<br />
 
 1099 Contract<br />
 
 [ACTS Trainer job description - Contract.pdf](/uploads/ACTS%20Trainer%20job%20description%20-%20Contract.pdf)
 
 <hr>
-To apply, please submit a cover letter and resume to Christy Lund - Director of Human Resources at clund@cgiresults.com
+To apply, please submit a cover letter and resume to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
 
