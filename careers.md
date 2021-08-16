@@ -98,6 +98,32 @@ City/State: Little Rock, AR<br />
 
 <hr>
 
+### Manager of Membership
+The Manager of Membership will strategically lead, direct, and implement   activities and services that provide value to members and promote membership retention and growth. The Manager will understand, articulate, and advocate the needs of our members while enhancing our revenues through membership retention and growth.<br />
+
+Reports to: Vice President, Membership and Marketing<br />
+
+Salaried, Exempt - Full Time<br />
+
+City/State: Remote<br />
+
+[Job Desp - Manager of Membership.pdf](/uploads/Job%20Desp%20-%20Manager%20of%20Membership.pdf)
+
+<hr>
+
+### Senior Manager of Marketing and Communications
+The Senior Manager of Marketing and Communications will further the mission of CGi and our clients by providing direction and management for marketing, communications, and public relations. The Senior Manager ensures successful implementation of marketing strategies to build annual revenue as well as maintain our relationships, brand, events, and communications.<br />
+
+Reports to: Vice President, Membership and Marketing<br />
+
+Salaried, Exempt - Full Time<br />
+
+City/State: Remote<br />
+
+[Job Desp - Senior Manager of Marketing and Communications.pdf](/uploads/Job%20Desp%20-%20Senior%20Manager%20of%20Marketing%20and%20Communications.pdf)
+
+<hr>
+
 ### CONTRACT: Care Management Consultant
 The Care Management Consultant functions as an advisor or a consultant for CGi in special project work or consulting services.<br />
 
