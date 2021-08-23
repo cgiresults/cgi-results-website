@@ -67,22 +67,6 @@ City/State: Little Rock, AR <br />
 [Job Desp - Customer Service Assistant (CSA) - Current.pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Assistant%20(CSA)%20-%20Current.pdf)
 
 
-
-<hr>
-
-### Director of Practice Development
-The Director of Practice Development has operational oversight of clinical education, clinical content programming, CE services, Research, and ACTS and associated leadership responsibilities within the management company, CGi.<br />
-
-Reports to: Senior Vice President, Client Services and Professional Practice<br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Remote Based<br />
-
-[Job Desp - Director of Practice Development.pdf](/uploads/Job%20Desp%20-%20Director%20of%20Practice%20Development.pdf)
-
-
-
 <hr>
 
 ### Executive Assistant
