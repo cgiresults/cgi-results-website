@@ -118,7 +118,7 @@ Salaried, Exempt - Full Time<br />
 
 City/State: Little Rock, Nashville, TN, or Remote Based<br />
 
-[Job Desp - Controller.docx](/uploads/Job%20Desp%20-%20Controller.docx)
+[Job Desp - Manager Association and Client Services.pdf](/uploads/Job%20Desp%20-%20Manager%20Association%20and%20Client%20Services.pdf)
 
 ### CONTRACT: Care Management Consultant
 The Care Management Consultant functions as an advisor or a consultant for CGi in special project work or consulting services.<br />
