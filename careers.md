@@ -108,6 +108,18 @@ City/State: Remote<br />
 
 <hr>
 
+### Manager, Association and Client Services
+
+The Manager, Association and Client Services, will support assigned CGi clients, to include governance, marketing and communications efforts, database management, membership campaigns, and conference planning, as well as any other services that provide value to members and promote membership retention and growth under the supervision of the Director. The Manager will understand, articulate, and advocate the needs of client members while enhancing CGI’s revenues through retention and business development. <br />
+
+Reports to: Director, Association and Client Services<br />
+
+Salaried, Exempt - Full Time<br />
+
+City/State: Little Rock, Nashville, TN, or Remote Based<br />
+
+[Job Desp - Controller.docx](/uploads/Job%20Desp%20-%20Controller.docx)
+
 ### CONTRACT: Care Management Consultant
 The Care Management Consultant functions as an advisor or a consultant for CGi in special project work or consulting services.<br />
 
