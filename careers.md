@@ -82,17 +82,6 @@ City/State: Little Rock, AR<br />
 
 <hr>
 
-### Manager of Membership
-The Manager of Membership will strategically lead, direct, and implement   activities and services that provide value to members and promote membership retention and growth. The Manager will understand, articulate, and advocate the needs of our members while enhancing our revenues through membership retention and growth.<br />
-
-Reports to: Vice President, Membership and Marketing<br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Remote<br />
-
-[Job Desp - Manager of Membership.pdf](/uploads/Job%20Desp%20-%20Manager%20of%20Membership.pdf)
-
 <hr>
 
 ### Senior Manager of Marketing and Communications
