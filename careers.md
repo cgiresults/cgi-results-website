@@ -38,23 +38,6 @@ layout: page
 
 <hr>
 
-### Controller
-The Controller is responsible for direct supervision of all accounting and financial functions.  This includes the production of periodic financial reports, maintenance of an adequate system of accounting records, and a comprehensive set of controls and budgets designed to mitigate risk, enhance the accuracy of the company’s reported financial results, and ensure that reported results comply with generally accepted accounting principles.
-
-In addition, this position will supervise one Staff Accountant.<br />
-
-Reports to: Vice President, Finance<br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Little Rock, Nashville, TN, or Remote Based<br />
-
-[Job Desp - Controller.docx](/uploads/Job%20Desp%20-%20Controller.docx)
-
-
-
-<hr>
-
 ### Customer Service Assistant
 The Customer Service Assistant (CSA) is responsible for providing effective, timely and professional customer service for all internal and external customers by using excellent communication skills and in-depth knowledge of company products and programs.  The CSA is cross trained in several “key responsibility” areas of the organization to provide administrative support to other departments to ensure quality and expedient customer service. The CSA is responsible for entering data into the call log/ticketing system to maintain accurate records for all incoming calls and email activity. Additionally, the CSA serves as the receptionist to assist office visitors, provide information and hospitality, and monitors the orderly operation of the office.<br />
 
