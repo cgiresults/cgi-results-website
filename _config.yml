@@ -26,7 +26,7 @@ description: CGi is a full-service association and events management company. We
 baseurl: 
 url: 
 twitter_username: jekyllrb
-github_username: jmotes
+github_username: jekyll
 markdown: kramdown
 plugins:
 - jekyll-feed
