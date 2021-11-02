@@ -132,10 +132,3 @@ Michelle earned a B.A. in English with a minor in psychology from the University
 Prior to CGi, Michelle spent 13 years in the association world within the building safety industry, directing a certification program of over 400 exam titles and 165,000 certificate holders. The focus on creating and maintaining quality, credible credentials to allow for both personal growth and public safety will be continued with the multiple certifications managed by CGi. 
 
 Besides work, Michelle enjoys the many sporting and cultural events offered by a city like Nashville, where she is based.
-
-### Amy Corman Page
-***Vice President, Marketing and Communications***
-
-Amy is a data-driven professional with over 15 years’ experience spanning large data manipulation and management, predictive analytics, comprehensive marketing, project management, account management, and process improvement strategies for both for-profit and non-profit organizations.  Before joining CGi as Vice President of Marketing and Communications, Amy held positions at Citigroup (AVP, Risk Analyst), Galls, Inc. (Marketing Analyst), Associations International (Sr. Operations and Membership Manager for the Kentucky Petroleum Marketers Association), and Cornett Advertising (Account Planner for UK HealthCare).  Amy holds a Master of Science degree in Economics with a concentration in Health Economics from East Carolina University.
-
-Amy and her family reside in Wake Forest, NC, where she is an active runner.  She and her husband David have two children.  As a family, they enjoy various sporting events, traveling, and many outdoor activities.
