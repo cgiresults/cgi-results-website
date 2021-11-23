@@ -35,21 +35,6 @@ layout: page
 
 </div>
 
-
-<hr>
-
-### Customer Service Assistant
-The Customer Service Assistant (CSA) is responsible for providing effective, timely and professional customer service for all internal and external customers by using excellent communication skills and in-depth knowledge of company products and programs.  The CSA is cross trained in several “key responsibility” areas of the organization to provide administrative support to other departments to ensure quality and expedient customer service. The CSA is responsible for entering data into the call log/ticketing system to maintain accurate records for all incoming calls and email activity. Additionally, the CSA serves as the receptionist to assist office visitors, provide information and hospitality, and monitors the orderly operation of the office.<br />
-
-Reports to: Manager of Customer Service<br />
-
-Hourly, Non-Exempt - Full Time<br />
-
-City/State: Little Rock, AR <br />
-
-[Job Desp - Customer Service Assistant (CSA) - Current.pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Assistant%20(CSA)%20-%20Current.pdf)
-
-
 <hr>
 
 ### Executive Assistant
@@ -63,56 +48,6 @@ City/State: Little Rock, AR<br />
 
 [Job Desp - Executive Assistant.pdf](/uploads/Job%20Desp%20-%20Executive%20Assistant.pdf)
 
-<hr>
-
-<hr>
-
-### Senior Manager of Marketing and Communications
-The Senior Manager of Marketing and Communications will further the mission of CGi and our clients by providing direction and management for marketing, communications, and public relations. The Senior Manager ensures successful implementation of marketing strategies to build annual revenue as well as maintain our relationships, brand, events, and communications.<br />
-
-Reports to: Vice President, Membership and Marketing<br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Remote<br />
-
-[Job Desp - Senior Manager of Marketing and Communications.pdf](/uploads/Job%20Desp%20-%20Senior%20Manager%20of%20Marketing%20and%20Communications.pdf)
-
-<hr>
-
-### Manager, Association and Client Services
-
-The Manager, Association and Client Services, will support assigned CGi clients, to include governance, marketing and communications efforts, database management, membership campaigns, and conference planning, as well as any other services that provide value to members and promote membership retention and growth under the supervision of the Director. The Manager will understand, articulate, and advocate the needs of client members while enhancing CGI’s revenues through retention and business development. <br />
-
-Reports to: Director, Association and Client Services<br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Little Rock, Nashville, TN, or Remote Based<br />
-
-[Job Desp - Manager Association and Client Services.pdf](/uploads/Job%20Desp%20-%20Manager%20Association%20and%20Client%20Services.pdf)
-
-### CONTRACT: Care Management Consultant
-The Care Management Consultant functions as an advisor or a consultant for CGi in special project work or consulting services.<br />
-
-Reports to: Senior Vice President, Client Services and Professional Practice<br />
-
-1099 Contract<br />
-
-[Care Management Consultant job description - Contract.pdf](/uploads/Care%20Management%20Consultant%20job%20description%20-%20Contract.pdf)
-
-
-
-<hr>
-
-### CONTRACT: ACTS Program Trainer
-Advanced Care Transition Simulation© is an educational program developed by the American Case Management Association (ACMA) to support professional development of case management professionals using simulation.  Health care simulation is a new methodology for case management. The ACTS program of materials is aligned with Compass©, an ACMA platform of educational modules.  The ACMA ACTS Program Trainer role will facilitate the necessary planning, coordination and education to organizations contracted with the ACTS program.<br />
-
-Reports to: Senior Vice President, Client Services and Professional Practice<br />
-
-1099 Contract<br />
-
-[ACTS Trainer job description - Contract.pdf](/uploads/ACTS%20Trainer%20job%20description%20-%20Contract.pdf)
 
 <hr>
 To apply, please submit a cover letter and resume to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
