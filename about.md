@@ -132,3 +132,12 @@ Michelle earned a B.A. in English with a minor in psychology from the University
 Prior to CGi, Michelle spent 13 years in the association world within the building safety industry, directing a certification program of over 400 exam titles and 165,000 certificate holders. The focus on creating and maintaining quality, credible credentials to allow for both personal growth and public safety will be continued with the multiple certifications managed by CGi. 
 
 Besides work, Michelle enjoys the many sporting and cultural events offered by a city like Nashville, where she is based.
+
+### Jerri Taylor, MBA
+***Controller***
+
+Jerri Taylor holds a Bachelor of Science degree in Accounting and MBA from Arkansas State University. She joined CGi in 2021 as the Controller and is based in Brookland, AR.
+
+She has 20+ years of professional experience in accounting and leadership roles. She has worked in manufacturing, retail and medical fields.
+
+Besides work, Jerri enjoys time with friends and family, as well as watching sports and participating in ministry.
