@@ -48,6 +48,18 @@ City/State: Little Rock, AR<br />
 
 [Job Desp - Executive Assistant.pdf](/uploads/Job%20Desp%20-%20Executive%20Assistant.pdf)
 
+<hr>
+
+### Marketing and Communications Manager
+Our growing company is hiring a Marketing & Communications Manager who will be an integral part of the Marketing Department in organizing and leading various internal and external client projects. This is a high-performing marketing generalist role. It involves developing great communications, building, and executing project plans, managing timelines and budgets, creating and protecting our brand voice, and working simultaneously with a variety or stakeholders, in multiple channels, and for multiple clients.   This person will tap into their intellectual drive, creativity, and relationship-building attributes to create robust marketing and brand strategies in support of growth-oriented short and long-term business goals. He/she will execute strategy, branding, messaging, publications, and social media.<br />
+
+Reports to: Senior Manager, Marketing and Communications<br />
+
+Salaried, Exempt - Full Time<br />
+
+City/State: Remote<br />
+
+[Job Desp - Marketing and Communications Manager_Current.pdf](/uploads/Job%20Desp%20-%20Marketing%20and%20Communications%20Manager_Current.pdf)
 
 <hr>
 To apply, please submit a cover letter and resume to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
