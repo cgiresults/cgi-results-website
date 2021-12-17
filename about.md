@@ -45,6 +45,7 @@ Greg created the first hospital case management conference in the U.S., which ha
 Greg founded CGi in 2005.
 
 
+
 ### Marlene Bober, MHA, ACM-RN
 ***Senior Vice President, Client Services and Professional Practice***
 
@@ -52,18 +53,21 @@ With more than 20 years of experience as an Executive Nurse Leader, Marlene’s 
  
 Marlene earned her Bachelor of Science degree and Master of Science in Health Services degree from the University of St Francis. She has also earned a certificate of executive management and project management from Harvard T.H. Chan School of Public Health.
 
+
+
 ### Randall Archer, MBA
-***Vice President, Sales and Business Development***
+***Vice President, Sales and Marketing***
 
 Randall earned a Bachelors of Business Administration from Wake Forest University, and an MBA from Arkansas State University. 
 
-He joined CGi in 2006 in a role responsible for marketing and communications. Since then, he has led various departments.
+He joined CGi in 2006, and has led various departments in his tenure. 
 
-In his current role, Randall leads the product development team which delivers continual enhancements to the products and services offered by CGi and our client organizations as well as new products and initiatives. He is also over CGi's analytics and business intelligence functions. 
+Randall leads a marketing team responsible for all marketing and communication for CGi's clients. He leads two sales teams, one responsible for event exhibition sales and one managing B2B sales to healthcare clients.  
 
 Randall is also responsible for business development for CGi, where he creates partnerships with organizations to enhance CGi's portfolio. He is based in CGi's Nashville, TN office.
 
 Outside of his professional life, Randall stays busy with two very active young children. He and his family enjoy almost anything that allows his family to spend time together and enjoy Tennessee outdoors. 
+
 
 ### Lis Harrell
 ***Director, Product Development and Meeting Services***
@@ -76,6 +80,7 @@ In her current role, Lis is responsible for product and program development, inc
  
 Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Little Rock, AR.
 
+
 ### Christy Lund
 ***Vice President, Human Resources and Customer Service***
 
@@ -87,11 +92,11 @@ Outside of work, Christy enjoys spending time with her family and friends, garde
 
 
 ### Becky Nations
-***Vice President, Continuous Improvement and Special Projects***
+***Vice President, Membership Services***
 
 Becky began her work in managing ACMA's National Conference in 1999, and she was part of the CGi team when it was founded in 2005. In those early years, she helped produce national and regional events for CGi's client organizations. Her focus then shifted to sales, and she was responsible for filling the exhibition halls at these events.
 
-Today, as Vice President, Sales, Becky leads CGi's sales team. CGi's sales efforts for its clients include a diverse offering of both business to business and business to consumer services. 
+Today, as Vice President, Membership Services, overseeing the delivery of membership services to CGi's association management clients. 
 
 Becky earned her Bachelors degree from the University of South Alabama in Mobile, AL. She is an Arkansas native, and based in Little Rock, AR.
 
@@ -141,3 +146,4 @@ Jerri Taylor holds a Bachelor of Science degree in Accounting and MBA from Arkan
 She has 20+ years of professional experience in accounting and leadership roles. She has worked in manufacturing, retail and medical fields.
 
 Besides work, Jerri enjoys time with friends and family, as well as watching sports and participating in ministry.
+
