@@ -112,15 +112,6 @@ Maria joined CGi in 2006, coming from a background in hotel and hospitality mana
 
 Maria currently leads CGi's finance and accounting team, and oversees the financial health of CGi's client organizations. She is based in Little Rock, AR.
 
-### Aaron Van Son
-***Director, Product Sales***
-
-Aaron joined CGi in 2014, supporting sales efforts across a variety of client programs and services as Director of Sales.
-
-He brings to CGi over 14 years of professional experience and a passion for connecting people and institutions to resources that improve their performance. This passion has helped CGi grow both traditional revenue streams for clients such as conference sponsorship and association membership, as well as nontraditional client revenue streams such as ACMA’s Compass Directional Training program (learn more about these diversified revenue streams [here](/results/)). 
-
-Aaron earned his BA in Psychology from Hendrix College and his MBA from the University of Phoenix. When not serving CGi’s clients, he enjoys outdoor activities such as cycling, kayaking, and camping, with the occasional board game when the weather dictates indoor activities.
-
 ### Shelly Greenwood
 ***Director, Exhibit Sales***
 
@@ -138,12 +129,5 @@ Prior to CGi, Michelle spent 13 years in the association world within the buildi
 
 Besides work, Michelle enjoys the many sporting and cultural events offered by a city like Nashville, where she is based.
 
-### Jerri Taylor, MBA
-***Controller***
 
-Jerri Taylor holds a Bachelor of Science degree in Accounting and MBA from Arkansas State University. She joined CGi in 2021 as the Controller and is based in Brookland, AR.
-
-She has 20+ years of professional experience in accounting and leadership roles. She has worked in manufacturing, retail and medical fields.
-
-Besides work, Jerri enjoys time with friends and family, as well as watching sports and participating in ministry.
 
