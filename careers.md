@@ -78,30 +78,19 @@ City/State: Little Rock, AR<br />
 [Job Desp - Customer Service Assistant (CSA) - Current-b765b1.pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Assistant%20(CSA)%20-%20Current-b765b1.pdf)
 
 <hr>
-### Executive Assistant to the CEO
-The Executive Assistant is responsible for providing effective administrative and personal support for the CEO using excellent planning/time management, organizational skills, communication skills, internal and external customer service/management and ensuring company branding in all representation of the CEO.<br />
 
-Reports to: CEO<br />
+<hr>
+### Project Manager
+The Project Manager is responsible for the direction, coordination, implementation, control, and delivery of instructional, analytic, and performance improvement programs for association-based clients. This position will manage a broad and diverse range of responsibilities and assignments, both internally and externally, related to program development, client service delivery and overall performance improvement. Work may entail aspects of instructional and e-learning development for adult learners as well as business case projection for new and existing services. This position will work as a team with other Project Managers, and independently, to achieve service delivery, client satisfaction, and outcomes. This position additionally interacts with the Lead Project Manager, Manager and Director on strategic planning and business growth initiatives. Accountabilities include revenue/net income goals for multiple budgets, rollout deadlines and client satisfaction with joint accountability for company-wide leadership goals. <br />
 
-Salaried, Exempt - Full Time<br />
+Reports to: Manager, Product Development and Project Management<br />
 
-City/State: Little Rock, AR<br />
+Exempt - Full Time<br />
 
-[Job Desp - Executive Assistant.pdf](/uploads/Job%20Desp%20-%20Executive%20Assistant.pdf)
+City/State: Remote, Tennessee and Arkansas<br />
+
 
 <hr>
 
-### Marketing and Communications Manager
-Our growing company is hiring a Marketing & Communications Manager who will be an integral part of the Marketing Department in organizing and leading various internal and external client projects. This is a high-performing marketing generalist role. It involves developing great communications, building, and executing project plans, managing timelines and budgets, creating and protecting our brand voice, and working simultaneously with a variety or stakeholders, in multiple channels, and for multiple clients.   This person will tap into their intellectual drive, creativity, and relationship-building attributes to create robust marketing and brand strategies in support of growth-oriented short and long-term business goals. He/she will execute strategy, branding, messaging, publications, and social media.<br />
-
-Reports to: Senior Manager, Marketing and Communications<br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Remote<br />
-
-[Job Desp - Marketing and Communications Manager_Current.pdf](/uploads/Job%20Desp%20-%20Marketing%20and%20Communications%20Manager_Current.pdf)
-
-<hr>
 To apply, please submit a cover letter, resume and salary expectation to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
 
