@@ -88,7 +88,7 @@ Reports to: Manager, Product Development and Project Management<br />
 Exempt - Full Time<br />
 
 City/State: Remote, Tennessee and Arkansas<br />
-
+[Job Desp - Project Manager.pdf](/uploads/Job%20Desp%20-%20Project%20Manager.pdf)
 
 <hr>
 
