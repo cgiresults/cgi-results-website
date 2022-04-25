@@ -36,22 +36,6 @@ layout: page
 </div>
 <hr>
 
-### Director of Sales
-The Director of Sales will plan, execute and manage sales activities to meet revenue and growth goals for CGi and our clients, primarily to healthcare customers.  This director will manage a remote sales team and must be able to clarify goals, enforce standards, encourage, motivate and hold team members accountable to goals, as well as create a collaborative team environment. This position is also an influential leader in the company and will help identify, define, and implement technology and process improvements to optimize our customer experience and sales capabilities.
-
-Success will be measured by goal achievement (revenue and growth), staff competency and productivity, pipeline growth, lead conversion, and client satisfaction.  Emphasis will be placed on data monitoring, data-driven decision making, quality management, workforce planning, process enhancements, employee coaching and training to achieve optimal performance metrics.
-
-While this position is primarily a management and leadership role, this person may be required to step in and fulfill direct sales duties from time to time. <br />
-
-Reports to: Vice President, Sales and Marketing<br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Remote<br />
-
-[Job Desp - Director of Sales.pdf](/uploads/Job%20Desp%20-%20Director%20of%20Sales.pdf)
-<hr>
-
 ### Controller
 
 The Controller is responsible for direct supervision of all accounting and financial functions.  This includes the production of periodic financial reports, maintenance of an adequate system of accounting records, and a comprehensive set of controls and budgets designed to mitigate risk, enhance the accuracy of the company’s reported financial results, and ensure that reported results comply with generally accepted accounting principles.
