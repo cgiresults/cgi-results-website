@@ -129,5 +129,12 @@ Prior to CGi, Michelle spent 13 years in the association world within the buildi
 
 Besides work, Michelle enjoys the many sporting and cultural events offered by a city like Nashville, where she is based.
 
+### Kristian Piipponen
+***Director, Product Sales***
 
+Kristian earned his B.A. in Business Administration and Marketing with Minor in International Studies from Truman State University. He joined CGi in April 2022 as the Director of Product Sales.
+
+Kristian has dedicated his career to healthcare. Prior to joining CGi, he held sales and marketing leadership positions in various healthcare verticals including pharmaceuticals, medical imaging, and integration consulting.
+
+Kristian resides in Florida and enjoys spending time outdoors and on the water.
 
