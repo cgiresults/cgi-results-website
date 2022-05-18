@@ -89,13 +89,14 @@ City/State: Remote <br />
 <hr>
 
 ### Client Relationship Manager
-In this role, you will develop and execute both national promotions and targeted marketing campaigns to grow association membership. Our services provide a variety of ways for our members to enhance their healthcare practice, and you will engage help them, both individuals and organizations, derive maximum value from our services. This will include monitoring utilization of our services and outreach when needed to build relationships, education, and create engagement. This role will also periodically assess our services and make recommendation for enhancement and development.
+In this role, you will develop and execute both national promotions and targeted marketing campaigns to grow association membership. Our services provide a variety of ways for our members to enhance their healthcare practice, and you will engage and help them, both individuals and organizations, derive maximum value from our services. This will include monitoring utilization of our services and outreach when needed to build relationships, education, and create engagement. This role will also periodically assess our services and make recommendations for enhancement and development.
 
 KPIs for this role are planned to include:
 •	Membership growth and retention
 •	Membership renewal rate
 •	Utilization of benefits and services
 •	Member and client satisfaction
+
   <br />
 
 Reports to: Director of Sales <br />
@@ -103,7 +104,7 @@ Reports to: Director of Sales <br />
 Exempt - Full Time<br />
 
 City/State: Remote <br />
-[Job Desp - Client Relationship Manager.pdf](/uploads/Job%20Desp%20-%20Client%20Relationship%20Manager.pdf)
+
 
 <hr>
 
