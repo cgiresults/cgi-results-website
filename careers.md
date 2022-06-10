@@ -76,18 +76,6 @@ City/State: Remote, Tennessee and Arkansas<br />
 
 <hr>
 
-### Marketing and Communications Manager
-Our growing company is hiring a Marketing & Communications Manager. This is a marketing generalist role and will manage projects and campaigns in many areas of marketing: Advertising, brand management, content creation, paid digital, social, email marketing, market research and some public relations.   The work involves developing great communications, building and executing project plans, managing timelines and budgets, creating and protecting our brand voice, and working simultaneously with a variety or stakeholders, in multiple channels, and for multiple clients.  <br />
-
-Reports to: Senior Manager, Marketing and Communications <br />
-
-Exempt - Full Time<br />
-
-City/State: Remote <br />
-[Job Desp - Marketing and Communications Manager_Current-a610e7.pdf](/uploads/Job%20Desp%20-%20Marketing%20and%20Communications%20Manager_Current-a610e7.pdf)
-
-<hr>
-
 ### Client Relationship Manager
 In this role, you will develop and execute both national promotions and targeted marketing campaigns to grow association membership. Our services provide a variety of ways for our members to enhance their healthcare practice, and you will engage and help them, both individuals and organizations, derive maximum value from our services. This will include monitoring utilization of our services and outreach when needed to build relationships, education, and create engagement. This role will also periodically assess our services and make recommendations for enhancement and development.
 
@@ -106,20 +94,6 @@ Exempt - Full Time<br />
 City/State: Remote <br />
 [Job Desp - Client Relationship Manager-6349d5.pdf](/uploads/Job%20Desp%20-%20Client%20Relationship%20Manager-6349d5.pdf)
 
-<hr>
-
-<hr>
-
-### Meeting and Event Manager
-  The Meeting and Event Manager is responsible for overseeing and delivering live, virtual, and hybrid conferences and meetings for several clients. Events range from regional/state conferences to national events that draw attendees from across the Unites States, with attendees ranging from 100 attendees and 20 sponsors/exhibitors up to almost 2,000 attendees and over 150 sponsors/exhibitors. The Meeting and Events Manager’s role will include account management and meeting facilitation services to approximately 15 association-based conferences held throughout the year and event management for approximately 5 association and non-association-based clients. This position will work collaboratively with another Meeting and Event Manager and the Director to plan, manage, and travel onsite for conferences and client meetings and will have additionally have project management oversite for meeting and event related tasks. 
-This position will collaborate on a frequent basis with chapter relations, speaker management, continuing education, sales, marketing, and accounting teams in addition to external vendor services to achieve event goals.  <br />
-
-Reports to: Director of Product Development and Meeting Services <br />
-
-Exempt - Full Time<br />
-
-City/State: Remote <br />
-[Job Desp - Meeting and Event Manager-f07df5.pdf](/uploads/Job%20Desp%20-%20Meeting%20and%20Event%20Manager-f07df5.pdf)
 
 <hr>
 
