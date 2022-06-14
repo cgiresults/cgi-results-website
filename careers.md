@@ -50,22 +50,13 @@ City/State: Remote<br />
 [Job Desp - Controller.pdf](/uploads/Job%20Desp%20-%20Controller.pdf)
 
 <hr>
-### Customer Service Assistant
-The Customer Service Assistant (CSA) is responsible for providing effective, timely and professional customer service for all internal and external customers by using excellent communication skills and in-depth knowledge of company products and programs.  The CSA is cross trained in several “key responsibility” areas of the organization to provide administrative support to other departments to ensure quality and expedient customer service. The CSA is responsible for entering data into the call log/ticketing system to maintain accurate records for all incoming calls and email activity. Additionally, the CSA serves as the receptionist to assist office visitors, provide information and hospitality, and monitors the orderly operation of the office. <br />
-
-Reports to: Manager of Customer Service<br />
-
-Hourly, Non-Exempt - Full Time<br />
-
-City/State: Little Rock, AR<br />
-
-[Job Desp - Customer Service Assistant (CSA) - Current-b765b1.pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Assistant%20(CSA)%20-%20Current-b765b1.pdf)
-
-<hr>
 
 <hr>
 ### Project Manager
-The Project Manager is responsible for the direction, coordination, implementation, control, and delivery of instructional, analytic, and performance improvement programs for association-based clients. This position will manage a broad and diverse range of responsibilities and assignments, both internally and externally, related to program development, client service delivery and overall performance improvement. Work may entail aspects of instructional and e-learning development for adult learners as well as business case projection for new and existing services. This position will work as a team with other Project Managers, and independently, to achieve service delivery, client satisfaction, and outcomes. This position additionally interacts with the Lead Project Manager, Manager and Director on strategic planning and business growth initiatives. Accountabilities include revenue/net income goals for multiple budgets, rollout deadlines and client satisfaction with joint accountability for company-wide leadership goals. <br />
+Are you looking to be part of a highly engaged team with a growing company? Are you collaborative and detail oriented with great communication skills? Does learning new skills and programs excite you? Are you willing to provide great service to our association-based clients, partners, and team members? If this sounds like you, apply today! 
+
+CGi, LLC is looking for a valued addition to our project management team. As a project manager, you will play a significant role related to program development, client service delivery and overall performance improvement. The best part? CGi, LLC is willing to train and develop the right candidate. Come join a dynamic team of project managers dedicated to achieving service delivery, client satisfaction, and outcomes! 
+ <br />
 
 Reports to: Manager, Product Development and Project Management<br />
 
