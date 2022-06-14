@@ -85,6 +85,19 @@ Exempt - Full Time<br />
 City/State: Remote <br />
 [Job Desp - Client Relationship Manager-6349d5.pdf](/uploads/Job%20Desp%20-%20Client%20Relationship%20Manager-6349d5.pdf)
 
+<hr>
+
+### Exhibit Sales Representative (Inside Sales with Account Management)
+
+The Exhibit Sales Representative will be responsible for planning, implementing, and managing sales activities and meeting revenue goals objectives for CGi for multiple CGi-managed events simultaneously.   KPIs for this role are meeting established revenue goals for multiple events.<br />
+
+Reports to: Director of Sales<br />
+
+Salaried, Exempt - Full Time<br />
+
+City/State: Remote<br />
+
+[Job Desp - Controller.pdf](/uploads/Job%20Desp%20-%20Controller.pdf)
 
 <hr>
 
