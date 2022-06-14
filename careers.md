@@ -97,7 +97,7 @@ Salaried, Exempt - Full Time<br />
 
 City/State: Remote<br />
 
-[Job Desp - Controller.pdf](/uploads/Job%20Desp%20-%20Controller.pdf)
+[Job Desp - Exhibit Sales Representative (Inside Sales and Account Management) - June 2022.pdf](/uploads/Job%20Desp%20-%20Exhibit%20Sales%20Representative%20(Inside%20Sales%20and%20Account%20Management)%20-%20June%202022.pdf)
 
 <hr>
 
