@@ -82,7 +82,7 @@ Reports to: Director of Sales <br />
 Exempt - Full Time<br />
 
 City/State: Remote <br />
-
+[Job Desp - Client Relationship Manager.pdf](/uploads/Job%20Desp%20-%20Client%20Relationship%20Manager.pdf)
 
 <hr>
 
