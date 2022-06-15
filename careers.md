@@ -67,12 +67,12 @@ City/State: Remote, Tennessee and Arkansas<br />
 <hr>
 
 ### Client Relationship Manager
-In this role, you will develop and execute both national promotions and targeted marketing campaigns to grow association membership. Our services provide a variety of ways for our members to enhance their healthcare practice, and you will engage and help them, both individuals and organizations, derive maximum value from our services. This will include monitoring utilization of our services and outreach when needed to build relationships, education, and create engagement. This role will also periodically assess our services and make recommendations for enhancement and development.
 
+In this role, you will develop and execute national promotions, targeted marketing campaigns and interface directly with clients to grow association membership, retain key accounts and improve client/member engagement. You will influence our priorities and development by collecting client data and demonstrating how we need to respond. Our services provide a variety of ways for our members to enhance their healthcare practice, and you will help them, both individuals and organizations, derive maximum value from our services. This will include monitoring utilization of our benefits, products and services, and outreach when needed to build relationships, educate, and create engagement. 
+This role will also periodically assess and make recommendation for service enhancement and development. Listening to our clients and then advocating for client satisfaction strategies will be achieved through collaboration with our membership, product development and sales teams. 
 KPIs for this role are planned to include:
 •	Membership growth and retention
-•	Membership renewal rate
-•	Utilization of benefits and services
+•	Utilization of products, benefits, and services
 •	Member and client satisfaction
 
   <br />
