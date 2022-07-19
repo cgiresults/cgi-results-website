@@ -51,18 +51,16 @@ City/State: Remote<br />
 <hr>
 
 <hr>
-### Project Manager
-Are you looking to be part of a highly engaged team with a growing company? Are you collaborative and detail oriented with great communication skills? Does learning new skills and programs excite you? Are you willing to provide great service to our association-based clients, partners, and team members? If this sounds like you, apply today! 
+### Marketing and Communications Manager
+ 
+Our growing company is hiring a Marketing & Communications Manager. This is a marketing generalist role and will manage projects and campaigns in many areas of marketing: Advertising, brand management, content creation, paid digital, social, email marketing, market research and some public relations.   The work involves developing great communications, building and executing project plans, managing timelines and budgets, creating and protecting our brand voice, and working simultaneously with a variety or stakeholders, in multiple channels, and for multiple clients. <br />
 
-CGi, LLC is looking for a valued addition to our project management team. As a project manager, you will play a significant role related to program development, client service delivery and overall performance improvement. The best part? CGi, LLC is willing to train and develop the right candidate. Come join a dynamic team of project managers dedicated to achieving service delivery, client satisfaction, and outcomes! 
- <br />
-
-Reports to: Manager, Product Development and Project Management<br />
+Reports to: Senior Manager, Marketing and Communications<br />
 
 Exempt - Full Time<br />
 
-City/State: Remote, Tennessee and Arkansas<br />
-[Job Desp - Project Manager.pdf](/uploads/Job%20Desp%20-%20Project%20Manager.pdf)
+City/State: Remote <br />
+[Job Desp - Marketing and Communications Manager_Current-a610e7.pdf](/uploads/Job%20Desp%20-%20Marketing%20and%20Communications%20Manager_Current-a610e7.pdf)
 
 <hr>
 
