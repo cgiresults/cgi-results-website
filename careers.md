@@ -64,26 +64,6 @@ City/State: Remote <br />
 
 <hr>
 
-### Client Relationship Manager
-
-In this role, you will develop and execute national promotions, targeted marketing campaigns and interface directly with clients to grow association membership, retain key accounts and improve client/member engagement. You will influence our priorities and development by collecting client data and demonstrating how we need to respond. Our services provide a variety of ways for our members to enhance their healthcare practice, and you will help them, both individuals and organizations, derive maximum value from our services. This will include monitoring utilization of our benefits, products and services, and outreach when needed to build relationships, educate, and create engagement. 
-This role will also periodically assess and make recommendation for service enhancement and development. Listening to our clients and then advocating for client satisfaction strategies will be achieved through collaboration with our membership, product development and sales teams. 
-KPIs for this role are planned to include:
-•	Membership growth and retention
-•	Utilization of products, benefits, and services
-•	Member and client satisfaction
-
-  <br />
-
-Reports to: Director of Sales <br />
-
-Exempt - Full Time<br />
-
-City/State: Remote <br />
-[Job Desp - Client Relationship Manager.pdf](/uploads/Job%20Desp%20-%20Client%20Relationship%20Manager.pdf)
-
-<hr>
-
 ### Exhibit Sales Representative (Inside Sales with Account Management)
 
 The Exhibit Sales Representative will be responsible for planning, implementing, and managing sales activities and meeting revenue goals objectives for CGi for multiple CGi-managed events simultaneously.   KPIs for this role are meeting established revenue goals for multiple events.<br />
