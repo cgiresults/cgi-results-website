@@ -102,7 +102,6 @@ Becky earned her Bachelors degree from the University of South Alabama in Mobile
 
  “You have to stand outside the box to see how the box can be re-designed. --Charles Handy”
 
-
 ### Maria Velasco Salling, MBA
 ***Vice President, Finance and Information Technology***
 
@@ -111,6 +110,13 @@ Maria holds a Bachelors degree from Harding University, and earned her MBA from 
 Maria joined CGi in 2006, coming from a background in hotel and hospitality management. This provided her a core understanding of events management - both the production of a successful event and how to make an event financially successful. She leveraged this background to successfully lead CGi's events management team for several years.
 
 Maria currently leads CGi's finance and accounting team, and oversees the financial health of CGi's client organizations. She is based in Little Rock, AR.
+
+### Angie Roberson, MSN, ACM-RN 
+***Vice President, Client Services & Professional Practice***
+
+Angie is a nurse leader with 30 years of experience in various healthcare settings.  She has been a leader in care management at both the state and national level and is a past president of the American Case Management Association.  Her most recent role was that of Director of Case Management for Spartanburg Regional Healthcare Systems acute care facilities and Clinical Director of Care Management for Regional HealthPlus the division responsible for accountable care. 
+
+Angie earned her Bachelor of Science in Nursing from the University of South Carolina Upstate, Spartanburg SC and Master of Science in Nursing from Gardner Webb University, Boiling Springs NC.  
 
 ### Shelly Greenwood
 ***Director, Exhibit Sales***
