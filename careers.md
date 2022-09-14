@@ -35,32 +35,6 @@ layout: page
 </div>
 <hr>
 
-### Controller
-
-The Controller is responsible for direct supervision of all accounting and financial functions.  This includes the production of periodic financial reports, maintenance of an adequate system of accounting records, and a comprehensive set of controls and budgets designed to mitigate risk, enhance the accuracy of the company’s reported financial results, and ensure that reported results comply with generally accepted accounting principles.
-In addition, this position will supervise one Staff Accountant.<br />
-
-Reports to: Vice President, Finance<br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Remote<br />
-
-[Job Desp - Controller.pdf](/uploads/Job%20Desp%20-%20Controller.pdf)
-
-<hr>
-
-<hr>
-### Marketing and Communications Manager
- 
-Our growing company is hiring a Marketing & Communications Manager. This is a marketing generalist role and will manage projects and campaigns in many areas of marketing: Advertising, brand management, content creation, paid digital, social, email marketing, market research and some public relations.   The work involves developing great communications, building and executing project plans, managing timelines and budgets, creating and protecting our brand voice, and working simultaneously with a variety or stakeholders, in multiple channels, and for multiple clients. <br />
-
-Reports to: Senior Manager, Marketing and Communications<br />
-
-Exempt - Full Time<br />
-
-City/State: Remote <br />
-[Job Desp - Marketing and Communications Manager_Current-a610e7.pdf](/uploads/Job%20Desp%20-%20Marketing%20and%20Communications%20Manager_Current-a610e7.pdf)
 
 <hr>
 
