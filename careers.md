@@ -52,5 +52,18 @@ City/State: Remote<br />
 
 <hr>
 
+### Product Sales Representative (Inside Sales with Account Management)
+
+The Sales Representative will be a high-performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative.  This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.  <br />
+
+Reports to: Director of Sales<br />
+
+Salaried, Exempt - Full Time<br />
+
+City/State: Remote<br />
+
+
+<hr>
+
 To apply, please submit a cover letter, resume and salary expectation to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
 
