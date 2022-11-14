@@ -37,13 +37,13 @@ layout: page
 
 <hr>
 
-### Product Sales Representative (Inside Sales with Account Management)
+### Care Management Consultant (1099 Independent Contractor)
 
-The Sales Representative will be a high-performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative.  This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.  <br />
+The Care Management Consultant is responsible for duties related to Consulting services with CGi. Duties may include interviewing, data analysis, working with clients, managing tasks related to consulting as assigned, research projects and or special projects as deemed appropriate by the Senior Vice President.  <br />
 
-Reports to: Director of Sales<br />
+Reports to: Senior Vice President, Client Services and Professional Practice <br />
 
-Salaried, Exempt - Full Time<br />
+Contract, 1099 Independent Contractor<br />
 
 City/State: Remote<br />
 
