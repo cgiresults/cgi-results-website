@@ -47,7 +47,7 @@ Contract, 1099 Independent Contractor<br />
 
 City/State: Remote<br />
 
-[Job Desp - Sales Representative (Inside Product Sales with Account Management)-22c9e0.pdf](/uploads/Job%20Desp%20-%20Sales%20Representative%20(Inside%20Product%20Sales%20with%20Account%20Management)-22c9e0.pdf)
+[Care Management Consultant job description - Contract-e4da4a.pdf](/uploads/Care%20Management%20Consultant%20job%20description%20-%20Contract-e4da4a.pdf)
 
 <hr>
 
