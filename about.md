@@ -5,7 +5,7 @@ position: 4
 layout: page
 ---
 
-CGi - is a full service association and events management company. Formed in 1995, we are based in Little Rock, AR, with a second office in Nashville, TN, and remote staff in Chicago and other locations. We currently have 35 staff positions and are growing rapidly. (See our [careers page](/careers/).)
+CGi is a full service association and events management company. Formed in 1995, we are based in Little Rock, AR, with a second office in Nashville, TN, and remote staff in Chicago and other locations. We currently have 35 staff positions and are growing rapidly. (See our [careers page](/careers/).)
 
 CGi is able to provide the entire scope of association services including membership growth, accounting, marketing, data / records management, and benefits development.
 
