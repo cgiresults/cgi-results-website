@@ -42,7 +42,7 @@ The Client Relationship Manager will develop and execute national promotions, ta
 
 This role will also periodically assess and make recommendations for service enhancement and development. Listening to our clients and then advocating for client satisfaction will be achieved through collaboration with our membership, product development and sales teams.<br />
 
-Reports to: Director, Sales <br />
+Reports to: Director, Product Sales <br />
 
 Salaried-Exempt, Full-Time <br />
 
