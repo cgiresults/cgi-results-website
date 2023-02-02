@@ -149,4 +149,4 @@ Kristian resides in Florida and enjoys spending time outdoors and on the water.
 
 Marissa earned her B.S. in Business Administration with a concentration in Accounting from University of Nebraska at Omaha and Master of Science in Accountancy from St. Mary’s University of Minnesota.  After years of working in the Not-For-Profit industry, she became a Certified Nonprofit Accounting Professional.  
 
-Prior to joining CGi in October 2022, Marissa spent 9 years growing within the social services industry in the accounting and human resources fields.  At CGi, Marissa is leveraging her talents and expertise to manage and strengthen the financial health of the client organizations. Test Text
+Prior to joining CGi in October 2022, Marissa spent 9 years growing within the social services industry in the accounting and human resources fields.  At CGi, Marissa is leveraging her talents and expertise to manage and strengthen the financial health of the client organizations.
