@@ -5,6 +5,21 @@ position: 3
 layout: page
 ---
 
+<hr>
+
+### Exhibit Sales Representative
+
+The Exhibit Sales Representative will be responsible for planning, implementing, and managing sales activities and meeting revenue goals objectives for CGi for multiple CGi-managed events simultaneously.   KPIs for this role are meeting established revenue goals for multiple events.  <br />
+
+Reports to: Director, Exhibit Sales <br />
+
+Salaried, Exempt - Full Time<br />
+
+City/State: Remote<br />
+
+[Job Desp - Sales Representative (Inside Product Sales with Account Management)-22c9e0.pdf](/uploads/Job%20Desp%20-%20Sales%20Representative%20(Inside%20Product%20Sales%20with%20Account%20Management)-22c9e0.pdf)
+
+<hr>
 
 <div class="row mb-5 pb-4" style="margin-bottom: 1rem !important;">
 
