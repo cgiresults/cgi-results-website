@@ -33,7 +33,6 @@ layout: page
 
 </div>
 <hr>
-<hr>
 
 ### Exhibit Sales Representative
 
@@ -48,7 +47,6 @@ City/State: Remote<br />
 [Job Desp - Exhibit Sales Representative (Inside Sales and Account Management).pdf](/uploads/Job%20Desp%20-%20Exhibit%20Sales%20Representative%20(Inside%20Sales%20and%20Account%20Management).pdf)
 
 <hr>
-<hr>
 
 ### Inside Sales Representative
 
@@ -61,6 +59,8 @@ Salaried, Exempt - Full Time<br />
 City/State: Remote<br />
 
 [Job Desp - Sales Representative (Inside Product Sales with Account Management)-00e30f.pdf](/uploads/Job%20Desp%20-%20Sales%20Representative%20(Inside%20Product%20Sales%20with%20Account%20Management)-00e30f.pdf)
+
+<hr>
 
 ### Customer Service Assistant
 
