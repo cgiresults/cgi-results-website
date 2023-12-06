@@ -34,20 +34,6 @@ layout: page
 </div>
 <hr>
 
-### Exhibit Sales Representative
-
-The Exhibit Sales Representative will be responsible for planning, implementing, and managing sales activities and meeting revenue goals objectives for CGi for multiple CGi-managed events simultaneously.   KPIs for this role are meeting established revenue goals for multiple events.  <br />
-
-Reports to: Director, Exhibit Sales <br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Remote<br />
-
-[Job Desp - Exhibit Sales Representative (Inside Sales and Account Management).pdf](/uploads/Job%20Desp%20-%20Exhibit%20Sales%20Representative%20(Inside%20Sales%20and%20Account%20Management).pdf)
-
-<hr>
-
 ### Inside Sales Representative
 
 The Sales Representative will be a high-performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative.  This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.   <br />
@@ -59,20 +45,6 @@ Salaried, Exempt - Full Time<br />
 City/State: Remote<br />
 
 [Job Desp - Sales Representative (Inside Product Sales with Account Management)-00e30f.pdf](/uploads/Job%20Desp%20-%20Sales%20Representative%20(Inside%20Product%20Sales%20with%20Account%20Management)-00e30f.pdf)
-
-<hr>
-
-### Customer Service Assistant
-
-The Customer Service Assistant (CSA) is an entry-level position working in a high-performance role for providing effective, timely and professional customer inquiries via calls, emails, and fax.  The CSA provides departmental administrative support and is responsible for customer-oriented tasks in a fast-paced work environment.   <br />
-
-Reports to: Senior Manager, Customer Service <br />
-
-Salaried, Hourly, Non-Exempt - Full Time<br />
-
-City/State: Little Rock, AR<br />
-
-[Job Desp - Customer Service Assistant (CSA) - Current-ceab59.pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Assistant%20(CSA)%20-%20Current-ceab59.pdf)
 
 <hr>
 
