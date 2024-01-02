@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-<h2 style="margin-bottom: 20px;">CGi Helps Association Diversify its Revenue and Add Valuable Training Solution</h2>
+<h2 style="margin-bottom: 20px;">CGi Helps Association Diversify its Revenue & Add Valuable Training Solution</h2>
 
 
 
