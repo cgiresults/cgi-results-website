@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-<h2 style="margin-bottom: 20px;">CGi Helps Association Diversify its Revenue & Add Valuable Training Solution</h2>
+<h2 style="margin-bottom: 20px;">CGi Helps Association Diversify its Revenue and Add Valuable Training Solution</h2>
 
 
 
@@ -21,7 +21,7 @@ layout: page
     </p>
 
     <p>
-	CGi engaged to meet this need and create a potential new revenue stream for then client. Our approach focused on three elements: To create a minimum viable product, to leverage our network of subject matter experts and to focus on content first. 
+	CGi engaged to meet this need and create a potential new revenue stream for the client. Our approach focused on three elements: To create a minimum viable product, to leverage our network of subject matter experts and to focus on content first. 
     </p>
 
   </div>
