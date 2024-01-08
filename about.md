@@ -82,7 +82,7 @@ Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Li
 
 
 ### Christy Lund
-***Vice President, Human Resources and Customer Service***
+***Vice President, Human Resources***
 
 Christy earned a B.A. Public Relations with minor in Marketing from Southern Methodist University (SMU). She joined CGI in September 2017, as Director of Human Resources. 
 
@@ -92,7 +92,7 @@ Outside of work, Christy enjoys spending time with her family and friends, garde
 
 
 ### Becky Nations
-***Vice President, Membership Services***
+***Vice President, Membership***
 
 Becky began her work in managing ACMA's National Conference in 1999, and she was part of the CGi team when it was founded in 2005. In those early years, she helped produce national and regional events for CGi's client organizations. Her focus then shifted to sales, and she was responsible for filling the exhibition halls at these events.
 
