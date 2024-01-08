@@ -34,17 +34,7 @@ layout: page
 </div>
 <hr>
 
-### Inside Sales Representative
 
-The Sales Representative will be a high-performer helping us to meet our revenue growth targets by keeping CGi competitive and innovative.  This position will be responsible for planning, implementing, and managing sales activities and objectives for CGi.   <br />
-
-Reports to: Director, Product Sales <br />
-
-Salaried, Exempt - Full Time<br />
-
-City/State: Remote<br />
-
-[Job Desp - Sales Representative (Inside Product Sales with Account Management)-00e30f.pdf](/uploads/Job%20Desp%20-%20Sales%20Representative%20(Inside%20Product%20Sales%20with%20Account%20Management)-00e30f.pdf)
 
 <hr>
 
