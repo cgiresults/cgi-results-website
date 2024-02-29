@@ -34,16 +34,31 @@ layout: page
 </div>
 <hr>
 
+### Director of Marketing and Communications
 
-
-<hr>
-
-### Business Development Analyst (1099 Contract)
-
-CGi is looking for a business development analyst to help expand our client portfolio with special emphasis on event management and association management services.  This role requires the ability to research and vet potential opportunities, analytical skills to create a financial/cost model, and communication skills to quickly create a compelling proposal.  This role will need the ability to work independently.    <br />
+CGi is hiring an experienced professional to operationally and strategically lead the delivery of marketing and communication services for multiple clients. Success in this position requires the ability to lead a team via prioritization/time management, brand management, and outcome achievement amidst an ever-growing workload.  Almost as important will be experience and skill in many additional areas of marketing: advertising, distribution strategy, content creation, market research and segmentation, analytics, digital/print mediums, event marketing, and some public relations.  You need to be a generalist with solid project management and analytical skills.    <br />
 
 City/State: Remote <br />
-[Job Desp - Business Development Analyst - Contract.pdf](/uploads/Job%20Desp%20-%20Business%20Development%20Analyst%20-%20Contract.pdf)
+[Job Desp - Director of Marketing and Communications.pdf](/uploads/Job%20Desp%20-%20Director%20of%20Marketing%20and%20Communications.pdf)
+
+<hr>
+### Director of Membership and Customer Service
+
+The Director of Membership & Customer Service will lead membership and customer service for all assigned CGi clients. Scope of responsibility will include strategy, service development, operations, personnel management, and outcome/budget accountabilities. 
+
+The Director will understand, articulate, and advocate the needs of our members/customers while enhancing revenues through satisfaction, retention, and business development. The Director will help the membership and customer service teams, as well as other departments, cultivate a service-oriented culture that supports positive member/customer satisfaction and engagement.
+  <br />
+
+City/State: Remote <br />
+[Job Desp - Director of Membership-Customer Service.pdf](/uploads/Job%20Desp%20-%20Director%20of%20Membership-Customer%20Service.pdf)
+<hr>
+
+### Business Development Manager
+
+CGi is looking for a Business Development Manager to help expand our client portfolio with special emphasis on event management and association management services.  This role requires the ability to research and vet potential opportunities, analytical skills to create a financial/cost model, and communication skills to quickly create and present a compelling proposal.  This role will need the ability to work independently.    <br />
+
+City/State: Remote <br />
+[Job Desp - Business Development Manager.pdf](/uploads/Job%20Desp%20-%20Business%20Development%20Manager.pdf)
 
 <hr>
 
