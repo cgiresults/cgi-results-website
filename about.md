@@ -70,11 +70,9 @@ Outside of his professional life, Randall stays busy with two very active young 
 
 
 ### Lis Harrell
-***Director, Product Development and Meeting Services***
+***Senior Director, Product Development and Research***
 
-Elisabet ‘Lis’ Harrell joined CGi in 2015 and is the Director of Product Development and Meeting Services for CGi. 
-
-She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
+Elisabet ‘Lis’ Harrell joined CGi in 2015. She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
  
 In her current role, Lis is responsible for product and program development, including Compass Directional Training, Certification and new members services. Lis is additionally responsible for internal performance improvement and project management initiatives.    
  
@@ -88,15 +86,13 @@ Christy earned a B.A. Public Relations with minor in Marketing from Southern Met
 
 With over 25 years of experience in human resources, employee relations and operations management, Christy has devoted her professional life to “finding the best…and most importantly keeping the best” as it is her career mission to be a successful career “match-maker” to ensure a collaborative and caring connectivity between all parties. 
 
-Outside of work, Christy enjoys spending time with her family and friends, gardening, volunteering, interior decorating and living life to its fullest. After 25 years in the San Francisco Bay Area, Christy has happily returned to her original hometown of Little Rock to embrace her time with family and friends and raise her daughter as a Southern belle. As she often quotes…in the words of Dorothy (Wizard of OZ), “There’s no place like home!”
+Outside of work, Christy enjoys spending time with her family and friends, gardening, volunteering, interior decorating and living life to its fullest. After 25 years in the San Francisco Bay Area, Christy happily returned to her original hometown of Little Rock to embrace her time with family and friends and raise her daughter as a Southern belle. As she often quotes…in the words of Dorothy (Wizard of OZ), “There’s no place like home!”
 
 
 ### Becky Nations
-***Vice President, Membership***
+***Vice President, Membership, Continuous Improvement and Customer Service***
 
 Becky began her work in managing ACMA's National Conference in 1999, and she was part of the CGi team when it was founded in 2005. In those early years, she helped produce national and regional events for CGi's client organizations. Her focus then shifted to sales, and she was responsible for filling the exhibition halls at these events.
-
-Today, as Vice President, Membership Services, overseeing the delivery of membership services to CGi's association management clients. 
 
 Becky earned her Bachelors degree from the University of South Alabama in Mobile, AL. She is an Arkansas native, and based in Little Rock, AR.
 
@@ -150,3 +146,12 @@ Kristian resides in Florida and enjoys spending time outdoors and on the water.
 Marissa earned her B.S. in Business Administration with a concentration in Accounting from University of Nebraska at Omaha and Master of Science in Accountancy from St. Mary’s University of Minnesota.  After years of working in the Not-For-Profit industry, she became a Certified Nonprofit Accounting Professional.  
 
 Prior to joining CGi in October 2022, Marissa spent 9 years growing within the social services industry in the accounting and human resources fields.  At CGi, Marissa is leveraging her talents and expertise to manage and strengthen the financial health of the client organizations.
+
+### Lorraine Strickland
+***Director, Marketing & Communications***
+
+With extensive strategic marketing leadership and communications expertise, Strickland leads the CGi Marketing and Communications team.  She has served numerous organizations helping them heighten brand awareness and strengthen their strategic and digital marketing efforts. 
+
+Strickland holds a Bachelor of Science in Public Relations from the University of Florida and a Master of Arts and Science in Communications and Marketing  from Purdue University along with a number of marketing, project management and leadership certifications.  
+
+She and her husband, Wes, reside in Gainesville, Florida, and have two daughters who are also marketing and communications professionals. In her spare time, Strickland loves attending Gator football games, Tampa Bay Lightning Hockey games, and taking hikes with her dog, Archie. 
