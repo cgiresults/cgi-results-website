@@ -50,7 +50,6 @@ City/State: Remote <br />
 ### Exhibit Sales Representative
 
 The Exhibit Sales Representative will be responsible for planning, implementing, and managing sales activities and meeting revenue goals objectives for CGi for multiple CGi-managed events simultaneously.   KPIs for this role are meeting established revenue goals for multiple events.
-
   <br />
 
 City/State: Remote <br />
@@ -60,7 +59,6 @@ City/State: Remote <br />
 ### Customer Service Associate
 
 The Customer Service Associate (CSA) is an entry-level position within a fast paced, high-performance environment. The ideal candidate will have the ability to learn quickly, retain a large amount of information for future recall, be detailed oriented, service minded, emotionally intelligent and have the ability to serve internal and external customers with empathy and compassion. This is an important position as the Customer Service Team is the face of the company.
-
   <br />
 
 City/State: Little Rock <br />
