@@ -54,7 +54,7 @@ The Exhibit Sales Representative will be responsible for planning, implementing,
   <br />
 
 City/State: Remote <br />
-
+[Job Desp - Exhibit Sales Representative (Inside Sales and Account Management)-c9e70d.pdf](/uploads/Job%20Desp%20-%20Exhibit%20Sales%20Representative%20(Inside%20Sales%20and%20Account%20Management)-c9e70d.pdf)
 <hr>
 
 ### Customer Service Associate
@@ -64,7 +64,7 @@ The Customer Service Associate (CSA) is an entry-level position within a fast pa
   <br />
 
 City/State: Little Rock <br />
-
+[Job Desp - Customer Service Associate (CSA).pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Associate%20(CSA).pdf)
 <hr>
 
 To apply, please submit a cover letter, resume and salary expectation to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
