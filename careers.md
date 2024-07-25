@@ -34,12 +34,6 @@ layout: page
 </div>
 <hr>
 
-### Director of Marketing and Communications
-
-CGi is hiring an experienced professional to operationally and strategically lead the delivery of marketing and communication services for multiple clients. Success in this position requires the ability to lead a team via prioritization/time management, brand management, and outcome achievement amidst an ever-growing workload.  Almost as important will be experience and skill in many additional areas of marketing: advertising, distribution strategy, content creation, market research and segmentation, analytics, digital/print mediums, event marketing, and some public relations.  You need to be a generalist with solid project management and analytical skills.    <br />
-
-City/State: Remote <br />
-[Job Desp - Director of Marketing and Communications.pdf](/uploads/Job%20Desp%20-%20Director%20of%20Marketing%20and%20Communications.pdf)
 
 <hr>
 ### Director of Membership and Customer Service
@@ -53,12 +47,23 @@ City/State: Remote <br />
 [Job Desp - Director of Membership-Customer Service.pdf](/uploads/Job%20Desp%20-%20Director%20of%20Membership-Customer%20Service.pdf)
 <hr>
 
-### Business Development Manager
+### Exhibit Sales Representative
 
-CGi is looking for a Business Development Manager to help expand our client portfolio with special emphasis on event management and association management services.  This role requires the ability to research and vet potential opportunities, analytical skills to create a financial/cost model, and communication skills to quickly create and present a compelling proposal.  This role will need the ability to work independently.    <br />
+The Exhibit Sales Representative will be responsible for planning, implementing, and managing sales activities and meeting revenue goals objectives for CGi for multiple CGi-managed events simultaneously.   KPIs for this role are meeting established revenue goals for multiple events.
+
+  <br />
 
 City/State: Remote <br />
-[Job Desp - Business Development Manager.pdf](/uploads/Job%20Desp%20-%20Business%20Development%20Manager.pdf)
+
+<hr>
+
+### Customer Service Associate
+
+The Customer Service Associate (CSA) is an entry-level position within a fast paced, high-performance environment. The ideal candidate will have the ability to learn quickly, retain a large amount of information for future recall, be detailed oriented, service minded, emotionally intelligent and have the ability to serve internal and external customers with empathy and compassion. This is an important position as the Customer Service Team is the face of the company.
+
+  <br />
+
+City/State: Little Rock <br />
 
 <hr>
 
