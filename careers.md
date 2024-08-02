@@ -34,19 +34,6 @@ layout: page
 </div>
 <hr>
 
-
-<hr>
-### Director of Membership and Customer Service
-
-The Director of Membership & Customer Service will lead membership and customer service for all assigned CGi clients. Scope of responsibility will include strategy, service development, operations, personnel management, and outcome/budget accountabilities. 
-
-The Director will understand, articulate, and advocate the needs of our members/customers while enhancing revenues through satisfaction, retention, and business development. The Director will help the membership and customer service teams, as well as other departments, cultivate a service-oriented culture that supports positive member/customer satisfaction and engagement.
-  <br />
-
-City/State: Remote <br />
-[Job Desp - Director of Membership-Customer Service.pdf](/uploads/Job%20Desp%20-%20Director%20of%20Membership-Customer%20Service.pdf)
-<hr>
-
 ### Exhibit Sales Representative
 
 The Exhibit Sales Representative will be responsible for planning, implementing, and managing sales activities and meeting revenue goals objectives for CGi for multiple CGi-managed events simultaneously.   KPIs for this role are meeting established revenue goals for multiple events.
