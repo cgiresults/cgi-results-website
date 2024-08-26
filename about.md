@@ -5,7 +5,7 @@ position: 4
 layout: page
 ---
 
-CGi is a full service association and events management company. Formed in 1995, we are based in Little Rock, AR, with a second office in Nashville, TN, and remote staff in Chicago and other locations. We currently have 35 staff positions and are growing rapidly. (See our [careers page](/careers/).)
+CGi is a full service association and events management company. Formed in 1995, we are based in Little Rock, AR and remote staff across the nation. We currently have 37 staff positions and are growing rapidly. (See our [careers page](/careers/).)
 
 CGi is able to provide the entire scope of association services including membership growth, accounting, marketing, data / records management, and benefits development.
 
@@ -148,10 +148,21 @@ Marissa earned her B.S. in Business Administration with a concentration in Accou
 Prior to joining CGi in October 2022, Marissa spent 9 years growing within the social services industry in the accounting and human resources fields.  At CGi, Marissa is leveraging her talents and expertise to manage and strengthen the financial health of the client organizations.
 
 ### Lorraine Strickland
-***Director, Marketing & Communications***
+***Director, Marketing and Communications***
 
 With extensive strategic marketing leadership and communications expertise, Strickland leads the CGi Marketing and Communications team.  She has served numerous organizations helping them heighten brand awareness and strengthen their strategic and digital marketing efforts. 
 
 Strickland holds a Bachelor of Science in Public Relations from the University of Florida and a Master of Arts and Science in Communications and Marketing  from Purdue University along with a number of marketing, project management and leadership certifications.  
 
 She and her husband, Wes, reside in Gainesville, Florida, and have two daughters who are also marketing and communications professionals. In her spare time, Strickland loves attending Gator football games, Tampa Bay Lightning Hockey games, and taking hikes with her dog, Archie. 
+
+### Liz Bronson
+***Director, Membership and Customer Service***
+
+Liz has more than 20 years of experience working in healthcare association management with emphasis on membership, communications, strategic planning, and governance. 
+
+As a collaborative leader, Liz thrives by enhancing professional development and leadership experiences through candid discussions, broad collaborations, and innovative solutions. Her business ethos is to deliver a top-notch customer experience. 
+
+She resides in the Chicagoland area and is a proud mom of four, including a set of twins. In her spare time, she enjoys getting lost in a good book, swimming laps, or breaking a sweat in Pilates. A dedicated concertgoer and a loyal fan of the Chicago White Sox and Chicago Bears, she also volunteers her time with organizations that support research in cancer, mental illness, and neurodiversity. 
+
+She holds a Bachelor of Science in Public Relations from Illinois State University. 
