@@ -69,7 +69,7 @@ Randall is also responsible for business development for CGi, where he creates p
 Outside of his professional life, Randall stays busy with two very active young children. He and his family enjoy almost anything that allows his family to spend time together and enjoy Tennessee outdoors. 
 
 
-### Lis Harrell
+### Lis Allen
 ***Senior Director, Product Development and Research***
 
 Elisabet ‘Lis’ Harrell joined CGi in 2015. She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
