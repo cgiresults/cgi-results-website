@@ -5,7 +5,7 @@ position: 4
 layout: page
 ---
 
-CGi is a full service association and events management company. Formed in 1995, we are based in Little Rock, AR and remote staff across the nation. We currently have 37 staff positions and are growing rapidly. (See our [careers page](/careers/).)
+CGi is a full service association and events management company. Formed in 2005, we are based in Little Rock, AR and remote staff across the nation. We currently have 37 staff positions and are growing rapidly. (See our [careers page](/careers/).)
 
 CGi is able to provide the entire scope of association services including membership growth, accounting, marketing, data / records management, and benefits development.
 
@@ -72,7 +72,7 @@ Outside of his professional life, Randall stays busy with two very active young 
 ### Lis Allen
 ***Senior Director, Product Development and Research***
 
-Elisabet ‘Lis’ Harrell joined CGi in 2015. She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
+Elisabet ‘Lis’ Allen joined CGi in 2015. She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
  
 In her current role, Lis is responsible for product and program development, including Compass Directional Training, Certification and new members services. Lis is additionally responsible for internal performance improvement and project management initiatives.    
  
@@ -113,6 +113,16 @@ Maria currently leads CGi's finance and accounting team, and oversees the financ
 Angie is a nurse leader with 30 years of experience in various healthcare settings.  She has been a leader in care management at both the state and national level and is a past president of the American Case Management Association.  Her most recent role was that of Director of Case Management for Spartanburg Regional Healthcare Systems acute care facilities and Clinical Director of Care Management for Regional HealthPlus the division responsible for accountable care. 
 
 Angie earned her Bachelor of Science in Nursing from the University of South Carolina Upstate, Spartanburg SC and Master of Science in Nursing from Gardner Webb University, Boiling Springs NC.  
+
+### Rachel Bonner
+***Director, Product Development and Meeting Management***
+
+Rachel Bonner is a dynamic and collaborative leader. She joined CGi in 2016 and has held roles in Sales, Product Development and Meeting Management. As Director of Product Development and Meeting Management, she ensures seamless operations and strategic alignment, driving success for CGi and its clients.
+
+Outside work, Rachel enjoys the outdoors in beautiful Arkansas, diving into a good book, and staying active chasing after her boys in Little Rock, AR. 
+
+Rachel holds a Bachelor’s degree in Kinesiology with a Minor in Biology from the University of Arkansas. 
+
 
 ### Shelly Greenwood
 ***Director, Exhibit Sales***
