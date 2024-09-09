@@ -43,14 +43,14 @@ City/State: Remote <br />
 [Job Desp - Exhibit Sales Representative (Inside Sales and Account Management)-c9e70d.pdf](/uploads/Job%20Desp%20-%20Exhibit%20Sales%20Representative%20(Inside%20Sales%20and%20Account%20Management)-c9e70d.pdf)
 <hr>
 
-### Customer Service Associate
+### Meeting and Event Manager
 
-The Customer Service Associate (CSA) is an entry-level position within a fast paced, high-performance environment. The ideal candidate will have the ability to learn quickly, retain a large amount of information for future recall, be detailed oriented, service minded, emotionally intelligent and have the ability to serve internal and external customers with empathy and compassion. This is an important position as the Customer Service Team is the face of the company.
+The Meeting and Event Manager will provide account management services to manage approximately 15-18 chapter conferences held across the United States throughout the year. This position will work as a team with another Meeting and Event Manager to plan, manage other national events and ad hoc client meetings and will have project management oversight for meeting and event-related tasks. 
   <br />
 
-City/State: Little Rock <br />
-[Job Desp - Customer Service Associate (CSA).pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Associate%20(CSA).pdf)
-<hr>
+City/State: Remote <br />
+
+
 
 To apply, please submit a cover letter, resume and salary expectation to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
 
