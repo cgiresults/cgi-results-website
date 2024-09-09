@@ -49,7 +49,7 @@ The Meeting and Event Manager will provide account management services to manage
   <br />
 
 City/State: Remote <br />
-
+[Job Desp - Meeting and Event Manager-637645.pdf](/uploads/Job%20Desp%20-%20Meeting%20and%20Event%20Manager-637645.pdf)
 
 
 To apply, please submit a cover letter, resume and salary expectation to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
