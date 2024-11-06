@@ -57,8 +57,6 @@ City/State: Little Rock, AR <br />
 
 Our growing company is hiring a Marketing & Communications Manager. This is a marketing generalist role and will manage projects and campaigns in many areas of marketing: Advertising, brand management, content creation, paid digital, social, email marketing, market research and some public relations.   The work involves developing great communications, building and executing project plans, managing timelines and budgets, creating and protecting our brand voice, and working simultaneously with a variety or stakeholders, in multiple channels, and for multiple clients.  
 
-  <br />
-
 City/State: Remote <br />
 [Job Desp - Marketing and Communications Manager_Current-1641f7.pdf](/uploads/Job%20Desp%20-%20Marketing%20and%20Communications%20Manager_Current-1641f7.pdf)
 
