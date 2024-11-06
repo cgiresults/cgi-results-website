@@ -10,7 +10,7 @@ layout: page
   <div class="col-md-6">
 
     <p>
-	At CGi, our mission is to create growth and strategic results for associations, businesses, meetings and events. Our team is based in Little Rock (AR),  and many other states. CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. We are growing rapidly and are always seeking talented individuals to join our team.
+	At CGi, our mission is to create growth and strategic results for associations, businesses, meetings and events. Founded in 2005, we are a small but rapidly growing company under 50 people with our headquarters in Little Rock, Arkansas and remote staff located across the nation. CGi provides an array of association and event management services, as well as educational and analytical products/services to hospitals and health system clients. We are always seeking talented individuals to join our team.
     </p>
 
     <p>
