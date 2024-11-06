@@ -63,6 +63,16 @@ Our growing company is hiring a Marketing & Communications Manager. This is a ma
 City/State: Remote <br />
 [Job Desp - Marketing and Communications Manager_Current-1641f7.pdf](/uploads/Job%20Desp%20-%20Marketing%20and%20Communications%20Manager_Current-1641f7.pdf)
 
+<hr>
+
+### Senior Web Developer
+
+We are seeking an experienced and skilled Senior Web Developer to lead and contribute to the development of our SaaS-based services and system integrations. The ideal candidate will have a strong background in full stack development, with expertise in .NET, VB, HTML/CSS, JavaScript/jQuery, MS SQL, MySQL, and AWS. Experience with Salesforce, learning management systems (LMS), and custom code is a plus. 
+ <br />
+
+City/State: Remote <br />
+[Job Desp - Senior Web Developer.pdf](/uploads/Job%20Desp%20-%20Senior%20Web%20Developer.pdf)
+
   <br />
 
 To apply, please submit a cover letter, resume and salary expectation to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
