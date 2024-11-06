@@ -52,7 +52,6 @@ The Customer Service Associate (CSA) is an entry-level position within a fast pa
 City/State: Little Rock, AR <br />
 [Job Desp - Customer Service Associate (CSA) Current.pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Associate%20(CSA)%20Current.pdf)
 
-<hr>
 
 ### Marketing and Communications Manager
 
