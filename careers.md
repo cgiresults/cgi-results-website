@@ -34,35 +34,7 @@ layout: page
 </div>
 <hr>
 
-
-<hr>
-
-### Customer Service Associate
-
-The Customer Service Associate (CSA) is an entry-level position within a fast paced, high-performance environment. The ideal candidate will have the ability to learn quickly, retain a large amount of information for future recall, be detailed oriented, service minded, and emotionally intelligent. The CSA is responsible for supporting both internal and external customers with empathy and compassion, ensuring a positive experience across every interaction. This role is critical, as the Customer Service Team serves as the face of the company. Must be reliable and timely within the business operating hours. This position requires in-office presence.
-  <br />
-
-City/State: Little Rock, AR <br />
-[Job Desp - Customer Service Associate (CSA) Current.pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Associate%20(CSA)%20Current.pdf)
-
-### Marketing and Communications Manager
-
-Our growing company is hiring a Marketing & Communications Manager. This is a marketing generalist role and will manage projects and campaigns in many areas of marketing: Advertising, brand management, content creation, paid digital, social, email marketing, market research and some public relations.   The work involves developing great communications, building and executing project plans, managing timelines and budgets, creating and protecting our brand voice, and working simultaneously with a variety or stakeholders, in multiple channels, and for multiple clients.  
-
-City/State: Remote <br />
-[Job Desp - Marketing and Communications Manager_Current-1641f7.pdf](/uploads/Job%20Desp%20-%20Marketing%20and%20Communications%20Manager_Current-1641f7.pdf)
-
-<hr>
-
-### Senior Web Developer
-
-We are seeking an experienced and skilled Senior Web Developer to lead and contribute to the development of our SaaS-based services and system integrations. The ideal candidate will have a strong background in full stack development, with expertise in .NET, VB, HTML/CSS, JavaScript/jQuery, MS SQL, MySQL, and AWS. Experience with Salesforce, learning management systems (LMS), and custom code is a plus. 
- <br />
-
-City/State: Remote <br />
-[Job Desp - Senior Web Developer.pdf](/uploads/Job%20Desp%20-%20Senior%20Web%20Developer.pdf)
-
-  <br />
+br />
 
 To apply, please submit a cover letter, resume and salary expectation to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
 
