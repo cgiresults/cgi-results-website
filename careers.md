@@ -32,13 +32,10 @@ layout: page
   </div>
 
 </div>
-<hr>
-
-br />
 
 <hr>
 
-### Associate Vice President of Professional Practice
+### Associate Vice President, Professional Practice
 The Associate Vice President of Professional Practice has responsibility and oversight for education services and content development, conference content programming, Public Policy, Research, Grant Funding, training services, and other associated leadership responsibilities within the management company, CGi. <br />
 Reports to: Senior Vice President, Client Services and Professional Practice<br />
 
