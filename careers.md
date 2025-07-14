@@ -35,22 +35,12 @@ layout: page
 
 <hr>
 
-### Associate Vice President, Professional Practice
-The Associate Vice President of Professional Practice has responsibility and oversight for education services and content development, conference content programming, Public Policy, Research, Grant Funding, training services, and other associated leadership responsibilities within the management company, CGi. <br />
-Reports to: Senior Vice President, Client Services and Professional Practice<br />
+### Exhibit Sales Representative
+The Exhibit Sales Representative will be responsible for planning, implementing, and managing sales activities and meeting revenue goals objectives for CGi for multiple CGi-managed events simultaneously.   KPIs for this role are meeting established revenue goals for multiple events. <br />
 
 Salaried, Exempt - Full Time<br />
 City/State: Remote<br />
-[Job Desp - Associate Vice President, Professional Practice.pdf](/uploads/Job%20Desp%20-%20Associate%20Vice%20President,%20Professional%20Practice.pdf)
 
-<hr>
-
-### Account Manager
-The Account Manager will strategically and operationally support multiple clients/chapters supporting their administrative inquiries, recommending strategic methods for growth/development, monitoring/ensuring compliance with national policies and overseeing the planning and delivery of their annual meetings. They will build and foster relationships with client leaders and strategically assist with committee appointments and board succession planning. They will also periodically oversee the development of training, leadership tools, resources, and programs. They will be responsible for Conferences held across the United States throughout the year in addition to the National or Leadership and Physician Advisor Conference. This position will work as a team with another Account Manager to plan, manage other national events and ad hoc client meetings. <br />
-
-Salaried, Exempt - Full Time<br />
-City/State: Remote<br />
-[Job Desp - Account Manager.pdf](/uploads/Job%20Desp%20-%20Account%20Manager.pdf)
 
 <hr>
 
