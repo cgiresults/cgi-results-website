@@ -40,7 +40,16 @@ The Exhibit Sales Representative will be responsible for planning, implementing,
 
 Salaried, Exempt - Full Time<br />
 City/State: Remote<br />
+[Job Desp - Exhibit Sales Representative (Inside Sales and Account Management)-f5610d.pdf](/uploads/Job%20Desp%20-%20Exhibit%20Sales%20Representative%20(Inside%20Sales%20and%20Account%20Management)-f5610d.pdf)
 
+<hr>
+
+### Executive Assistant to the CEO
+The Executive Assistant is responsible for providing effective administrative and personal support for the CEO using excellent planning/time management, organizational skills, communication skills, internal and external customer service/management and ensuring company branding in all representation of the CEO.   <br />
+
+Salaried, Exempt - Full Time<br />
+City/State: Hybrid<br />
+[Job Desp - Executive Assistant-f80129.pdf](/uploads/Job%20Desp%20-%20Executive%20Assistant-f80129.pdf)
 
 <hr>
 
