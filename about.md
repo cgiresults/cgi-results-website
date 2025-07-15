@@ -5,7 +5,7 @@ position: 4
 layout: page
 ---
 
-CGi is a full service association and events management company. Formed in 2005, we are based in Little Rock, AR and remote staff across the nation. We currently have 37 staff positions and are growing rapidly. (See our [careers page](/careers/).)
+CGi is a full service association and events management company. Formed in 2005, we are based in Little Rock, AR and remote staff across the nation. We currently have 40 staff positions and are growing rapidly. (See our [careers page](/careers/).)
 
 CGi is able to provide the entire scope of association services including membership growth, accounting, marketing, data / records management, and benefits development.
 
@@ -72,11 +72,11 @@ Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Li
 ### Christy Lund
 ***Vice President, Human Resources***
 
-Christy earned a B.A. Public Relations with minor in Marketing from Southern Methodist University (SMU). She joined CGI in September 2017, as Director of Human Resources. 
+Christy earned a B.A. Public Relations with minor in Marketing from Southern Methodist University (SMU). She joined CGi in September 2017.
 
-With over 25 years of experience in human resources, employee relations and operations management, Christy has devoted her professional life to “finding the best…and most importantly keeping the best” as it is her career mission to be a successful career “match-maker” to ensure a collaborative and caring connectivity between all parties. 
+With over 30 years of experience in human resources, employee relations, and operations management, Christy has devoted her professional life to “finding the best…and most importantly keeping the best” as it is her career mission to be a successful career “match-maker” to ensure a collaborative and caring connectivity between all parties. 
 
-Outside of work, Christy enjoys spending time with her family and friends, gardening, volunteering, interior decorating and living life to its fullest. After 25 years in the San Francisco Bay Area, Christy happily returned to her original hometown of Little Rock to embrace her time with family and friends and raise her daughter as a Southern belle. As she often quotes…in the words of Dorothy (Wizard of OZ), “There’s no place like home!”
+Outside of work, Christy enjoys spending time with her family and friends, gardening, traveling, volunteering, interior decorating and living life to its fullest. After 25 years in the San Francisco Bay Area, Christy happily returned to her original hometown of Little Rock to embrace her time with family and friends and raise her daughter as a Southern belle. As she often quotes…in the words of Dorothy (Wizard of OZ), “There’s no place like home!”
 
 
 ### Becky Nations
@@ -166,3 +166,17 @@ As a collaborative leader, Liz thrives by enhancing professional development and
 She resides in the Chicagoland area and is a proud mom of four, including a set of twins. In her spare time, she enjoys getting lost in a good book, swimming laps, or breaking a sweat in Pilates. A dedicated concertgoer and a loyal fan of the Chicago White Sox and Chicago Bears, she also volunteers her time with organizations that support research in cancer, mental illness, and neurodiversity. 
 
 She holds a Bachelor of Science in Public Relations from Illinois State University. 
+
+### Kelli Lynch, PhD, LMSW
+***Associate Vice President***
+
+Kelli brings over two decades of experience at the intersection of civil rights, social science, health care, and public service. She earned her MSW at the University of New England and PhD from The University of Alabama. Her professional journey spans roles in the federal government, higher education, and involvement in national and international research initiatives. 
+
+Outside of her professional life, she spends time with her family, friends, and Jack Russell Terrier. She enjoys Alabama football and reading. Kelli is located in the Atlanta, GA metro. 
+
+### Kristy Neff, MSN, MBA, RN, CCM 
+***Associate Vice President***
+
+Kristy holds both a Master of Science in Nursing (MSN) and a Master of Business Administration (MBA), bringing over 20 years of extensive leadership experience in case management from both the health plan and provider perspectives.  She joined CGI in 2023 as a Clinical Consultant supporting both our Acuocare and ACMA/ACTS clients. 
+
+Beyond her professional life, Kristy is a proud mom of four that’s spends all her free time attending kids sporting events and traveling with her husband. 
