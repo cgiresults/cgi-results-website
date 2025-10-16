@@ -35,18 +35,13 @@ layout: page
 
 <hr>
 
-### Executive Assistant to the CEO
-The Executive Assistant is responsible for providing effective administrative and personal support for the CEO using excellent planning/time management, organizational skills, communication skills, internal and external customer service/management and ensuring company branding in all representation of the CEO.   <br />
-
-Salaried, Exempt - Full Time<br />
-City/State: Hybrid<br />
-[Job Desp - Executive Assistant-f80129.pdf](/uploads/Job%20Desp%20-%20Executive%20Assistant-f80129.pdf)
-<hr>
-### Staff Accountant
-The Staff Accountant is responsible for supporting the finance and accounting team by maintaining accurate financial records, preparing reports, and ensuring compliance with accounting principles and company policies.  <br />
-Salaried, Non-Exempt - Full Time<br />
-City/State: Remote<br />
-[Job Desp - Staff Accountant.pdf](/uploads/Job%20Desp%20-%20Staff%20Accountant.pdf)
+### Customer Service Associate
+The Customer Service Team is the face of the company and delivers high‑quality, high‑volume support to both internal and external customers. 
+The Customer Service Associate (CSA) handles a high volume of inbound calls and emails, processes payments, and provides basic technical support for customer-facing platforms. The CSA documents every interaction in the CRM, meets company service level agreements (SLAs) for next-business-day response times and escalates complex issues as needed.  Success requires quick learning, knowledge retention, attention to detail, empathy, and consistent follow-through. 
+  <br />
+Hourly, Non-Exempt - Full Time<br />
+City/State: Little Rock <br />
+[Job Desp - Customer Service Associate (CSA) - Current.pdf](/uploads/Job%20Desp%20-%20Customer%20Service%20Associate%20(CSA)%20-%20Current.pdf)
 <hr>
 
 To apply, please submit a cover letter, resume and salary expectation to Christy Lund - Vice President, Human Resources at clund@cgiresults.com
