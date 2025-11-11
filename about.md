@@ -44,6 +44,19 @@ Greg created the first hospital case management conference in the U.S., which ha
 
 Greg founded CGi in 2005.
 
+### Angie Roberson, MSN, ACM-RN
+***Senior Vice President, Client Services & Professional Practice***
+
+Angie is a nurse leader with 30 years of experience in various healthcare settings. She has been a leader in care management at both the state and national level and is a past president of the American Case Management Association. Her most recent role was that of Director of Case Management for Spartanburg Regional Healthcare Systems acute care facilities and Clinical Director of Care Management for Regional HealthPlus the division responsible for accountable care.
+Angie earned her Bachelor of Science in Nursing from the University of South Carolina Upstate, Spartanburg SC and Master of Science in Nursing from Gardner Webb University, Boiling Springs NC.
+
+### Maria Velasco Salling, MBA
+***Senior Vice President, Finance and Information Technology***
+
+Maria holds a Bachelors degree from Harding University, and earned her MBA from the University of Arkansas at Little Rock (UALR).
+Maria joined CGi in 2006, coming from a background in hotel and hospitality management. This provided her a core understanding of events management – both the production of a successful event and how to make an event financially successful. She leveraged this background to successfully lead CGi’s events management team for several years.
+Maria currently leads CGi’s finance and accounting team, and oversees the financial health of CGi’s client organizations. She is based in Little Rock, AR.
+
 
 ### Randall Archer, MBA
 ***Vice President, Sales and Marketing***
@@ -58,17 +71,6 @@ Randall is also responsible for business development for CGi, where he creates p
 
 Outside of his professional life, Randall stays busy with two very active young children. He and his family enjoy almost anything that allows his family to spend time together and enjoy Tennessee outdoors. 
 
-
-### Lis Allen
-***Senior Director, Product Development and Research***
-
-Elisabet ‘Lis’ Allen joined CGi in 2015. She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
- 
-In her current role, Lis is responsible for product and program development, including Compass Directional Training, Certification and new members services. Lis is additionally responsible for internal performance improvement and project management initiatives.    
- 
-Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Little Rock, AR.
-
-
 ### Christy Lund
 ***Vice President, Human Resources***
 
@@ -77,7 +79,6 @@ Christy earned a B.A. Public Relations with minor in Marketing from Southern Met
 With over 30 years of experience in human resources, employee relations, and operations management, Christy has devoted her professional life to “finding the best…and most importantly keeping the best” as it is her career mission to be a successful career “match-maker” to ensure a collaborative and caring connectivity between all parties. 
 
 Outside of work, Christy enjoys spending time with her family and friends, gardening, traveling, volunteering, interior decorating and living life to its fullest. After 25 years in the San Francisco Bay Area, Christy happily returned to her original hometown of Little Rock to embrace her time with family and friends and raise her daughter as a Southern belle. As she often quotes…in the words of Dorothy (Wizard of OZ), “There’s no place like home!”
-
 
 ### Becky Nations
 ***Vice President, Membership, Continuous Improvement and Customer Service***
@@ -88,21 +89,29 @@ Becky earned her Bachelors degree from the University of South Alabama in Mobile
 
  “You have to stand outside the box to see how the box can be re-designed. --Charles Handy”
 
-### Maria Velasco Salling, MBA
-***Senior Vice President, Finance and Information Technology***
+### Kelli Lynch, PhD, LMSW
+***Associate Vice President***
 
-Maria holds a Bachelors degree from Harding University, and earned her MBA from the University of Arkansas at Little Rock (UALR).
+Kelli brings over two decades of experience at the intersection of civil rights, social science, health care, and public service. She earned her MSW at the University of New England and PhD from The University of Alabama. Her professional journey spans roles in the federal government, higher education, and involvement in national and international research initiatives. 
 
-Maria joined CGi in 2006, coming from a background in hotel and hospitality management. This provided her a core understanding of events management - both the production of a successful event and how to make an event financially successful. She leveraged this background to successfully lead CGi's events management team for several years.
+Outside of her professional life, she spends time with her family, friends, and Jack Russell Terrier. She enjoys Alabama football and reading. Kelli is located in the Atlanta, GA metro. 
 
-Maria currently leads CGi's finance and accounting team, and oversees the financial health of CGi's client organizations. She is based in Little Rock, AR.
+### Kristy Neff, MSN, MBA, RN, CCM 
+***Associate Vice President***
 
-### Angie Roberson, MSN, ACM-RN 
-***Senior Vice President, Client Services & Professional Practice***
+Kristy holds both a Master of Science in Nursing (MSN) and a Master of Business Administration (MBA), bringing over 20 years of extensive leadership experience in case management from both the health plan and provider perspectives.  She joined CGI in 2023 as a Clinical Consultant supporting both our Acuocare and ACMA/ACTS clients. 
 
-Angie is a nurse leader with 30 years of experience in various healthcare settings.  She has been a leader in care management at both the state and national level and is a past president of the American Case Management Association.  Her most recent role was that of Director of Case Management for Spartanburg Regional Healthcare Systems acute care facilities and Clinical Director of Care Management for Regional HealthPlus the division responsible for accountable care. 
+Beyond her professional life, Kristy is a proud mom of four that’s spends all her free time attending kids sporting events and traveling with her husband. 
 
-Angie earned her Bachelor of Science in Nursing from the University of South Carolina Upstate, Spartanburg SC and Master of Science in Nursing from Gardner Webb University, Boiling Springs NC.  
+
+### Elisabet "Lis" Allen
+***Senior Director, Product Development and Research***
+
+Elisabet ‘Lis’ Allen joined CGi in 2015. She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
+ 
+In her current role, Lis is responsible for product and program development, including Compass Directional Training, Certification and new members services. Lis is additionally responsible for internal performance improvement and project management initiatives.    
+ 
+Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Little Rock, AR.
 
 ### Rachel Bonner
 ***Director, Product Development and Meeting Management***
@@ -121,6 +130,14 @@ Shelly began her professional event management career in 1997, working for a sma
 
 Shelly has her bachelor’s degree in business administration from the University of Arkansas at Little Rock in Little Rock, AR. In her spare time, she likes to spend time with her adult children. She enjoys a healthy lifestyle and has completed 6 half marathons. Shelly is a charter member of The Summit Church Little Rock where she serves as the childcare ministry director. Shelly is a lifelong learner and enjoys reading to continue to learn and grow. She is an Arkansas transplant and considers Little Rock her hometown.
 
+### Lorraine Strickland
+***Director, Marketing and Communications***
+
+With extensive strategic marketing leadership and communications expertise, Strickland leads the CGi Marketing and Communications team.  She has served numerous organizations helping them heighten brand awareness and strengthen their strategic and digital marketing efforts. 
+
+Strickland holds a Bachelor of Science in Public Relations from the University of Florida and a Master of Arts and Science in Communications and Marketing  from Purdue University along with a number of marketing, project management and leadership certifications.  
+
+She and her husband, Wes, reside in Gainesville, Florida, and have two daughters who are also marketing and communications professionals. In her spare time, Strickland loves attending Gator football games, Tampa Bay Lightning Hockey games, and taking hikes with her dog, Archie. 
 
 ### Michelle Murphey Porter, CAE
 ***Director, Association and Client Services***
@@ -146,37 +163,3 @@ Kristian resides in Florida and enjoys spending time outdoors and on the water.
 Marissa earned her B.S. in Business Administration with a concentration in Accounting from University of Nebraska at Omaha and Master of Science in Accountancy from St. Mary’s University of Minnesota.  After years of working in the Not-For-Profit industry, she became a Certified Nonprofit Accounting Professional.  
 
 Prior to joining CGi in October 2022, Marissa spent 9 years growing within the social services industry in the accounting and human resources fields.  At CGi, Marissa is leveraging her talents and expertise to manage and strengthen the financial health of the client organizations.
-
-### Lorraine Strickland
-***Director, Marketing and Communications***
-
-With extensive strategic marketing leadership and communications expertise, Strickland leads the CGi Marketing and Communications team.  She has served numerous organizations helping them heighten brand awareness and strengthen their strategic and digital marketing efforts. 
-
-Strickland holds a Bachelor of Science in Public Relations from the University of Florida and a Master of Arts and Science in Communications and Marketing  from Purdue University along with a number of marketing, project management and leadership certifications.  
-
-She and her husband, Wes, reside in Gainesville, Florida, and have two daughters who are also marketing and communications professionals. In her spare time, Strickland loves attending Gator football games, Tampa Bay Lightning Hockey games, and taking hikes with her dog, Archie. 
-
-### Liz Bronson
-***Director, Membership and Customer Service***
-
-Liz has more than 20 years of experience working in healthcare association management with emphasis on membership, communications, strategic planning, and governance. 
-
-As a collaborative leader, Liz thrives by enhancing professional development and leadership experiences through candid discussions, broad collaborations, and innovative solutions. Her business ethos is to deliver a top-notch customer experience. 
-
-She resides in the Chicagoland area and is a proud mom of four, including a set of twins. In her spare time, she enjoys getting lost in a good book, swimming laps, or breaking a sweat in Pilates. A dedicated concertgoer and a loyal fan of the Chicago White Sox and Chicago Bears, she also volunteers her time with organizations that support research in cancer, mental illness, and neurodiversity. 
-
-She holds a Bachelor of Science in Public Relations from Illinois State University. 
-
-### Kelli Lynch, PhD, LMSW
-***Associate Vice President***
-
-Kelli brings over two decades of experience at the intersection of civil rights, social science, health care, and public service. She earned her MSW at the University of New England and PhD from The University of Alabama. Her professional journey spans roles in the federal government, higher education, and involvement in national and international research initiatives. 
-
-Outside of her professional life, she spends time with her family, friends, and Jack Russell Terrier. She enjoys Alabama football and reading. Kelli is located in the Atlanta, GA metro. 
-
-### Kristy Neff, MSN, MBA, RN, CCM 
-***Associate Vice President***
-
-Kristy holds both a Master of Science in Nursing (MSN) and a Master of Business Administration (MBA), bringing over 20 years of extensive leadership experience in case management from both the health plan and provider perspectives.  She joined CGI in 2023 as a Clinical Consultant supporting both our Acuocare and ACMA/ACTS clients. 
-
-Beyond her professional life, Kristy is a proud mom of four that’s spends all her free time attending kids sporting events and traveling with her husband. 
