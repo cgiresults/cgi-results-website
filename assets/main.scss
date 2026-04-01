@@ -1,5 +1,7 @@
 ---
 ---
 
-body
-  color: red
+@charset 'utf-8';
+@import "_variables";
+@import "bootstrap";
+@import "components/_base.scss";
