@@ -10,7 +10,9 @@ GEM
       popper_js (>= 1.12.9, < 2)
       sass (>= 3.5.2)
     colorator (1.1.0)
+    concurrent-ruby (1.1.10)
     execjs (2.7.0)
+    ffi (1.9.23)
     ffi (1.9.23-x64-mingw32)
     ffi (1.9.23-x86-mingw32)
     forwardable-extended (2.6.0)
@@ -53,13 +55,13 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    thread_safe (0.3.6)
-    tzinfo (1.2.5)
-      thread_safe (~> 0.1)
+    tzinfo (2.0.5)
+      concurrent-ruby (~> 1.0)
     tzinfo-data (1.2018.4)
       tzinfo (>= 1.0.0)
 
 PLATFORMS
+  ruby
   x64-mingw32
   x86-mingw32
 
