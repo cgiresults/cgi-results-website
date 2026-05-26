@@ -90,14 +90,14 @@ Becky earned her Bachelors degree from the University of South Alabama in Mobile
  “You have to stand outside the box to see how the box can be re-designed. --Charles Handy”
 
 ### Kelli Lynch, PhD, LMSW
-***Associate Vice President***
+***Associate Vice President, Professional Practice***
 
 Kelli brings over two decades of experience at the intersection of civil rights, social science, health care, and public service. She earned her MSW at the University of New England and PhD from The University of Alabama. Her professional journey spans roles in the federal government, higher education, and involvement in national and international research initiatives. 
 
 Outside of her professional life, she spends time with her family, friends, and Jack Russell Terrier. She enjoys Alabama football and reading. Kelli is located in the Atlanta, GA metro. 
 
 ### Kristy Neff, MSN, MBA, RN, CCM 
-***Associate Vice President***
+***Associate Vice President, Professional Practice***
 
 Kristy holds both a Master of Science in Nursing (MSN) and a Master of Business Administration (MBA), bringing over 20 years of extensive leadership experience in case management from both the health plan and provider perspectives.  She joined CGI in 2023 as a Clinical Consultant supporting both our Acuocare and ACMA/ACTS clients. 
 
@@ -105,7 +105,7 @@ Beyond her professional life, Kristy is a proud mom of four that’s spends all 
 
 
 ### Elisabet "Lis" Allen
-***Senior Director, Product Development and Research***
+***Senior Director, Technology Platforms***
 
 Elisabet ‘Lis’ Allen joined CGi in 2015. She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
  
@@ -114,7 +114,7 @@ In her current role, Lis is responsible for product and program development, inc
 Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Little Rock, AR.
 
 ### Rachel Bonner
-***Director, Product Development and Meeting Management***
+***Director, Certification and Project Management***
 
 Rachel Bonner is a dynamic and collaborative leader. She joined CGi in 2016 and has held roles in Sales, Product Development and Meeting Management. As Director of Product Development and Meeting Management, she ensures seamless operations and strategic alignment, driving success for CGi and its clients.
 
@@ -140,7 +140,7 @@ Strickland holds a Bachelor of Science in Public Relations from the University o
 She and her husband, Wes, reside in Gainesville, Florida, and have two daughters who are also marketing and communications professionals. In her spare time, Strickland loves attending Gator football games, Tampa Bay Lightning Hockey games, and taking hikes with her dog, Archie. 
 
 ### Michelle Murphey Porter, CAE
-***Director, Association and Client Services***
+***Executive Director, Client Services***
 
 Michelle earned a B.A. in English with a minor in psychology from the University of Montevallo in Montevallo, AL. She joined CGi in November 2019 as the Director of Certification.
 
