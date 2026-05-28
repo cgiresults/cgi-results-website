@@ -171,3 +171,13 @@ With more than 15 years at CGi, Michele Alexander has established herself as a t
 Michele excels at fostering strong, collaborative relationships with clients, internal teams, and event participants alike. Her strategic approach, attention to detail, and commitment to excellence ensure that each program is delivered with precision and professionalism.
 
 Outside of her professional responsibilities, Michele enjoys exploring the outdoors and traveling, pursuits that continually inspire her creativity and fresh perspective.
+
+### Leighann Staggers
+***Director, Customer and Member Services***
+
+Leighann brings over 20 years of leadership experience in the customer service and call center industry. Throughout her career, she has successfully built and developed high-performing teams across both healthcare logistics and telecommunications customer care environments.
+
+Based in Little Rock, Arkansas, Leighann is known for her strong focus on team development and delivering exceptional customer experiences. 
+
+Outside of work, Leighann enjoys spending quality time with family and friends, discovering a great TV series, and taking on creative DIY projects.
+
