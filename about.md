@@ -89,14 +89,14 @@ Becky earned her Bachelors degree from the University of South Alabama in Mobile
 
  “You have to stand outside the box to see how the box can be re-designed. --Charles Handy”
 
-### Kelli Lynch, PhD, LMSW
+### Kelli Lynch, PhD, LMSW, ACM-SW
 ***Associate Vice President, Professional Practice***
 
 Kelli brings over two decades of experience at the intersection of civil rights, social science, health care, and public service. She earned her MSW at the University of New England and PhD from The University of Alabama. Her professional journey spans roles in the federal government, higher education, and involvement in national and international research initiatives. 
 
 Outside of her professional life, she spends time with her family, friends, and Jack Russell Terrier. She enjoys Alabama football and reading. Kelli is located in the Atlanta, GA metro. 
 
-### Kristy Neff, MSN, MBA, RN, CCM 
+### Kristy Neff, MSN, MBA, RN, CCM, ACM-RN
 ***Associate Vice President, Professional Practice***
 
 Kristy holds both a Master of Science in Nursing (MSN) and a Master of Business Administration (MBA), bringing over 20 years of extensive leadership experience in case management from both the health plan and provider perspectives.  She joined CGI in 2023 as a Clinical Consultant supporting both our Acuocare and ACMA/ACTS clients. 
@@ -163,3 +163,11 @@ Kristian resides in Florida and enjoys spending time outdoors and on the water.
 Marissa earned her B.S. in Business Administration with a concentration in Accounting from University of Nebraska at Omaha and Master of Science in Accountancy from St. Mary’s University of Minnesota.  After years of working in the Not-For-Profit industry, she became a Certified Nonprofit Accounting Professional.  
 
 Prior to joining CGi in October 2022, Marissa spent 9 years growing within the social services industry in the accounting and human resources fields.  At CGi, Marissa is leveraging her talents and expertise to manage and strengthen the financial health of the client organizations.
+
+### Michele Alexander
+***Director, Meeting Management***
+
+With more than 15 years at CGi, Michele Alexander has established herself as a trusted leader known for her ability to bring structure, composure, and innovative thinking to every event she manages. In her role as Director of Meeting Management, she is responsible for designing and executing seamless, high-impact experiences that consistently exceed expectations.
+Michele excels at fostering strong, collaborative relationships with clients, internal teams, and event participants alike. Her strategic approach, attention to detail, and commitment to excellence ensure that each program is delivered with precision and professionalism.
+
+Outside of her professional responsibilities, Michele enjoys exploring the outdoors and traveling, pursuits that continually inspire her creativity and fresh perspective.
