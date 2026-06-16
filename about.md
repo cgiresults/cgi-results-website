@@ -107,11 +107,13 @@ Beyond her professional life, Kristy is a proud mom of four that’s spends all 
 ### Elisabet "Lis" Allen
 ***Senior Director, Technology Platforms***
 
-Elisabet ‘Lis’ Allen joined CGi in 2015. She has 20+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
- 
-In her current role, Lis is responsible for product and program development, including Compass Directional Training, Certification and new members services. Lis is additionally responsible for internal performance improvement and project management initiatives.    
- 
-Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Little Rock, AR.
+Elisabet “Lis” Allen has been with CGi since 2013 and currently serves as Senior Director, Technology Platforms. In this role, she leads strategic technology initiatives and platform development efforts that support organizational growth, operational efficiency, and client experience.
+
+Over the course of her career at CGi, Lis has played a key role in developing, implementing, and refining a wide range of technology platforms, operational systems, and member-facing programs. Her experience spans product development, certification management, project management, continuous improvement, web development, and meeting management, giving her a broad operational perspective and a strong focus on building scalable, user-centered solutions.
+
+Prior to joining CGi, Lis built extensive experience across multiple industries, including SaaS product development, compliance management, human resources services, member-based program administration, organizational certification and accreditation programs, and eLearning development.
+
+Lis holds a Bachelor of Arts in Biology from Hendrix College in Conway, Arkansas, and is based in Little Rock, Arkansas.
 
 ### Rachel Bonner
 ***Director, Certification and Project Management***
