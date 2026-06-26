@@ -28,4 +28,6 @@ url:
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-plugins: 
+plugins:
+- jekyll-feed
+- bootstrap
