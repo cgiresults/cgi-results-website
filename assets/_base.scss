@@ -1,0 +1,107 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Push body above sticky footer */
+  margin-bottom: 84px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.navbar {
+  border-bottom: 4px solid theme-color("primary");
+}
+
+.jumbotron {
+  background-size: cover;
+  background-position: center;
+
+  p {
+    font-size: 18px;
+  }
+
+  .btn-outline-light {
+    &:hover {
+      background-color: theme-color("primary");
+    }
+  }
+}
+
+.jumbotron-overlay {
+  padding: 20px 0;
+  min-height: 500px;
+}
+
+// TODO: remove this once merged into beta
+.position-relative {
+  position: relative;
+}
+
+a.show-on-hover {
+  text-decoration: none;
+  transition: all 0.3s;
+  opacity: 0;
+  &:hover {
+    opacity: 1;
+    background-color: rgba(theme-color("primary"),.5);
+  }
+}
+
+.post-title {
+  position: relative;
+}
+
+.post-title:after {
+  content: '';
+  position: absolute;
+  height: 4px;
+  width: 100px;
+  left: 50%;
+  bottom: -20px;
+  margin-left: -50px;
+  background-color: #ccc;
+}
+
+.post-content {
+  blockquote p {
+    font-size: 1.4rem;
+  }
+  p {
+    font-size: 1rem;
+  }
+}
+
+.site-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 84px;
+  border-top: 2px solid $gray-500;
+  background-color: $gray-900;
+  font-size: 12px;
+}
+
+.social-media-list {
+  padding-left: 0;
+  list-style-type: none;
+
+  li {
+    display: inline-block;
+    margin-left: 5px;
+  }
+
+  .fa {
+    font-size: 34px;
+    color: $gray-600;
+    transition: color 0.3s;
+
+    &:hover {
+      color: $white;
+    }
+  }
+}
