@@ -47,7 +47,7 @@ a.show-on-hover {
   opacity: 0;
   &:hover {
     opacity: 1;
-    background-color: rgba(theme-color("primary"),.5);
+    background-color: rgba(var(--bs-primary-rgb), 0.5);
   }
 }
 
